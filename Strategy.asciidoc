@@ -1,1 +1,51 @@
 == Strategy
+
+On August 11th 2020, MicroStrategy was the first publicly traded company to use Bitcoin as a treasury asset. Additional operating companies followed this pioneer and we count now over 30 listed companies that have invested cash to over 200,000 bitcoins. 
+
+.Table of companies that purchased Bitcoin
+|===
+|Entity
+|Country
+|Exchange Symbol
+|# of BTC
+|Value
+|% of 21m
+
+|MicroStrategy
+|US
+|MSTR:NADQ
+|Filing
+|92,079
+|$3,125,525,423
+|0.438%
+
+|Tesla, Inc
+|US
+|TSLA:NADQ
+|Filing
+|42,902
+|$1,456,263,553
+|0.204%
+
+|Tesla, Inc
+|US
+|TSLA:NADQ
+|Filing
+|42,902
+|$1,456,263,553
+|0.204%
+
+|===
+
+Source: https://www.buybitcoinworldwide.com/treasuries/
+
+As said Michael Saylor, Bitcoin can:“provide the opportunity for better returns and preserve the value of our capital over time compared to holding cash.” footnote:[https://www.microstrategy.com/en/company/company-videos/microstrategy-announces-over-1b-in-total-bitcoin-purchases-in-2020/]
+
+There are a variety of additional reasons why a company would add crypto-assets on its balance sheet:
+
+*	Using crypto-assets as an hedge against inflation, thanks to the inverted correlation of this asset class with fiat currencies depreciation
+*	Using crypto-assets as an asymmetric risk return (trading)
+*	Using crypto-assets for portfolio diversification as this new asset class improves the shape ratio
+*	Using crypto-assets for long term investment (store of value) similar to gold
+
+Having said that, we shouldn’t underestimate the numerous inherent risks. We will cover later in this document the key controls (COSO) that corporate/treasury departments should put in place before investing in Bitcoin and other crypto currencies. 
