@@ -1,1 +1,239 @@
-== Chapter 3: Controls
+== Chapter 3: Risks & controls
+
+
+=== Risk policy & governance
+
+The C-level, the treasurer, and the Board of Directors of a company are usually setting a risk policy, also called risk mandate or risk limit (being the policy set by an organisation to cap the exposure to certain assets), based on the nature of acceptable financial instruments to be used for treasury functions. Those instruments are assessed in terms of risk profile, daily operation such as payments, debt management, raising funds, and how they can ultimately facilitate trade, customer interaction, payroll, cross border transfers and so on. 
+
+=== Risk mitigation
+
+// Why do we need to think about risks and mitigations?
+// More introduction needed here and an explanation of COSO5 framework.
+// Also need to explain rank, impact, probability scores.
+
+While using Bitcoin for treasury seems appealing to more and more companies, the right risk measures need to be put in place, as well as the right risk tolerance levels, for it to be worthwhile pursuing this type of investment. The COSO framework is helpful and a particular attention should be around regulation and tax/accounting rules surrounding digital assets as those two are still evolving.
+
+The COSO footnote:[https://i-sight.com/resources/coso-framework-what-it-is-and-how-to-use-it/] framework footnote:[Committee of Sponsoring Organizations of the Treadway Commission, Internal Control—Integrated Framework, May 2013] is helpful in identifying relevant risks and determining appropriate control activities. Here are some areas companies may look at:
+
+==== Reputational risk
+
+[cols="1,1,1,1"]
+|===
+|Risk score
+|Rank
+|Impact
+|Probability
+
+|3/5
+|4th
+|Medium
+|High
+|===
+
+*_Description_*:
+
+Reputational risk corresponds to a threat or danger to standing of a business/entity or to its name.
+There are different type of tokens with some tokens being anonymous or missing proper due diligence and represent a reputational risk.
+The adoption of crypto-assets is still in its infancy and hold a bad reputation due to former money laundering activities and excessive electric consumption making them a none eco-friendly investment.
+
+While regulations across the world are in the making, they are still unclear. 
+Crypto-assets are considered most of the time as part of none financial risks and hold a reputational risk when using them as treasury tools for the above mentioned elements.
+
+*_Mitigants_*:
+
+The companies should assess the impact to its current reputation relatively to the rest of its activity.
+It is also necessary to maintain a good investor relationship and transparency with crypto-assets.
+A company could limit itself to best known token such as Bitcoin or Ether.
+
+==== Operational risk
+
+[cols="1,1,1,1"]
+|===
+|Risk score
+|Rank
+|Impact
+|Probability
+
+|5/5
+|2nd
+|High
+|Medium
+|===
+
+*_Description_*:
+
+Operational risk summarizes the uncertainties and hazards a company faces when it attempts to do its day-to-day business activities within a given field or industry.
+The crypto related services are often offered by startups with lower standards than financial institutions creating various operational risks and fraud.
+Therefore crypto transfers and custody create some operational risks.
+This is especially true as blockchain is a new technology with a certain technical complexity.
+Employees have often a digital assets illiteracy driving them to mistakes. 
+Another risk is the lack of resilience of the system and the services can be unavailable for several hours creating an operational risk.
+Last but not least, other department such as audit committee need also to be trained to identify and assess risks in a proper manner.
+
+*_Mitigants_*:
+
+Some control environment needs to be put in place.
+For instance, the company could employ additional employees with digital assets experience and use external auditors.
+Another good practice is to set a new product committee and define the policies/procedures to be followed.  
+
+==== Technological risk
+
+[cols="1,1,1,1"]
+|===
+|Risk score
+|Rank
+|Impact
+|Probability
+
+|4/5
+|3rd
+|Medium
+|High
+|===
+
+*_Description_*:
+
+Technology risk is any potential for technology failures to disrupt the company business such as information security incidents or service outages. 
+There are different underlying blockchains supporting different crypto-assets.
+This has an impact in term of decentralisation of governance, resilience of the blockchain and its operating model / consensus mechanism.
+Specific IT practices need to be in place to address data management and data privacy.
+
+_Decentralisation of governance_: Public blockchains are usually decentralized by nature.
+However certain blockchain/protocol use governance tokens for decision making, and we saw some attempts to buy/loan those governance token (via flash loans) in an attempt to influence the voting/governance.
+
+_Resilience of the blockchain_: For instance, Ethereum had multiple outages in the past due to congestion of its blockchain related to DeFi transaction around CryptoKitties or DeFi protocols.
+It tranlasted in service being unavailable for hours.
+
+_Consensus mechanism_: For instance, Bitcoin is decentralized by design but the four biggest miners involved in Bitcoin proof of work mechanism represents more than 50% of the hash power of all the minors. In other terms, if they were to collude, they could maliciously manipulate the ledger. 
+
+_Fork_: In the past Blockchain saw a duplication of its blockchain, called forking, implying a division of its community. It was the case with Bitcoin and Bitcoin cash.
+
+_Other technical risks_: blockchain involved other type of attacks such as DDOS attack, 51% attack, Sybille attack on a node… not to mention the risk of seeing its wallet being hacked or just losing the private key (an equivalent of losing a pincode of its wallet)
+
+*_Mitigants_*:
+
+Overall, we recommend well established blockchain such as Bitcoin with clear governance and proven resilience as Bitcoin blockchain has never been hacked or down since its inception.
+Having tech savvy employee is also a must and/or companies should involve external consultants.
+
+==== Counterparty risk (Custody)
+
+[cols="1,1,1,1"]
+|===
+|Risk score
+|Rank
+|Impact
+|Probability
+
+|2/5
+|5th
+|Low
+|Low
+|===
+
+*_Description_*:
+
+Counterparty risk is the likelihood or probability that one of those involved in a transaction might default on its contractual obligation.
+A company is usually facing a counterparty in the presence of custodian/exchange which is taking care of the wallet or holding the assets on its behalf. 
+In fact, companies have to choose between self-custody, meaning handling their wallets and private keys themselves to safekeep their digital assets or use a third party to do it. Both solutions hold technical risks (hacking, hard fork, loss of keys…) but the custodial approach, although operationally safer, presents a counterparty risk in case this intermediary defaults. 
+
+On top of checking the credit risk of this intermediary, it is also necessary to verify that transactions are processed in a properly controlled manner.
+
+*_Mitigant_*: 
+
+A new approach of decentralized cutody is now available thank to MPC (Multi Parties Computation). The company is controlling its own wallet but the management of the private key is split beween several actors reducing the counterparty risk.
+In case of a centralized custody/exchange, the company should prefer a reputable party, secured by SOC 2 certification and ideally insured against theft.
+
+==== Risk of Fraud
+
+[cols="1,1,1,1"]
+|===
+|Risk score
+|Rank
+|Impact
+|Probability
+
+|2/5
+|6th
+|Low
+|Low
+|===
+
+*_Description_*:
+
+Risk of Fraud involves deceit with the intention to illegally or unethically gain at the expense of another. When one person is given the sole responsibility of two conflicting tasks the risk of fraud increases. 
+The company needs to setup appropriate segregation of duties internally as well as among its partners in order to dispose of additional points of control. Having more than one person who carries out sensitive tasks (such as transfer of crypto-assets, management of private keys) reduces this risk.
+Additionally, employees in startups are seldom screened causing sometimes a favorable environment for fraud due to conflict of interest and lack of ethics.  
+
+*_Mitigant_*: 
+
+Persons involved in execution, should be different than persons involved in custody.
+Access to sensitive information or sensitives actions should follow the for 4 eyes principle (if not 6 eyes principle) meaning that different persons without a chance of colluding are performing together the same sensitive tasks. For instance to issue the master key of a wallet.
+
+All the employees should be screened as much as possible.
+
+==== Regulatory/compliance risk (AML rules requirements)
+
+[cols="1,1,1,1"]
+|===
+|Risk score
+|Rank
+|Impact
+|Probability
+
+|5/5
+|1st
+|High
+|High
+
+|===
+
+*_Description_*:
+
+Regulatory risk is the risk that a lack of / change in laws and regulations will materially impact a security, business, sector, or market.
+Companies are facing a newly formed industry still largely unregulated or at least with grey areas.
+They need not only to comply with a complex and rapid evolving regulation on crypto-assets but make sure the exchange and custodian they use abide by all appropriate laws and regulations. For instance, in order to fight against money laundering (AML: Anti Money Laundering), crypto transfers need to follow the recommendation 16 from FATF (Financial Action Task Force), also called the travel rule, to check the identity of the sender and receiver while using KYC (Know-Your-Customer). There are also a set of accounting and reporting standards to regulators that need to be set up. Generally speaking, the US companies should comply with SEC securities laws, Bank Secrecy Act, Foreign Account Tax Compliance Act and General Data Protection Legislation.In the UK, the market authorities are FCA (Financial Conduct Authority) who is responsible for ensuring crypto companies' compliance with laws. In Europe, there is no homogeneous regulation until the issuance of MiCA (Market in Crypto Assets) which is expected by 2023. Activities are supervised by local market authorities were the service is offered.
+
+*_Mitigant_*: 
+
+Companies should create a legal and compliance department and check with market authorities that all requirement is filled. Ideally an external legal counsel can be use as an audit or to perform sensitive new activities.
+
+==== Financial / market liquidity risk
+
+[cols="1,1,1,1"]
+|===
+|Risk score
+|Rank
+|Impact
+|Probability
+
+|1/5
+|7th
+|Low
+|Low
+
+|===
+
+*_Description_*:
+
+Financial risk is the possibility of losing money on an investment or business venture.
+Most of crypto-assets have no intrasec value such as bitcoin, as they are not backed by any gold or silver.
+But some crypto-assets like Ethereum could have an intrasec value linked to the value created by the blockchain in term of use cases (DApps, DeFi….).
+Companies using crypto-assets in their balance sheet run the risk of a write off with 100% losses.
+
+Market or asset liquidity risk is asset illiquid, meaning the inability to easily exit a position.
+This potentially implies a shift in the market price upon the deepness of the market.
+
+Liquidity varies upon the crypto-assets with Bitcoin offering the best liquidity.
+
+Liquidity is not necessarily an issue if bitcoins represent a long term investment.
+Having said that, it is still necessary for a treasurer to demonstrate that cryptocurrencies are equivalent to HQLA (High Quality Liquid Asset).
+For this reason, the purchase of 1.5 billion of Bitcoin in February 2021 by Tesla was followed by a sale of 10% of its wallet in Q2 to showcase the market conditions and quantify any premium penalty relative to its liquidity.
+This exercise was proven successful as the order was filled without significant market move.
+However a treasurer still needs to assess his capital resources, how the capital is preserved and have an appropriate provision for extra cash on hand to face any urgent need or potential depreciation of the assets’ value while liquidating his position.
+
+*_Mitigant_*: 
+
+Companies need to monitor market liquidity.
+Best crypto-assets offer different derivatives such as future, ETN, ETF, NDF… on top of the physical underlying enabling certain market liquidity pools.
+
+If the companies prefer to deal only with the underlying such as bitcoin, it is recommended to set up an access to various trading platforms and OTC (Over the Counter) brokers to increase the market reach and implied liquidity.  
