@@ -20,7 +20,7 @@ To read this book, see [book.asciidoc](https://github.com/BenGWeeks/TheBitcoinPl
 + [CBDCs](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/CBDCs.asciidoc)
 + Chapter 1: [Strategy](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/ch01.asciidoc)
 + Chapter 2: [Regulations](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/ch02.asciidoc)
-+ Chapter 3: [Controls](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/ch03.asciidoc)
++ Chapter 3: [Risks & Controls](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/ch03.asciidoc)
 + Chapter 4: [Education](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/ch04.asciidoc)
 + Chapter 5: [Vendors & Partners](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/ch05.asciidoc)
 + Chapter 6: [Execution](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/ch06.asciidoc)
