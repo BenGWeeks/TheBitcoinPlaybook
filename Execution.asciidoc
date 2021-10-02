@@ -1,4 +1,4 @@
-== Chapter 6: Execution
+== Execution
 
 Based on the Microstrategy’s roadmap footnote:[Microstrategy, Bitcoin (BTC) initiative - project roadmap, February 2021], the following steps can be followed:
  
