@@ -20,7 +20,7 @@ To read this book, see [book.asciidoc](https://github.com/BenGWeeks/TheBitcoinPl
 + [CBDCs](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/CBDCs.asciidoc)
 + Chapter 1: [Strategy](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/Strategy.asciidoc)
 + Chapter 2: [ESG: Environment, Social & Governance](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/ESG.asciidoc)
-+ Chapter 2: [Regulations](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/Regulations.asciidoc)
++ Chapter 2: [Regulation & Taxation](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/RegulationAndTaxation.asciidoc)
 + Chapter 3: [Risks & Controls](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/RisksAndControls.asciidoc)
 + Chapter 4: [Education](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/Education.asciidoc)
 + Chapter 5: [Vendors & Partners](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/VendorsAndPartners.asciidoc)
