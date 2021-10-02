@@ -1,4 +1,4 @@
-# The Bitcoin Playbook
+![The Bitcoin Playbook](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/images/The%20Bitcoin%20Playbook%20-%20Repo%20Card.png)
 
 The Bitcoin Playbook provides a digital transformation approach for companies to adopt Bitcoin into their operations.
 
