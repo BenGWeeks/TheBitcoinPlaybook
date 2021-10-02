@@ -1,0 +1,170 @@
+== What is Bitcoin?
+
+Bitcoin is a virtual or digital currency that is both, a unit of account ("Bitcoin" with a big-B) and a network ("bitcoin" with a lower case B ). footnote:[In a similar way to Ethereum being a platform, and Ether being the cryptocurrency that runs on it.]
+The Bitcoin transactions can be made from user to user on a peer-to-peer network.
+You cannot touch or exchange them like you can exchange fiat currency, its transactions exist on the public ledger.
+You can buy or sell Bitcoins, transfer Bitcoins, pay with Bitcoins and receive payments in Bitcoins.
+
+One of the most notable features of bitcoin is that it is a decentralized currency, that works without any single entity like a central bank or financial intermediaries.
+All the bitcoin transactions are added in a public ledger known as Blockchain where anyone can look at every bitcoin transaction that occurs.
+However, they cannot see who sent the funds to whom as only account numbers are recorded to keep the identities of all users anonymous.
+
+Bitcoin uses Digital ledger technology DLT to record each transaction multiple times on a public ledger with an immutable cryptographic signature called a hash.
+It can record static data such as a registry and dynamic data such as one Bitcoin transaction.
+The transactions are recorded together in blocks of data with a hash of the previous block.
+The hash connects the blocks of data and forms a chain of blocks, hence the name blockchain.
+
+Each transaction is verified by network nodes through cryptography and the transaction is recorded in a public ledger, which makes copying, counterfeiting, and using it for fraud extremely difficult . 
+
+Bitcoin mining refers to digitally adding transaction records to the blockchain that are accurate.
+To mine Bitcoin, the miner has to use high computational power of an Application Specific Integrated Circuit (ASICs) hardware to solve a complex mathematical puzzle.
+Bitcoin mining produces two things as a result. Number one is "a new bitcoin is produced" that now belongs to the miner. Secondly, it verifies the transaction information and makes the Bitcoin network more secure and trustworthy.
+
+Many major companies such as Microsoft, Subway, Dish Network, and Shopify also accept payments in bitcoin.
+PayPal also lets its customers buy and sell bitcoin within the PayPal app.
+
+=== History of Bitcoin
+
+In 2008, Satoshi Nakamoto (pseudo synonymous person or persons) authored the bitcoin white paper that introduced the idea of the first cryptocurrency.
+The document outlined, how bitcoin will put financial control back in the hands of the individual who owns them when the financial markets were shaky, and banks were risking millions of dollars of depositors in the financial crisis of 2008.
+It technically described how bitcoin would triumph in becoming censorship-resistant, transparent, and decentralized currency that will be cryptographically secured.
+Satoshi Nakamoto said: “The root problem with conventional currency is all the trust that’s required to make it work. The central bank must be trusted not to debase the currency, but the history of fiat currencies is full of breaches of that trust. Banks must be trusted to hold our money and transfer it electronically, but they lend it out in waves of credit bubbles with barely a fraction in reserve.”
+
+In 2009, when Bitcoin was created, Satoshi Nakamoto sent Hal Finney, a developer who mined Bitcoins, 10 Bitcoins.
+Hal Finney became the first-ever recipient of Bitcoins. Hal Finney was also the second person to mine Bitcoins after Satoshi.
+Soon the Bitcoin was available for purchase, and with one US dollar, anyone could buy 1309 Bitcoins.
+
+// Add message Satoshi put in about the 2008 collapse.
+
+In 2010, Laslo Hanyecz bought two pizzas at Papa John’s using 10,000 bitcoins and this transaction quickly gained popularity because it was the first official use of bitcoin where a genuine company accepted payments in bitcoin. 
+
+In 2011, Wikileaks, an international non-profit organization that releases confidential information and publishes online documents from anonymous sources, also started accepting bitcoin donations. 
+
+In 2014, Mike Hearn developed and proposed a notable hard fork of bitcoin.
+Bitcoin XT, could increase the block size from 1 megabyte to eight megabytes and run 24 transactions per second.
+Bitcoin previously ran 7 transactions per second. 
+
+In 2015, the second layer called Lightning Network was added to the Bitcoin network that sped up the transaction processing time and enabled transactions among parties to take place off the blockchain.  
+
+From 2015-2017, a war started over who controls Bitcoin’s blocksize on the surface but deep inside the war was about; who controls the Bitcoin protocol rules. 
+
+In 2017, one Bitcoin was trading at $20,000. 
+
+In 2021, MicroStrategy, a business intelligence company invested $1 billion in Bitcoin and added them to their balance sheet, becoming the first publicly traded company to invest a significant amount of capital in Bitcoin. In June 2021, MicroStrategy owned roughly 105,085 bitcoins.
+The company also held a conference to share their Bitcoin playbook with other global companies. 
+
+In 2021, Tesla, the largest electric automobile maker bought $1.5 billion worth of bitcoins and accepted payments in bitcoin. 
+
+**The rest is up to you.**
+
+=== Why is Bitcoin "sound money"?
+
+// Insert: Where does the term "sound money" come from?
+
+Bitcoin meets most of the requirements of sound money and it can do most things that money can do.
+
+* It is secure as it can keep the bitcoins safe in analog form, recording each transaction on its public ledger called a blockchain. Because no one else controls anyone’s funds in the Bitcoin network, there is practically insignificant risk of fraud.   
+* It is a store of value just like gold and has effectively protected $1 trillion worth of value. 
+* Bitcoin mining makes the Bitcoin network more secure and the electricity used by miners should be seen as a cost of security rather than per transaction energy cost.
+* It is easily transactable and fast, as you can send money all over the world within 10 to 20 minutes. 
+* It is decentralized and only the individual who owns Bitcoins can decide what to do with it. The central bank, government, or any other entity is not controlling your bitcoin wealth, meaning you alone have the access to it. 
+* It has been around for more than 12 years now. More and more people and companies worldwide are accepting Bitcoin as a medium of exchange. In 2019, bitcoin had an estimated 100,000 million users. These early adopters of bitcoin make around 1.5% population of the world.
+
+=== Bitcoin vs Gold vs US Dollar
+
+// Insert diagram
+
+Just like gold, bitcoin is durable, it does not wear off as it exists digitally inside the bitcoin wallet.
+It does not lose its value over time because of inflation or more money being printed, like the US dollar (a fiat currency), loses its worth every time the Fed prints new dollars.
+Dollars and gold can be counterfeited to some extent but there is almost no chance of counterfeiting bitcoin because of blockchain technology that differentiates and records every transaction on a public ledger.
+
+It is highly transactable and divisible, unlike gold. Bitcoin is scarce, as its mining is limited to only 21 billion bitcoins.
+Bitcoins are not issued by any government or entity; users control bitcoin and new bitcoins are released only through mining. 
+The US dollars and gold are centralized, bitcoins exist in a decentralized system where the transactions are recorded in a distributed public ledger.
+Bitcoin is programmable which means it is automatic, flexible, off the grid, and can squeeze to fit into places, where normal money like dollars or gold cannot. 
+
+=== What could be the risks associated with Bitcoin?
+
+Bitcoin is a safe currency that allows you to protect your wallet and gives you full control of your money.
+However, there are some objections or risks that people have.
+We have added following responses to those risks. 
+
+[cols="1,1"]
+|===
+|Risk/Concern |Mitigation/Response 
+
+|Governments around the world would attack bitcoin because it might appear as a threat to their sovereign currencies. (concern-pending)
+|Many developed and forward-looking countries including the US, Canada, and the UK have allowed the use of bitcoin. Governments would welcome the use of bitcoin, as it can also create many job opportunities. It can introduce new careers in tech starting from data scientists, data analysts to blockchain engineers. Bitcoin has been around for 12 years now, if the governments would have wanted to attack it, they probably would have by now.
+
+|Bitcoin mining consumes a large amount of energy and is not eco-friendly.
+|Bitcoin mining is valuable, and anything valuable takes effort and energy. Bitcoin miners are already switching to renewable energy sources. Around 75% of the energy used in bitcoin mining comes from renewable energy sources, the number is growing and will grow further in the future.
+
+|Every transaction is in the public eye because of a public ledger which makes it easier for bad actors to link the same address that is used multiple times to users.  	Users can avoid getting linked to the same addresses by using hierarchically deterministic wallets that generate new addresses for new transactions. They can also use taproot protocols for higher transaction privacy and efficiency.
+|Users can avoid getting linked to the same addresses by using hierarchically deterministic wallets that generate new addresses for new transactions. They can also use taproot protocols for higher transaction privacy and efficiency.
+
+|Core developers maintain the code that could possibly be manipulated.	The code is publicly available, and anyone can examine it. This cannot be a problem because the new versions cannot run on the network unless they are accepted by the nodes.  
+|The code is publicly available, and anyone can examine it. This cannot be a problem because the new versions cannot run on the network unless they are accepted by the nodes.
+
+|The mining operations are not very decentralized, as around 60% of mining is occurring in China. As the mining operations continue to get bigger and better, at some point it will no longer be as profitable to mine bitcoins compared to China where the electricity is cheap and ASIC hardware is efficient (and expensive).
+|This may not be true. The bitcoin miners share their processing power over a network called a mining pool. It could be possible that geographically, not all miners are in China. Additionally, China’s bitcoin mining dominance is slowly spiraling down because of growing international competition.  
+
+|The underlying technology could have a vulnerability. The theory that has become the talk of the town: Quantum computers might break SHA-256.
+|The quantum computers cannot break SHA-256, but even if they managed to break the encryption in the future, the development team would probably update the SHA-256 to a new algorithm that is quantum-resistant.
+
+|The bitcoin’s price can be volatile because of relatively low market capitalization.
+|The market capitalization of Bitcoin is measured by the total number of bitcoins that are in circulation multiplied by the price of one bitcoin. Low or high market capitalization is dependent on the price of bitcoin. Other than that, most probably, in the future the price of bitcoin will not be affected by single actors when the market cap reaches a level of unprecedented growth.
+// Insert comments about asymmetric returns, 1% of portfolio, downside and upside.
+
+|Other cryptocurrencies would replace bitcoin.
+|Bitcoin has the first-mover advantage and is undoubtedly the largest and most secure digital currency. Just like there are numerous fiat currencies in use today, there are several cryptocurrencies in use as well, but bitcoin is irreplaceable because it has the largest market cap and wider acceptance.  
+
+|Bitcoin has no ‘intrinsic value’.
+|Intrinsic value of something is based on human assumptions. Gold has 75 times more intrinsic value than silver for the only reason that it is considered more precious and hence its demand is higher. Silver on the other hand has greater utility and a greater industrial demand but has low intrinsic value because it is not scarce like gold. Just like many fiat currencies are not backed by enough gold and are backed by people’s trust in the government, the intrinsic value of bitcoin exists because of a reliable public ledger that has full confidence of its users. The intrinsic value of bitcoin will rise with the confidence of its users.
+
+|===
+
+=== Acceptability of Bitcoin as Store of Value
+
+In the digital age, people are getting much more comfortable with the use of technology for controlling everything than ever.
+Many people already think of the bank as an app on their phone instead of a building.
+Because of the abundance of technologies such as virtual reality, people have accepted the technology and are no longer unconfident of investing in digital assets or buying digital currency.
+
+Certainly, my son is perfectly happy that a skin (or suit) in Fortnite has value - a purely digital asset with no real-life counterpart – has value to him.
+Likewise, a computer hard disk that contains information certainly has “value” (if it’s not backed up) to it’s owner!
+
+The intrinsic value of a commodity or currency exists because of its desirable features as a medium of exchange or a currency.
+So intrinsic value is a human assumption of value of an asset or currency. Humans have always valued scarce resources.
+The demand for gold is one example.
+The intrinsic value of gold exists because it is a durable store of value and is highly scarce hence people perceive its value to be higher and the demand is greater than silver that has similar properties. 
+
+Similarly, Bitcoin is a store of value, it is scarce and much more convenient to keep and maintain than gold and other assets. 
+
+Fiat currencies were never a good store of value because they lose their worth over time.
+These currencies are controlled by governments and the greed of governments to access and control more money leads to higher inflation.
+Bitcoin, on the other hand, is a store of value like gold but also has other notable features that make it highly desirable. 
+
+For an asset or currency to be considered a good store of value, it must be exchangeable in the future without deteriorating in value.
+If we look at the value of bitcoin in the long-term, the currency has not only stored value but has risen against other currencies over the years showing the behavior of an asset or an investment venture. 
+
+Bitcoin is a great store of value because it is scarce. As more and more people are indulging in bitcoin mining, bitcoin mining is becoming difficult.
+A decade ago, a person could mine a bitcoin with their at-home computer but now it requires special hardware and technical skills to mine.
+The higher complexity limits people from mining too many bitcoins, keeping the cryptocurrency scarce.
+The limit of how many bitcoins will be mined is also set to 21 million bitcoins.
+When the last bitcoin of 21 million bitcoins is mined, no more bitcoins will be mined and its supply won’t increase. 
+
+=== The Future of Bitcoin
+
+Within the last decade, Bitcoin has received tremendous popularity and has become one of the top assets in the world by market cap. 
+
+// Insert diagram
+
+Today, we can see athletes being paid in crypto, large retailers accepting payments in bitcoins such as Microsoft, Home Depot and Starbucks, large investment firms adding cryptocurrencies to their portfolios, and the governments accepting bitcoin as a legal payment network.
+
+In the future, the Bitcoin lightning network will allow abundant smaller daily transactions to individuals when people will start using it to pay for necessities using bitcoin just like fiat currency.
+
+Gold has a market cap of more than 11 trillion USD. It is estimated, by the time bitcoin’s market cap will reach 11 trillion USD, the price of one bitcoin will be around $580,000.
+
+// M2 money supply ...
+
+
+
