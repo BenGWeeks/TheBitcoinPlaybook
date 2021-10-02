@@ -1,4 +1,4 @@
-== Chapter 3: Risks & controls
+== Risks & Controls
 
 
 === Risk policy & governance
