@@ -30,6 +30,11 @@ To read this book, see [book.asciidoc](https://github.com/BenGWeeks/TheBitcoinPl
 
 This repository will act as the source for the printed version of the book.
 
+## Relevant links
+
+[Microstrategy: Bitcoin for Corporations](https://www.microstrategy.com/en/bitcoin/bitcoin-for-corporations)
+[Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)
+
 ## License
 
 This book is made available under the [creative commons terms of license](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/LICENSE).
