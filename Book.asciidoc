@@ -12,16 +12,16 @@ include::WhatIsBitcoin.asciidoc[]
 
 include::CBDCs.asciidoc[]
 
-include::ch01.asciidoc[]
+include::Strategy.asciidoc[]
 
-include::ch02.asciidoc[]
+include::ESG.asciidoc[]
 
-include::ch03.asciidoc[]
+include::Regulations.asciidoc[]
 
-include::ch04.asciidoc[]
+include::RisksAndControls.asciidoc[]
 
-include::ch05.asciidoc[]
+include::Education.asciidoc[]
 
-include::ch06.asciidoc[]
+include::VendorsAndPartners.asciidoc[]
 
-include::ch07.asciidoc[]
+include::Execution.asciidoc[]
