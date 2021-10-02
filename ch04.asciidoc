@@ -1,1 +1,96 @@
 == Chapter 4: Education
+
+If your organisation decides to embark on a digital transformation of any type, educating all parties involved is key to success, and this is especially true for a transformation as forward thinking as one that involved Bitcoin.
+Educating the board, employees, investors, partners, customers, and suppliers must therefore be considered to explain WHY the company now has a strategy that involves Bitcoin, and HOW the company will operate and the impact this will have.
+
+=== The Board
+
+The Board of Directors holds a vital position in every organization, and naturally needs to be the first port of call to get onboard.
+It will take careful planning to convince the board that this is a sound financial decision.
+
+When Michael Saylor approached the board with his ground breaking approach to using Bitcoin as a treasury reserve, he was pleasantly suprised as to how many of them had already bought Bitcoin personally!
+// Insert Michael Saylor quotation
+He was fortunate that his board already understood the technology (they are a technology company after all), and getting their buy in was not too difficult.
+This may not be the case for your organisation, so a clear and concise approach is needed.
+They will need to know the full facts laid out before them, in order that they can make an informed decision on the transformation.
+They will also need enough information and time before they can agree or disagree to your potentially radical idea.
+The manner and quality of information given to them will greatly determine whether or not they will side with the idea of digital trading.
+
+Therefore, it is crucial to present the board with concise yet in-depth information about crypto and how it can positively impact the business.
+Present with problems facing the company that the new investment strategy might help to improve.
+What problems will it solve for them?
+Will it protect the company treasury from inflation, will it appeal to a new customer base, or will it 
+
+Provide (now available) examples of other companies that have already walked this path and demonstrate what they have gained from their decision over time.
+// More info probably here.
+
+It is important to reveal the possible challenges and risks the company will have to deal with that are involved with this decision.
+Explain the changes (and costs) that are involved your proposal.
+Ouline a roadmap of when these changes can be made.
+
+Naturally, assuming they are not in stunned silence, they will have follow-up questions in order to get further clarification.
+You will need to anticipate their questions, and ensure you have colleagues with expertise in the relevant area as necessary.
+The board may have suggestions that differ from what you presented to them, especially members who may have had the opportunity to learn about the market before the meeting.
+Take onboard their suggestions, they got to their position through the knowledge they have, and can offer valuable advice. and see how they can be crucial in achieving the set goal.
+
+=== Employees
+
+Employees are what make our a company. A "company" is by definition a collection of people.
+Therefore, to have a successful implementation, we need to make sure employees are informed and onboard as much as possible to the companies strategy.
+
+As much as possible, employees need to buy-in to this approach and believe in the coporate strategy. We need to ensure employees are motivated and feeling positive about this approach.
+Likewise, employees who do not believe in the corporate strategy, we not give their best to the company.
+
+Employees need to understand what Bitcoin is, and how the company will be using it.
+Workshops should be organized where the relevant concepts of Bitcoin and cryptocurrencies in general are explained, and how they are likely to come across Bitcoin in the course of their daily activities.
+Training will also have to include Anti-Money Laundering (AML) in the specific case of cryptocurrencies.
+Feel free to make use of the presentations that are made available in the GitHub repository for this book. footnote:[https://github.com/BenGWeeks/TheBitcoinPlaybook]
+
+If employees will be able to be paid in Bitcoin (maybe partially to start with), explain how this will work,
+
+For roles that are key to the implementation of Bitcoin in the corporate strategy, additional training will be required.
+Most likely you will need to outsource training for those roles.
+// Give examples of roles that need additional training.
+
+Adopt and iterate on the training courses as they are rolled out, pay atttention to the questions asked, and consider that your employees are also a "gold mine" (or should I say "Bitcoin mine") of ideas that could further enhance your strategy.
+Naturally, some workers may have reservations about this new strategy.
+Use this as an opportunity to refine and make your approach clearer and "battle hardened".
+
+It is the duty of companies that can see the future of crypto to enlighten their workers. Light the fire in your employees that they are working for such an innovative company.
+
+=== Customers 
+
+Generally, there is an increasing awareness of the crypto market and how it functions.
+Although not everyone is interested in investing in it, its popularity has forced many people to have at least a basic knowledge of what it is and how it works.
+However, there are still some people who have no idea about this innovation.
+Therefore, it is essential to inform to train all customers for the sake of those who do not know.
+
+More so, even those who know about the market may not know how to buy or sell using this medium.
+It is essential to inform them through adverts or even some kind of customers-only seminar about using digital coins in buying products and the possible benefits they also stand to gain from trading via crypto.
+Such benefits include buying from any part of the world with restrictions that fiat currencies may pose.
+Also, suggest different education reforms to them to broaden their knowledge of crypto.
+
+=== Suppliers & Partners
+
+Although it could be argued that a company should aim to receive payment in "sound money", and make accounts payable in fiat, for the wider adoption of Bitcoin, you should consider the option for suppliers to be paid in Bitcoin. 
+Therefore, you will need top inform your suppliers about what Bitcoin is and how it can be used to pay for goods or services they provide.
+Explain to them the benefits of being paid in Bitcoin, such as the potential savings in transaction fees.
+// What other benefits?
+
+=== Investors
+
+A key aim of the board is to preserve and maintain shareholder value, as such, it is important to ensure investors are clear about the companies approach and strategy to include Bitcoin. Investors may be considered about the risks associated with cryptocurrencies, so a clear case will need to be communicated about the asymmetric risk profile that is associated with Bitcoin. For risks that are warranted, what is you mitigation for such factors in the strategy?
+
+Organise forums and seminars to engage with investors to ensure they understand this approach. As per your suppliers and employees, ensure they have the opportunity to fully understand this technology and the opportunities it brings to the company. Reveal your plans, goals, and strategies to convince them further and give them reasons not to withdraw their investment.
+
+However, don't downplay the opportunity this approach will give to gain new investors who want to be involved with such a forward looking company.
+
+=== Additional Educational Resources
+
+For its customers, partners and staff to have an even better knowledge of what cryptocurrency is about, organizations may use some informative online aids such as:
+
+* *Tokentuber*: This platform streams videos with which users can learn more about crypto and everything concerning it. In addition to educating users, the platform provides rewards such as tokens and certificates to users who can pass the quiz on the platform. It makes this offer in union with some growing cryptocurrency exchanges.
+* *Cointelligence Academy*: This platform provides data and information about digital assets and cryptocurrencies; it further organizes online seminars on YouTube to handle specific advanced topics.
+* *Binance Academy*: Although owned by a specific exchange, this academy offers information across the entire digital marketing system. It touches areas like security, blockchain, economics, and tutorials. However, it does not offer any form of reward to users. 
+* *Earn.com*: This platform was bought by coinbase in 2018. It offers incentives and rewards for projects using Bitcoin. However, to participate in some courses directly to certain digital currencies, you need to make stipulated payments using that currency. 
+* *Captain Bitcoin* and *Bitcoin.com* are other educational platforms that offer cryptocurrency-related information.
