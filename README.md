@@ -16,6 +16,7 @@ To read this book, see [book.asciidoc](https://github.com/BenGWeeks/TheBitcoinPl
 + [Foreword](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/Foreword.asciidoc)
 + [Introduction](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/Introduction.asciidoc)
 + [The History of Money](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/TheHistoryOfMoney.asciidoc)
++ [What is Bitcoin?](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/WhatIsBitcoin.asciidoc)
 + [CBDCs](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/CBDCs.asciidoc)
 + Chapter 1: [Strategy](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/ch01.asciidoc)
 + Chapter 2: [Regulations](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/ch02.asciidoc)
