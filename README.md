@@ -4,7 +4,7 @@ The Bitcoin Playbook provides a digital transformation approach for companies to
 
 ## Issues, Errors, Comments, Contributions
 
-To suggest changes, please submit a pull request.
+To suggest changes, please submit a pull request. The format of this book uses [AsciiDoc](https://docs.asciidoctor.org/asciidoc/latest/).
 
 ## Reading this book
 
