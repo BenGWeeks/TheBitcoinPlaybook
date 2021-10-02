@@ -8,6 +8,8 @@ include::Introduction.asciidoc[]
 
 include::TheHistoryOfMoney.asciidoc[]
 
+include::WhatIsBitcoin.asciidoc[]
+
 include::CBDCs.asciidoc[]
 
 include::ch01.asciidoc[]
