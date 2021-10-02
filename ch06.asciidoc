@@ -1,1 +1,45 @@
 == Chapter 6: Execution
+
+Based on the Microstrategy’s roadmap footnote:[Microstrategy, Bitcoin (BTC) initiative - project roadmap, February 2021], the following steps can be followed:
+ 
+=== Research
+
+The project owner should start with desk research, gathering articles and analysing competitors decisions in regard to BTC investments.
+
+As holding Bitcoin versus cash equivalents change the investment risk-reward, a business strategy narrative will have to be drawn. The risk appetite of the company should be put in perspective to current authorization and a list of initial considerations will be needed to discuss with the board of directors such as regulation, conflict of interests from management.
+
+The impact on investor relationships in the case of publicly-traded companies as well as tax impacts cannot be under reviewed.
+
+=== Set a team
+
+The starting point is maybe to set an internal team that can champion this new type of investment.
+This team should be composed of a business/finance working team, IT, and legal working team. 
+
+As it is probably new for the company, it is necessary to use an external legal advisor (law firm) to discuss the aspect of regulatory, corporate governance and contracts.
+For the same reason, it might be relevant to work with an external financial advisor on the following theme: accounting, tax, controls, treasury and auditor.
+
+=== Set a strategy
+
+A multi year strategy should be put in place to identify the purpose, mission and vision alongside a coherent timeline to set some objectives.
+A clear project roadmap with KPI (Key Performance Indicators) will help to monitor the implementation and success.
+
+More practical aspects will be decided such as source of funds and the underlying used to get the crypto-assets exposure. It can be either direct physical token via broker or indirect exposure via a fund (ETF, ETN) or futures.
+
+=== Set a preparation plan
+
+A plan could be described as follow:
+
+* [ ]	Analyse Financial implication: accounting, tax and controls
+* [ ]	Determine IT and security risks
+* [ ]	Identify a set of partners ranging from custodian, banks, vendors, advisors and negotiate brokerage and custodial agreements
+
+=== Execution of the plan
+
+Once ready, the company needs to go through those steps:
+
+* [ ]	Present new resolutions to board of directors, investment committee and audit committee
+* [ ]	Create a regulatory disclosure (for instance 8-Ks, 10-Ks and 10-Qs with SEC)
+* [ ]	Communicate plan to employees, investors and public 
+* [ ]	Create new policies: on treasury, trading, investment management and IT (cybersecurity)
+* [ ]	Create an accounting memo which should cover financial statement impacts, critical accounting policies and management’s discussion and analysis of Financial condition
+* [ ]	Seek for insurance embedded in custody or D&O
