@@ -2,6 +2,8 @@
 
 The Bitcoin Playbook provides a digital transformation approach for companies to adopt Bitcoin into their operations.
 
+PLEASE NOTE: This book is still very much draft and subject to change.
+
 ## Issues, Errors, Comments, Contributions
 
 To suggest changes, please submit a pull request. The format of this book uses [AsciiDoc](https://docs.asciidoctor.org/asciidoc/latest/).
