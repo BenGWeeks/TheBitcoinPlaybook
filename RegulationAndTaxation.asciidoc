@@ -1,1 +1,20 @@
 == Regulation & Taxation
+
+=== Accounting classification of cryptocurrencies
+
+Corporate treasury departments are facing many challenges regarding the rules and policies of the core competencies of crypto-assets and to one extent its necessary controls.
+
+Cryptocurrencies such as Bitcoin are often referred to a new asset class as they represent a new type of value, a new payment method and more commonly a new way to store value. 
+However financial authorities across the world categorize them differently ranging from commodity, FX currency, “digital property”, derivative and even sometime as a none financial asset.
+
+In the United States alone, the US Treasury classifies Bitcoin as a decentralized virtual currency. 
+The Commodity Futures Trading Commission categorizes Bitcoin as a commodity, and the IRS (Internal Revenue Service) associates it as an asset. 
+This explains why the guidance in US GAAP does not currently directly address the accounting for cryptocurrencies, meaning that crypto are neither cash or a cash equivalent, nor financial instrument, nor inventory.
+
+In its 2018 paper footnote:[Deloitte, Classification of Cryptocurrency Holdings, July 9 2018], Deloitte identified Bitcoin as indefinite-lived intangible asset under an accounting classification called ASC 350.
+The accounting treatment could be either inventory (if held for sale, see ASC 350: intangibles Goodwill and others) or investment (if held for a financial asset, see ASC 946: financial services - investment companies or alternatively ASC610: other income) upon how the companies classifies its Bitcoin activities.
+
+In the same vein, Financial Accounting Standards Board (FASB) has decided on October 21 2020 not to add a project on accounting for cryptocurrencies lacking an accounting definition as a consequence.
+IASB (International Accounting Standards Board) has provided no specific accounting guidance either. footnote:[KPMG, Blockchain and digital currencies challenge traditional accounting and reporting models, July 18 2018]
+
+ 
