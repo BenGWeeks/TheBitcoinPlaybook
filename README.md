@@ -14,6 +14,10 @@ If you submit in the region of 100-200 pull requests (dependent on size of the p
 
 Sponsors of the project will be added to the [Sponsors](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/Introduction.asciidoc) page (see link above to become a sponsor of the project).
 
+## Presentations
+
+We'll be adding various presentations to this repository for resources to use for training and education of the board, employees, customers, and alike.
+
 ## Reading this book
 
 To read this book, see [book.asciidoc](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/Book.asciidoc). Click on each of the chapters to read in your browser.
