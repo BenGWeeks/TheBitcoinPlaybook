@@ -1,0 +1,7 @@
+== Sponsors
+
+Sponsors of this project are as follows:
+
+// Add the name and link as follows:
+
+[KnowAll AI](https://www.knowall.ai)
