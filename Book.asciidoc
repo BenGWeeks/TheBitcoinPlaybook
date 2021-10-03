@@ -4,6 +4,8 @@ include::AboutTheAuthors.asciidoc[]
 
 include::Foreword.asciidoc[]
 
+include::Sponsors.asciidoc[]
+
 include::Introduction.asciidoc[]
 
 include::TheHistoryOfMoney.asciidoc[]
