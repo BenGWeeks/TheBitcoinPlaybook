@@ -20,6 +20,7 @@ To read this book, see [book.asciidoc](https://github.com/BenGWeeks/TheBitcoinPl
 
 + [About the Authors](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/AboutTheAuthors.asciidoc)
 + [Foreword](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/Foreword.asciidoc)
++ [Sponsors](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/Sponsors.asciidoc)
 + [Introduction](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/Introduction.asciidoc)
 + [The History of Money](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/TheHistoryOfMoney.asciidoc)
 + [What is Bitcoin?](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/WhatIsBitcoin.asciidoc)
