@@ -42,7 +42,7 @@ To read this book, see [book.asciidoc](https://github.com/BenGWeeks/TheBitcoinPl
 
 ## Source
 
-This repository will act as the source for the printed version of the book.
+This repository will act as the source for the printed version of the book that will be published to Amazon Kindle Publishing.
 
 ## Relevant links
 
