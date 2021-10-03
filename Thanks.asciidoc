@@ -1,0 +1,7 @@
+-- Thanks to
+
+This book has had contributions (pull requests from):
+
+// Please enter a line below per contributor in the format: Name (or handle) as a link to your preferred Url (e.g. Twitter)
+
+[@BenGWeeks](https://twitter.com/BenGWeeks)
