@@ -8,6 +8,8 @@ PLEASE NOTE: This book is still very much draft and subject to change.
 
 To suggest changes, please submit a pull request. The format of this book uses [AsciiDoc](https://docs.asciidoctor.org/asciidoc/latest/).
 
+If you submit a pull request, please feel free to add your details to the [Thanks](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/Introduction.asciidoc) section.
+
 ## Reading this book
 
 To read this book, see [book.asciidoc](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/Book.asciidoc). Click on each of the chapters to read in your browser.
