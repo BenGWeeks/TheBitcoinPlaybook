@@ -1,5 +1,7 @@
 == ESG: Environmental, Social and Governance
 
+// More headings and sections needed in here.
+
 === Environment impact and electrical consumption of mining
 
 We are still debating the impact of crypto-assets on the environment due to the high energy consumption implied by blockchain operating model. Companies shouldn‘t overlook it in a context of ESG importance (for more information, see https://www.linkedin.com/pulse/concerned-bitcoin-energy-usage-elon-start-shipping-more-ben-weeks/)
