@@ -10,7 +10,9 @@ To suggest changes, please submit a pull request. The format of this book uses [
 
 If you submit a pull request, please feel free to add your details to the [Thanks](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/Introduction.asciidoc) section.
 
-Sponsors of the project will be added to the [Sponsors](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/Introduction.asciidoc)  page.
+If you submit in the region of 250+ pull requests (that includes new content), you have the option to become a co-author.
+
+Sponsors of the project will be added to the [Sponsors](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/Introduction.asciidoc) page (see link above to become a sponsor of the project).
 
 ## Reading this book
 
