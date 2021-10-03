@@ -27,6 +27,7 @@ To read this book, see [book.asciidoc](https://github.com/BenGWeeks/TheBitcoinPl
 + Chapter 4: [Education](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/Education.asciidoc)
 + Chapter 5: [Vendors & Partners](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/VendorsAndPartners.asciidoc)
 + Chapter 6: [Execution](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/Execution.asciidoc)
++ [Thanks](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/Thanks.asciidoc)
 
 ## Source
 
