@@ -1,13 +1,13 @@
 == Regulation & Taxation
 
-=== Accounting classification of cryptocurrencies
+=== Accounting classification of cryptocurrencies in the U.S.
 
 Corporate treasury departments are facing many challenges regarding the rules and policies of the core competencies of crypto-assets and to one extent its necessary controls.
 
 Cryptocurrencies such as Bitcoin are often referred to a new asset class as they represent a new type of value, a new payment method and more commonly a new way to store value. 
 However financial authorities across the world categorize them differently ranging from commodity, FX currency, “digital property”, derivative and even sometime as a none financial asset.
 
-In the United States alone, the US Treasury classifies Bitcoin as a decentralized virtual currency. 
+In the United States alone, the U.S. Treasury classifies Bitcoin as a decentralized virtual currency. 
 The Commodity Futures Trading Commission categorizes Bitcoin as a commodity, and the IRS (Internal Revenue Service) associates it as an asset. 
 This explains why the guidance in US GAAP does not currently directly address the accounting for cryptocurrencies, meaning that crypto are neither cash or a cash equivalent, nor financial instrument, nor inventory.
 
