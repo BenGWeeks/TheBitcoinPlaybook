@@ -25,3 +25,5 @@ include::Education.asciidoc[]
 include::VendorsAndPartners.asciidoc[]
 
 include::Execution.asciidoc[]
+
+include::Thanks.asciidoc[]
