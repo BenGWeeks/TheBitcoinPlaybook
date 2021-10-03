@@ -1,5 +1,7 @@
 == Thanks to
 
+// Need to figure out how to make a link in ASCIIDOC as clear doesn't use Markdown format.
+
 This book has had contributions (pull requests from) the following community members.
 
 Those that made 100+ pull requests:
