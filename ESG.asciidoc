@@ -4,9 +4,6 @@
 
 === Environment impact and electrical consumption of mining
 
-We are still debating the impact of crypto-assets on the environment due to the high energy consumption implied by blockchain operating model. Companies shouldn‘t overlook it in a context of ESG importance (for more information, see https://www.linkedin.com/pulse/concerned-bitcoin-energy-usage-elon-start-shipping-more-ben-weeks/)
-
-
 In May, the price of Bitcoin (and other crypto currencies) took a hit. This is nothing new to crypto investors (speculators), but it was seemingly highly correlated to some tweets by one of the world's greatest entrepreneurs and innovators, Elon Musk.
 
 Despite apparently being a relative newcomer to cryptocurrencies, Elon announced Tesla had put $1.5B of worth of Bitcoin on the balance sheet this year, and possibly purchased some more himself (in addition to Dogecoin for his son).
@@ -48,7 +45,7 @@ Yes, the energy usage is higher than say the country of Sweden footnote:[Cambrid
 
 As a crypto-miner myself, I can say that the profitability of mining is correlated to the ability to find cheap sources of energy.
 Miners are happy to move to use untapped energy resources in remote locations, and in most cases, the cheapest electricity is renewable. This is certainly the case for the likes of Hive Blockchain Technologies footnote:[https://www.linkedin.com/company/hiveblockchain/about/] and Argo Blockchain footnote:[https://www.linkedin.com/company/argoblockchain/].
-This is backed up by the fact that it is estimated that 74.1% of the mining energy comes from renewable sources. footnote: [Mining Whitepaper May 2019 Final (With Foreword) (coinfomania.com), https://coinfomania.com/wp-content/uploads/2019/06/Mining-Whitepaper-Coinshares.pdf].
+This is backed up by the fact that it is estimated that 74.1% of the mining energy comes from renewable sources. footnote: [Mining Whitepaper May 2019 Final (With Foreword) (coinfomania.com), footnote:[https://coinfomania.com/wp-content/uploads/2019/06/Mining-Whitepaper-Coinshares.pdf].
 This would be even higher if China, that performs around 65% of the hash power of the network footnote:[Cambridge Bitcoin Electricity Consumption Index (CBECI),https://cbeci.org/mining_map], wasn't predominantly using coal as the primary energy source.
 
 In addition to where their energy comes from, miners could also look to be more eco-friendly with secondary uses of their waste heat (energy) that could be used to further increase profitbility and lessen environmental impact.
