@@ -1,4 +1,4 @@
--- Thanks to
+== Thanks to
 
 This book has had contributions (pull requests from):
 
