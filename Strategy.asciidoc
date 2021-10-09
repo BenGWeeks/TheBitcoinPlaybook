@@ -1,5 +1,42 @@
 == Strategy
 
+In the early 1990’s the World Wide Web was created.
+Who would have known that this would lead to Amazon, a company with a market cap of 1.76 trillion USD, that with a few clicks, can deliver products to your door the very next day.
+
+This same revolution is coming to the monetary sector. 
+For the first time in human history, individuals and companies have access to “sound money” and can verifiably transact directly via cryptographic proofs without the need for a trusted third party using a monetary system that is decentralised and not under central control.
+
+The Bitcoin Playbook outlines the process by which an organisation can leverage crypto technologies into their business operating model. This forms part of a larger digital transformation that companies will have to partake in to maintain relevance in the evolving economic conditions of today.
+
+In general, when running a company, the corporate strategy should be to:
+
+* Grow reveue and operating income
+* Reduce your operating costs
+* Grow the assets of the company and investment income
+* Create and preserve shareholder value
+
+The operating strategy can be divided into two parts, what we will term: a Balance Sheet Strategy, and a Profit & Loss (P&L) strategy.
+Example activities under both these strategies are outlined in the table below:
+
+.Table of example operating strategies for both a Balance Sheet Strategy and a P&L Strategy.
+|===
+|Balance Sheet Strategy|P&L Strategy
+
+| Convert fiat treasury to Bitcoin
+| Mine Bitcoin
+
+| Issue equity and buy Bitcoin
+| Buy into Bitcoin ETFs
+
+|
+| Accept Bitcoin as a form of payment
+
+|
+| Allow employees to be paid in Bitcoin
+|===
+
+=== Conversion of fiat treasury to Bitcoin
+
 On August 11th 2020, MicroStrategy was the first publicly traded company to use Bitcoin as a treasury asset. Additional operating companies followed this pioneer and we count now over 30 listed companies that have invested cash to over 200,000 bitcoins. 
 
 .Table of companies that purchased Bitcoin
