@@ -20,6 +20,7 @@ This seems worrying (as an investor in Tesla) that they would go through with su
 > Tesla will not be selling any Bitcoin and we intend to use it for transactions as soon as mining transitions to more sustainable energy. We are also looking at other cryptocurrencies that use <1% of Bitcoin's energy/transaction.
 > -- Tesla & Elon Musk 12th May 2021 footnote:[https://twitter.com/elonmusk/status/1392602041025843203]
 
+{empty}
 
 There was also other FUD (Fear Uncertainty and Doubt) created, with talk about Tesla no longer accepting Bitcoin for payment of Tesla vehicles, going all-in on Doge, and that having run PayPal, he knows more than "us" about how money works.
 
@@ -55,6 +56,7 @@ In my opinion, and in agreement to Jack Dorsey (CEO of Square and Twitter), cryp
 > #bitcoin incentivizes renewable energy
 > -- Jack Dorsey 21st April 2021 footnote:[https://twitter.com/jack/status/1384903902907314176]
 
+{empty}
 
 So, if Elon genuinely wants to be part of the solution, what could he do?
 
