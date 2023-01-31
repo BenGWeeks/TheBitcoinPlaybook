@@ -30,7 +30,7 @@ To read this book, see [book.asciidoc](https://github.com/BenGWeeks/TheBitcoinPl
 + [Introduction](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/Introduction.asciidoc)
 + [The History of Money](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/TheHistoryOfMoney.asciidoc)
 + [What is Bitcoin?](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/WhatIsBitcoin.asciidoc)
-+ [CBDCs](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/CBDCs.asciidoc)
++ [Central Bank Digital Currencies (CBDCs)](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/CBDCs.asciidoc)
 + Chapter 1: [Strategic Opportunity](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/StrategicOpportunity.asciidoc)
 + Chapter 2: [ESG: Environment, Social & Governance](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/ESG.asciidoc)
 + Chapter 2: [Regulation & Taxation](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/RegulationAndTaxation.asciidoc)
