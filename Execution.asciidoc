@@ -29,17 +29,17 @@ More practical aspects will be decided such as source of funds and the underlyin
 
 A plan could be described as follow:
 
-[ ]	Analyse Financial implication: accounting, tax and controls
-[ ]	Determine IT and security risks
-[ ]	Identify a set of partners ranging from custodian, banks, vendors, advisors and negotiate brokerage and custodial agreements
+-	Analyse Financial implication: accounting, tax and controls
+-	Determine IT and security risks
+-	Identify a set of partners ranging from custodian, banks, vendors, advisors and negotiate brokerage and custodial agreements
 
 === Execution of the plan
 
 Once ready, the company needs to go through those steps:
 
-[ ]	Present new resolutions to board of directors, investment committee and audit committee
-[ ]	Create a regulatory disclosure (for instance 8-Ks, 10-Ks and 10-Qs with SEC)
-[ ]	Communicate plan to employees, investors and public 
-[ ]	Create new policies: on treasury, trading, investment management and IT (cybersecurity)
-[ ]	Create an accounting memo which should cover financial statement impacts, critical accounting policies and management’s discussion and analysis of Financial condition
-[ ]	Seek for insurance embedded in custody or D&O
+-	Present new resolutions to board of directors, investment committee and audit committee
+-	Create a regulatory disclosure (for instance 8-Ks, 10-Ks and 10-Qs with SEC)
+-	Communicate plan to employees, investors and public 
+-	Create new policies: on treasury, trading, investment management and IT (cybersecurity)
+-	Create an accounting memo which should cover financial statement impacts, critical accounting policies and management’s discussion and analysis of Financial condition
+-	Seek for insurance embedded in custody or D&O
