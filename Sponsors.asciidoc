@@ -4,6 +4,6 @@ Sponsors of this project are as follows:
 
 // Add the name and link as follows:
 
-[KnowAll AI](https://www.knowall.ai)
+link:https://www.knowall.ai[KnowAll AI]
 
 _If you want to become a sponsor, please get in touch._
