@@ -1,5 +1,9 @@
 == Regulation & Taxation
 
+It is crucial for a company wishing to adopt a Bitcoin strategy to have a thorough understanding of the relevant regulations and taxation policies. Failure to comply with these regulations can result in severe consequences, including fines, legal action, and reputational damage. Additionally, ignorance of the tax implications of using Bitcoin can result in unexpected tax bills and decreased profits. Therefore, it is essential for companies to stay informed of the evolving regulatory landscape and to work with legal and tax professionals to ensure that they are fully compliant with all applicable laws and regulations. A comprehensive understanding of the regulatory and tax requirements is crucial for the successful implementation of a Bitcoin strategy and for protecting the long-term viability of the company.
+
+> As outlined in the Vendors & Partners chapter, make sure you seek council from professionals in this area in addition to understand the sections below, as regulatiosna and taxations rules can change.
+
 === Cryptocurrency regulations in the U.K.
 
 The United Kingdom has taken a proactive approach to regulating cryptocurrencies, recognizing the potential benefits of digital currencies as well as the associated risks. The Financial Conduct Authority (FCA) is the primary regulatory body responsible for overseeing the cryptocurrency industry in the UK.
