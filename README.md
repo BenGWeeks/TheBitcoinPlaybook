@@ -32,12 +32,12 @@ To read this book, see [book.asciidoc](https://github.com/BenGWeeks/TheBitcoinPl
 + [What is Bitcoin?](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/WhatIsBitcoin.asciidoc)
 + [Central Bank Digital Currencies (CBDCs)](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/CBDCs.asciidoc)
 + Chapter 1: [Strategic Opportunity](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/StrategicOpportunity.asciidoc)
-+ Chapter 2: [ESG: Environment, Social & Governance](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/ESG.asciidoc)
-+ Chapter 2: [Regulation & Taxation](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/RegulationAndTaxation.asciidoc)
-+ Chapter 3: [Risks & Controls](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/RisksAndControls.asciidoc)
-+ Chapter 4: [Education](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/Education.asciidoc)
-+ Chapter 5: [Vendors & Partners](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/VendorsAndPartners.asciidoc)
-+ Chapter 6: [Execution](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/Execution.asciidoc)
++ Chapter 2: [Risks & Controls](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/RisksAndControls.asciidoc)
++ Chapter 3: [Vendors & Partners](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/VendorsAndPartners.asciidoc)
++ Chapter 4: [ESG: Environment, Social & Governance](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/ESG.asciidoc)
++ Chapter 5: [Regulation & Taxation](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/RegulationAndTaxation.asciidoc)
++ Chapter 6: [Education](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/Education.asciidoc)
++ Chapter 7: [Execution](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/Execution.asciidoc)
 + [Thanks](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/Thanks.asciidoc)
 
 ## Source
