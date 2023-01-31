@@ -40,6 +40,7 @@ To read this book, see [book.asciidoc](https://github.com/BenGWeeks/TheBitcoinPl
 + Chapter 7: [Execution](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/Execution.asciidoc)
 + Case Study: [Microstrategy](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/Microstrategy.asciidoc)
 + Case Study: [Wikipedia](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/Wikipedia.asciidoc)
++ Case Study: [Square Inc](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/SquareInc.asciidoc)
 + [Thanks](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/Thanks.asciidoc)
 
 ## Source
