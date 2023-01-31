@@ -1,10 +1,8 @@
-== Strategy
+== Strategic opportunity
 
-In the early 1990’s the World Wide Web was created.
-Who would have known that this would lead to Amazon, a company with a market cap of 1.76 trillion USD, that with a few clicks, can deliver products to your door the very next day.
+In the early 1990’s the World Wide Web was created. Who would have known that this would lead to Amazon, a company with a market cap of 1.76 trillion USD, that with a few clicks, can deliver products to your door the very next day.
 
-This same revolution is coming to the monetary sector. 
-For the first time in human history, individuals and companies have access to “sound money” and can verifiably transact directly via cryptographic proofs without the need for a trusted third party using a monetary system that is decentralised and not under central control.
+This same revolution is coming to the monetary sector. For the first time in human history, individuals and companies have access to “sound money” and can verifiably transact directly via cryptographic proofs without the need for a trusted third party using a monetary system that is decentralised and not under central control.
 
 The Bitcoin Playbook outlines the process by which an organisation can leverage crypto technologies into their business operating model. This forms part of a larger digital transformation that companies will have to partake in to maintain relevance in the evolving economic conditions of today.
 
