@@ -38,6 +38,8 @@ To read this book, see [book.asciidoc](https://github.com/BenGWeeks/TheBitcoinPl
 + Chapter 5: [Regulation & Taxation](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/RegulationAndTaxation.asciidoc)
 + Chapter 6: [Education](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/Education.asciidoc)
 + Chapter 7: [Execution](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/Execution.asciidoc)
++ Case Study: [Microstrategy](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/Microstrategy.asciidoc)
++ Case Study: [Wikipedia](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/Wikipedia.asciidoc)
 + [Thanks](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/Thanks.asciidoc)
 
 ## Source
