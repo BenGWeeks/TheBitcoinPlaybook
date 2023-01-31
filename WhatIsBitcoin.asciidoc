@@ -154,17 +154,10 @@ When the last bitcoin of 21 million bitcoins is mined, no more bitcoins will be 
 
 === The Future of Bitcoin
 
-Within the last decade, Bitcoin has received tremendous popularity and has become one of the top assets in the world by market cap. 
+The future of Bitcoin is subject to much speculation and debate. Some experts believe that Bitcoin has the potential to become a widely-accepted global currency, while others believe that its volatile price swings and lack of regulatory oversight make it a risky investment.
 
-// Insert diagram
+On one hand, proponents of Bitcoin point to its decentralized nature, finite supply, and increasing institutional adoption as evidence of its potential to become a widely-accepted currency. The growing number of businesses accepting Bitcoin as a form of payment, as well as the increasing number of institutional investors investing in Bitcoin, suggest that its adoption is increasing.
 
-Today, we can see athletes being paid in crypto, large retailers accepting payments in bitcoins such as Microsoft, Home Depot and Starbucks, large investment firms adding cryptocurrencies to their portfolios, and the governments accepting bitcoin as a legal payment network.
+On the other hand, critics of Bitcoin argue that its price is too volatile and that it is vulnerable to hacking and fraud. Additionally, its lack of regulatory oversight and its association with illegal activities such as money laundering and tax evasion have led some to question its legitimacy.
 
-In the future, the Bitcoin lightning network will allow abundant smaller daily transactions to individuals when people will start using it to pay for necessities using bitcoin just like fiat currency.
-
-Gold has a market cap of more than 11 trillion USD. It is estimated, by the time bitcoin’s market cap will reach 11 trillion USD, the price of one bitcoin will be around $580,000.
-
-// M2 money supply ...
-
-
-
+Ultimately, the future of Bitcoin will depend on a number of factors, including government regulations, technological advancements, and public perception, and companies like yours. While it is impossible to predict the future with certainty, it is clear that Bitcoin and other cryptocurrencies will play an increasingly important role in the financial landscape in the years to come - and if you believe in this future, it's time to play your part.
