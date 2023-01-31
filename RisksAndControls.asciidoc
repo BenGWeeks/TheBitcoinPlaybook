@@ -1,9 +1,28 @@
 == Risks & Controls
 
+The adoption of Bitcoin as a strategic asset has been gaining popularity in recent years, with many companies recognizing the potential benefits of incorporating this digital currency into their investment portfolios. While the potential rewards of investing in Bitcoin can be substantial, it is important to understand and manage the risks associated with this new asset class.
+
+*Volatility*: One of the most significant risks associated with Bitcoin is its volatility. The price of Bitcoin can be subject to rapid and significant fluctuations, which can result in substantial losses for investors. To mitigate this risk, companies can implement a comprehensive risk management strategy that includes diversification, hedging, and proper portfolio management.
+
+For example, companies can diversify their Bitcoin holdings by investing in a range of different cryptocurrencies, or by investing in other asset classes such as stocks, bonds, and real estate. Hedging can be used to reduce the impact of price fluctuations on a company's portfolio by using derivatives or other financial instruments to offset potential losses. Proper portfolio management involves monitoring the overall exposure to Bitcoin and regularly rebalancing the portfolio to ensure that the investment remains in line with the company's risk tolerance and investment objectives.
+
+*Security*: Another risk associated with Bitcoin is the potential for cyber attacks and hacking. Bitcoin transactions are stored in a decentralized ledger known as the blockchain, which makes them less susceptible to hacking and fraud. However, exchanges and wallets that store Bitcoins can be vulnerable to cyber attacks, and investors must take steps to ensure the security of their investments.
+
+This can include implementing strong password protocols, using two-factor authentication, and storing private keys in a secure location. Companies can also consider using multi-sig wallets, which require multiple signatures or approvals before transactions can be executed, or insurance coverage to protect against losses due to theft or hacking.
+
+*Regulatory Risk*: The regulatory environment for Bitcoin and other cryptocurrencies is still evolving, and changes to regulations could have a significant impact on the price of Bitcoin and the ability to trade it. Companies should stay informed of regulatory developments and take a proactive approach to risk management, including implementing proper compliance procedures and consulting with legal and financial experts.
+
+This can involve staying up-to-date on changes to laws and regulations related to cryptocurrency, such as taxes, reporting requirements, and anti-money laundering regulations. Companies can also consider working with reputable exchanges and brokers that have a strong track record of compliance and follow established best practices in the industry.
+
+*Operational Risk*: Bitcoin transactions can be complex and difficult to understand for those who are new to the technology. There is also a risk of operational errors, such as mistakes in executing trades or improperly sending transactions. To mitigate these risks, companies should educate themselves about the technology and work with trusted partners and experts to ensure the proper execution of their Bitcoin strategy.
+
+This can involve investing in training and education for employees, working with experienced Bitcoin traders and consultants, and utilizing secure and user-friendly trading platforms. Companies can also consider conducting regular audits and stress tests to identify and address potential operational risks and ensure the overall stability of their Bitcoin portfolio.
+
+In conclusion, adopting a Bitcoin strategy can bring many benefits to a company, but it is important to understand and manage the potential risks associated with investing in this digital currency. A comprehensive risk management strategy should be in place, including diversification, hedging, security measures, regulatory compliance, and proper operational procedures. By properly managing the risks associated with Bitcoin, companies can realize the full potential of this digital currency and enhance their overall financial stability.
 
 === Risk policy & governance
 
-The C-level, the treasurer, and the Board of Directors of a company are usually setting a risk policy, also called risk mandate or risk limit (being the policy set by an organisation to cap the exposure to certain assets), based on the nature of acceptable financial instruments to be used for treasury functions. Those instruments are assessed in terms of risk profile, daily operation such as payments, debt management, raising funds, and how they can ultimately facilitate trade, customer interaction, payroll, cross border transfers and so on. 
+The C-level, the treasurer, and the Board of Directors of a company are usually respoinsible for setting a risk policy, also called risk mandate or risk limit (being the policy set by an organisation to cap the exposure to certain assets), based on the nature of acceptable financial instruments to be used for treasury functions. Those instruments are assessed in terms of risk profile, daily operation such as payments, debt management, raising funds, and how they can ultimately facilitate trade, customer interaction, payroll, cross border transfers and so on. 
 
 === Risk mitigation
 
@@ -13,7 +32,21 @@ The C-level, the treasurer, and the Board of Directors of a company are usually 
 
 While using Bitcoin for treasury seems appealing to more and more companies, the right risk measures need to be put in place, as well as the right risk tolerance levels, for it to be worthwhile pursuing this type of investment. The COSO framework is helpful and a particular attention should be around regulation and tax/accounting rules surrounding digital assets as those two are still evolving.
 
-The COSO footnote:[https://i-sight.com/resources/coso-framework-what-it-is-and-how-to-use-it/] framework footnote:[Committee of Sponsoring Organizations of the Treadway Commission, Internal Control—Integrated Framework, May 2013] is helpful in identifying relevant risks and determining appropriate control activities. Here are some areas companies may look at:
+The COSO (Committee of Sponsoring Organizations of the Treadway Commission)footnote:[Committee of Sponsoring Organizations of the Treadway Commission, Internal Control—Integrated Framework, May 2013, https://i-sight.com/resources/coso-framework-what-it-is-and-how-to-use-it/] Enterprise Risk Management (ERM) framework is a commonly used framework for managing and mitigating risks in organizations. The COSO ERM framework provides a structured approach to identify, assess, and manage risk, and can be used in the context of risk mitigation as follows:
+
+- *Identify Risks*: The first step in the COSO framework is to identify potential risks that may impact an organization. This can be done through a risk assessment process that includes an analysis of internal and external factors, such as changes in laws and regulations, economic conditions, and technological advancements.
+
+- *Assess Risks*: Once potential risks have been identified, the next step is to assess their likelihood and impact. This includes analyzing the probability of each risk occurring and its potential impact on the organization. This information can be used to prioritize risks and determine the level of attention they require.
+
+- *Control Activities*: The COSO framework emphasizes the importance of control activities to mitigate risks. Control activities are policies, procedures, and processes designed to ensure that risk mitigation strategies are executed effectively. These activities can include internal controls, such as segregation of duties and authorization procedures, as well as risk management strategies, such as insurance and contingency planning.
+
+- *Communication and Monitoring*: The COSO framework stresses the importance of effective communication and ongoing monitoring of risks. This includes regular reporting to management, ongoing assessments of risk mitigation strategies, and regular review of internal controls to ensure that they are working effectively.
+
+- *Evaluation and Revision*: The final step in the COSO framework is to evaluate the effectiveness of risk mitigation strategies and revise them as necessary. This includes regular assessments of the risk environment, review of internal controls, and analysis of the performance of risk mitigation strategies.
+
+By using the COSO framework to manage and mitigate risks, organizations can develop a comprehensive risk management strategy that is tailored to their specific needs and goals. This can help organizations to better identify and assess risks, implement effective control activities, communicate and monitor risks effectively, and evaluate and revise their risk management strategies as necessary.
+
+Here are some areas companies may look at:
 
 ==== Reputational risk
 
