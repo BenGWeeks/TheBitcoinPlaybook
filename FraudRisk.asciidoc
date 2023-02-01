@@ -1,0 +1,27 @@
+== Fraud Risk
+
+[cols="1,1,1,1"]
+|===
+|Risk score
+|Rank
+|Impact
+|Probability
+
+|2/5
+|6th
+|Low
+|Low
+|===
+
+*_Description_*:
+
+Risk of Fraud involves deceit with the intention to illegally or unethically gain at the expense of another. When one person is given the sole responsibility of two conflicting tasks the risk of fraud increases. 
+The company needs to setup appropriate segregation of duties internally as well as among its partners in order to dispose of additional points of control. Having more than one person who carries out sensitive tasks (such as transfer of crypto-assets, management of private keys) reduces this risk.
+Additionally, employees in startups are seldom screened causing sometimes a favorable environment for fraud due to conflict of interest and lack of ethics.  
+
+*_Mitigant_*: 
+
+Persons involved in execution, should be different than persons involved in custody.
+Access to sensitive information or sensitives actions should follow the for 4 eyes principle (if not 6 eyes principle) meaning that different persons without a chance of colluding are performing together the same sensitive tasks. For instance to issue the master key of a wallet.
+
+All the employees should be screened as much as possible.
