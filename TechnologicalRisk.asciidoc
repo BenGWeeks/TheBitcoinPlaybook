@@ -1,0 +1,38 @@
+== Technological Risk
+
+[cols="1,1,1,1"]
+|===
+|Risk score
+|Rank
+|Impact
+|Probability
+
+|4/5
+|3rd
+|Medium
+|High
+|===
+
+*_Description_*:
+
+Technology risk is any potential for technology failures to disrupt the company business such as information security incidents or service outages. 
+There are different underlying blockchains supporting different crypto-assets.
+This has an impact in term of decentralisation of governance, resilience of the blockchain and its operating model / consensus mechanism.
+Specific IT practices need to be in place to address data management and data privacy.
+
+_Decentralisation of governance_: Public blockchains are usually decentralized by nature.
+However certain blockchain/protocol use governance tokens for decision making, and we saw some attempts to buy/loan those governance token (via flash loans) in an attempt to influence the voting/governance.
+
+_Resilience of the blockchain_: For instance, Ethereum had multiple outages in the past due to congestion of its blockchain related to DeFi transaction around CryptoKitties or DeFi protocols.
+It tranlasted in service being unavailable for hours.
+
+_Consensus mechanism_: For instance, Bitcoin is decentralized by design but the four biggest miners involved in Bitcoin proof of work mechanism represents more than 50% of the hash power of all the minors. In other terms, if they were to collude, they could maliciously manipulate the ledger. 
+
+_Fork_: In the past Blockchain saw a duplication of its blockchain, called forking, implying a division of its community. It was the case with Bitcoin and Bitcoin cash.
+
+_Other technical risks_: blockchain involved other type of attacks such as DDOS attack, 51% attack, Sybille attack on a node… not to mention the risk of seeing its wallet being hacked or just losing the private key (an equivalent of losing a pincode of its wallet)
+
+*_Mitigants_*:
+
+Overall, we recommend well established blockchain such as Bitcoin with clear governance and proven resilience as Bitcoin blockchain has never been hacked or down since its inception.
+Having tech savvy employee is also a must and/or companies should involve external consultants.
