@@ -1,0 +1,25 @@
+== Compliance Risk
+
+[cols="1,1,1,1"]
+|===
+|Risk score
+|Rank
+|Impact
+|Probability
+
+|5/5
+|1st
+|High
+|High
+
+|===
+
+*_Description_*:
+
+Regulatory risk is the risk that a lack of / change in laws and regulations will materially impact a security, business, sector, or market.
+Companies are facing a newly formed industry still largely unregulated or at least with grey areas.
+They need not only to comply with a complex and rapid evolving regulation on crypto-assets but make sure the exchange and custodian they use abide by all appropriate laws and regulations. For instance, in order to fight against money laundering (AML: Anti Money Laundering), crypto transfers need to follow the recommendation 16 from FATF (Financial Action Task Force), also called the travel rule, to check the identity of the sender and receiver while using KYC (Know-Your-Customer). There are also a set of accounting and reporting standards to regulators that need to be set up. Generally speaking, the US companies should comply with SEC securities laws, Bank Secrecy Act, Foreign Account Tax Compliance Act and General Data Protection Legislation.In the UK, the market authorities are FCA (Financial Conduct Authority) who is responsible for ensuring crypto companies' compliance with laws. In Europe, there is no homogeneous regulation until the issuance of MiCA (Market in Crypto Assets) which is expected by 2023. Activities are supervised by local market authorities were the service is offered.
+
+*_Mitigant_*: 
+
+Companies should create a legal and compliance department and check with market authorities that all requirement is filled. Ideally an external legal counsel can be use as an audit or to perform sensitive new activities.
