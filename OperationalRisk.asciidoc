@@ -1,4 +1,4 @@
-== Appendix 2: Operational Risk
+== Appendix 2: Risk - Operational
 
 [cols="1,1,1,1"]
 |===
