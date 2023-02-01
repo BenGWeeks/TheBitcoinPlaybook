@@ -1,4 +1,4 @@
-== Appendix 6: Risks - Financial & Liquidity
+== Appendix 6: Risk - Financial & Liquidity
 
 [cols="1,1,1,1"]
 |===
