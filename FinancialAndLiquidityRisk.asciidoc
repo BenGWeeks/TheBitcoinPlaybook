@@ -1,0 +1,40 @@
+== Risks - Financial & Liquidity
+
+[cols="1,1,1,1"]
+|===
+|Risk score
+|Rank
+|Impact
+|Probability
+
+|1/5
+|7th
+|Low
+|Low
+
+|===
+
+*_Description_*:
+
+Financial risk is the possibility of losing money on an investment or business venture.
+Most of crypto-assets have no intrasec value such as bitcoin, as they are not backed by any gold or silver.
+But some crypto-assets like Ethereum could have an intrasec value linked to the value created by the blockchain in term of use cases (DApps, DeFi….).
+Companies using crypto-assets in their balance sheet run the risk of a write off with 100% losses.
+
+Market or asset liquidity risk is asset illiquid, meaning the inability to easily exit a position.
+This potentially implies a shift in the market price upon the deepness of the market.
+
+Liquidity varies upon the crypto-assets with Bitcoin offering the best liquidity.
+
+Liquidity is not necessarily an issue if bitcoins represent a long term investment.
+Having said that, it is still necessary for a treasurer to demonstrate that cryptocurrencies are equivalent to HQLA (High Quality Liquid Asset).
+For this reason, the purchase of 1.5 billion of Bitcoin in February 2021 by Tesla was followed by a sale of 10% of its wallet in Q2 to showcase the market conditions and quantify any premium penalty relative to its liquidity.
+This exercise was proven successful as the order was filled without significant market move.
+However a treasurer still needs to assess his capital resources, how the capital is preserved and have an appropriate provision for extra cash on hand to face any urgent need or potential depreciation of the assets’ value while liquidating his position.
+
+*_Mitigant_*: 
+
+Companies need to monitor market liquidity.
+Best crypto-assets offer different derivatives such as future, ETN, ETF, NDF… on top of the physical underlying enabling certain market liquidity pools.
+
+If the companies prefer to deal only with the underlying such as bitcoin, it is recommended to set up an access to various trading platforms and OTC (Over the Counter) brokers to increase the market reach and implied liquidity.  
