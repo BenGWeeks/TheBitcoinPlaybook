@@ -1,0 +1,27 @@
+== Appendix 1: Risk - Counterparty (Custody)
+
+[cols="1,1,1,1"]
+|===
+|Risk score
+|Rank
+|Impact
+|Probability
+
+|2/5
+|5th
+|Low
+|Low
+|===
+
+*_Description_*:
+
+Counterparty risk is the likelihood or probability that one of those involved in a transaction might default on its contractual obligation.
+A company is usually facing a counterparty in the presence of custodian/exchange which is taking care of the wallet or holding the assets on its behalf. 
+In fact, companies have to choose between self-custody, meaning handling their wallets and private keys themselves to safekeep their digital assets or use a third party to do it. Both solutions hold technical risks (hacking, hard fork, loss of keys…) but the custodial approach, although operationally safer, presents a counterparty risk in case this intermediary defaults. 
+
+On top of checking the credit risk of this intermediary, it is also necessary to verify that transactions are processed in a properly controlled manner.
+
+*_Mitigant_*: 
+
+A new approach of decentralized cutody is now available thank to MPC (Multi Parties Computation). The company is controlling its own wallet but the management of the private key is split beween several actors reducing the counterparty risk.
+In case of a centralized custody/exchange, the company should prefer a reputable party, secured by SOC 2 certification and ideally insured against theft.
