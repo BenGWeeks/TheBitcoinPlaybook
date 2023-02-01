@@ -141,7 +141,7 @@ On August 11th 2020, MicroStrategy was the first publicly traded company to use 
 
 |Hive Blockchain		
 |HVBT:NASDAQ	
-|Filing | News	
+|Filing / News	
 |946	
 |$45,185,492	
 |0.005%
