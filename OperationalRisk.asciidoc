@@ -1,0 +1,30 @@
+== Operational Risk
+
+[cols="1,1,1,1"]
+|===
+|Risk score
+|Rank
+|Impact
+|Probability
+
+|5/5
+|2nd
+|High
+|Medium
+|===
+
+*_Description_*:
+
+Operational risk summarizes the uncertainties and hazards a company faces when it attempts to do its day-to-day business activities within a given field or industry.
+The crypto related services are often offered by startups with lower standards than financial institutions creating various operational risks and fraud.
+Therefore crypto transfers and custody create some operational risks.
+This is especially true as blockchain is a new technology with a certain technical complexity.
+Employees have often a digital assets illiteracy driving them to mistakes. 
+Another risk is the lack of resilience of the system and the services can be unavailable for several hours creating an operational risk.
+Last but not least, other department such as audit committee need also to be trained to identify and assess risks in a proper manner.
+
+*_Mitigants_*:
+
+Some control environment needs to be put in place.
+For instance, the company could employ additional employees with digital assets experience and use external auditors.
+Another good practice is to set a new product committee and define the policies/procedures to be followed.  
