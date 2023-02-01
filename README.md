@@ -41,6 +41,12 @@ To read this book, see [book.asciidoc](https://github.com/BenGWeeks/TheBitcoinPl
 + Case Study: [Microstrategy](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/Microstrategy.asciidoc)
 + Case Study: [Wikipedia](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/Wikipedia.asciidoc)
 + Case Study: [Square Inc](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/SquareInc.asciidoc)
++ Appendix 1: Risk - [Reputational](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/ReputationalRisk.asciidoc)
++ Appendix 2: Risk - [Operational](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/OperationalRisk.asciidoc)
++ Appendix 3: Risk - [Counterparty (Custody)](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/CounterpartyRisk.asciidoc)
++ Appendix 4: Risk - [Fraud](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/FraudRisk.asciidoc)
++ Appendix 5: Risk - [Regulatory & Compliance](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/RegulatoryAndComplianceRisk.asciidoc)
++ Appendix 6: Risk - [Financial & Liquidity](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/FinancialAndLiquidityRisk.asciidoc)
 + [Thanks](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/Thanks.asciidoc)
 
 ## Source
