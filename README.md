@@ -1,7 +1,5 @@
 ![The Bitcoin Playbook](https://raw.githubusercontent.com/BenGWeeks/TheBitcoinPlaybook/main/images/The%20Bitcoin%20Playbook%20-%20Repo%20Card.png)
 
-https://raw.githubusercontent.com/BenGWeeks/TheBitcoinPlaybook/main/images/The%20Bitcoin%20Playbook%20-%20Repo%20Card.png
-
 The Bitcoin Playbook provides a digital transformation approach for companies to adopt Bitcoin into their operations.
 
 PLEASE NOTE: This book is still very much draft and subject to change.
