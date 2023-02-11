@@ -41,6 +41,7 @@ To read this book, see [book.asciidoc](https://github.com/BenGWeeks/TheBitcoinPl
 + Case Study: [Microstrategy](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/Microstrategy.asciidoc)
 + Case Study: [Wikipedia](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/Wikipedia.asciidoc)
 + Case Study: [Square Inc](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/SquareInc.asciidoc)
++ Case Study: [Tesla](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/Tesla.asciidoc)
 + Appendix 1: Risk - [Reputational](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/ReputationalRisk.asciidoc)
 + Appendix 2: Risk - [Operational](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/OperationalRisk.asciidoc)
 + Appendix 3: Risk - [Counterparty (Custody)](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/CounterpartyRisk.asciidoc)
