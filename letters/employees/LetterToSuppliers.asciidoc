@@ -1,0 +1,39 @@
+= Employees: Letter to Suppliers
+
+> This is a template for employees who get paid in Bitcoin or other Bitcoiners to request payment in Bitcoin from their suppliers, like mortgage companies and utilities.
+> It's important to let suppliers know their customers prefer a payment method.
+> It doesn't go into "de-banking" but is kept concise and professional and provides a clear rationale for why the supplier should consider accepting Bitcoin.
+
+
+`[Your Name]` +
+`[Your Address]` +
+ 
+`Company Name]` +
+`[Company Address]` +
+
+`[Date]` +
+
+Dear Sir/Madam,
+
+Account: `[Account Reference]`
+Subject: Request to Enable Bitcoin Payments for `[Service/Product Name]`
+
+My name is `[Your Name]`, and I am a `[customer/client]` of `[Company Name]`.
+I am writing to express my preference for using Bitcoin as a payment method for my `[mortgage/utility/bill type]` payments.
+
+Bitcoin and the Lightning network offer several advantages, such as lower transaction fees, enhanced security, and quicker processing times.
+By accepting Bitcoin, [Company Name] can benefit from these features, potentially reducing costs and increasing efficiency.
+
+I understand that integrating a new payment system can be challenging.
+However, many companies worldwide are adopting Bitcoin due to its growing popularity, practical benefits and adoption as legal tender by countries such as El Salvador.
+Accepting Bitcoin could place `[Company Name]` at the forefront of this financial innovation, potentially attracting a broader customer base.
+
+If `[Company Name]` is interested in having Bitcoin as part of their digital strategy, I would like to point you in the direction of the link:https://github.com/BenGWeeks/TheBitcoinPlaybook[Bitcoin Playbook].
+The Bitcoin PlayBook is an open-source documentation of an interpretation of the process of implementing Bitcoin within your business first pioneered by MicroStrategy.
+
+Thank you very much for considering my request. I am excited to hear back from you and hope to continue supporting `[Company Name]` with the added convenience and flexibility that Bitcoin payments offer.
+
+Sincerely,
+
+`[Your Name]` +
+`[Your Contact Information]`
