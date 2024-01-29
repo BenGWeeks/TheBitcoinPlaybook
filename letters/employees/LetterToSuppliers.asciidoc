@@ -9,6 +9,7 @@
 `[Your Address]` +
  
 `[Company Name]` +
+Accounts Receivable +
 `[Company Address]` +
 
 `[Date]` +
@@ -16,22 +17,22 @@
 Dear Sir/Madam,
 
 Account: `[Account Reference]` +
-Subject: Request to Enable Bitcoin Payments for `[Service/Product Name]`
+Subject: Request to Enable Bitcoin Payments
 
-My name is `[Your Name]`, and I am a `[customer/client]` of `[Company Name]`.
-I am writing to express my preference for using Bitcoin as a payment method for my `[mortgage/utility/bill type]` payments.
+My name is `[Your Name]`, and I am a customer of `[Company Name]`.
+I am writing to express my preference for using Bitcoin as a payment method for my payments.
 
 Bitcoin and the Lightning network offer several advantages, such as lower transaction fees, enhanced security, and quicker processing times.
-By accepting Bitcoin, `[Company Name]` can benefit from these features, potentially reducing costs and increasing efficiency.
+By accepting Bitcoin, your company can benefit from these features, potentially reducing costs and increasing efficiency.
 
 I understand that integrating a new payment system can be challenging.
-However, many companies worldwide are adopting Bitcoin due to its growing popularity, practical benefits and adoption as legal tender by countries such as El Salvador.
-Accepting Bitcoin could place `[Company Name]` at the forefront of this financial innovation, potentially attracting a broader customer base.
+However, many companies worldwide are adopting Bitcoin due to its growing popularity, practical benefits, and adoption as legal tender by countries such as El Salvador.
+Accepting Bitcoin could place your company at the forefront of this financial innovation, potentially attracting a broader customer base.
 
-If `[Company Name]` is interested in having Bitcoin as part of their digital strategy, I would like to point you in the direction of the Bitcoin Playbook (ref: link:https://github.com/BenGWeeks/TheBitcoinPlaybook[https://github.com/BenGWeeks/TheBitcoinPlaybook]).
-The Bitcoin Playbook offers open-source documentation that interprets and details the process of integrating Bitcoin into your business, a strategy first pioneered by MicroStrategy.
+If you are interested in having Bitcoin as part of your digital strategy, I would like to point you in the direction of the Bitcoin Playbook (ref: link:https://github.com/BenGWeeks/TheBitcoinPlaybook[https://github.com/BenGWeeks/TheBitcoinPlaybook]).
+The Bitcoin Playbook offers open-source documentation that interprets and details integrating Bitcoin into your business, a strategy first pioneered by MicroStrategy.
 
-Thank you very much for considering my request. I am excited to hear back from you and hope to continue supporting `[Company Name]` with the added convenience and flexibility that Bitcoin payments offer.
+Thank you very much for considering my request. I am excited to hear back from you and hope to continue supporting your company with the added convenience and flexibility that Bitcoin payments offer.
 
 Sincerely,
 
