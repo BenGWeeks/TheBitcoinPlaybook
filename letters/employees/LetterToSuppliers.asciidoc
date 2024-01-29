@@ -15,7 +15,7 @@
 
 Dear Sir/Madam,
 
-Account: `[Account Reference]`
+Account: `[Account Reference]` +
 Subject: Request to Enable Bitcoin Payments for `[Service/Product Name]`
 
 My name is `[Your Name]`, and I am a `[customer/client]` of `[Company Name]`.
