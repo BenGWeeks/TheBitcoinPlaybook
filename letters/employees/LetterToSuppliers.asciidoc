@@ -28,8 +28,8 @@ I understand that integrating a new payment system can be challenging.
 However, many companies worldwide are adopting Bitcoin due to its growing popularity, practical benefits and adoption as legal tender by countries such as El Salvador.
 Accepting Bitcoin could place `[Company Name]` at the forefront of this financial innovation, potentially attracting a broader customer base.
 
-If `[Company Name]` is interested in having Bitcoin as part of their digital strategy, I would like to point you in the direction of the link:https://github.com/BenGWeeks/TheBitcoinPlaybook[Bitcoin Playbook].
-The Bitcoin PlayBook is an open-source documentation of an interpretation of the process of implementing Bitcoin within your business first pioneered by MicroStrategy.
+If `[Company Name]` is interested in having Bitcoin as part of their digital strategy, I would like to point you in the direction of the Bitcoin Playbook (ref: link:https://github.com/BenGWeeks/TheBitcoinPlaybook[https://github.com/BenGWeeks/TheBitcoinPlaybook]).
+The Bitcoin Playbook offers open-source documentation that interprets and details the process of integrating Bitcoin into your business, a strategy first pioneered by MicroStrategy.
 
 Thank you very much for considering my request. I am excited to hear back from you and hope to continue supporting `[Company Name]` with the added convenience and flexibility that Bitcoin payments offer.
 
