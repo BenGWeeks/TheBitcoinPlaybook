@@ -22,7 +22,7 @@ My name is `[Your Name]`, and I am a `[customer/client]` of `[Company Name]`.
 I am writing to express my preference for using Bitcoin as a payment method for my `[mortgage/utility/bill type]` payments.
 
 Bitcoin and the Lightning network offer several advantages, such as lower transaction fees, enhanced security, and quicker processing times.
-By accepting Bitcoin, [Company Name] can benefit from these features, potentially reducing costs and increasing efficiency.
+By accepting Bitcoin, `[Company Name]` can benefit from these features, potentially reducing costs and increasing efficiency.
 
 I understand that integrating a new payment system can be challenging.
 However, many companies worldwide are adopting Bitcoin due to its growing popularity, practical benefits and adoption as legal tender by countries such as El Salvador.
