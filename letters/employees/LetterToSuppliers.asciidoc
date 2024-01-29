@@ -8,8 +8,8 @@
 `[Your Name]` +
 `[Your Address]` +
  
-`[Company Name]` +
 Accounts Receivable +
+`[Company Name]` +
 `[Company Address]` +
 
 `[Date]` +
@@ -19,8 +19,7 @@ Dear Sir/Madam,
 Account: `[Account Reference]` +
 Subject: Request to Enable Bitcoin Payments
 
-My name is `[Your Name]`, and I am a customer of `[Company Name]`.
-I am writing to express my preference for using Bitcoin as a payment method for my payments.
+I am a customer of yours, and I am writing to express my preference for using Bitcoin as a payment method for my payments.
 
 Bitcoin and the Lightning network offer several advantages, such as lower transaction fees, enhanced security, and quicker processing times.
 By accepting Bitcoin, your company can benefit from these features, potentially reducing costs and increasing efficiency.
