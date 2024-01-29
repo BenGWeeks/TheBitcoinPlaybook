@@ -8,7 +8,7 @@
 `[Your Name]` +
 `[Your Address]` +
  
-`Company Name]` +
+`[Company Name]` +
 `[Company Address]` +
 
 `[Date]` +
