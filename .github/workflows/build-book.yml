@@ -1,0 +1,100 @@
+name: Book Build for Amazon KDP
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+    paths-ignore:
+      - 'presentations/**'
+      - 'reference/**'
+
+permissions:
+  contents: write
+
+jobs:
+  build-book:
+    name: Build Book PDF
+    runs-on: ubuntu-latest
+    outputs:
+      pdf_path: ${{ steps.build-pdf.outputs.pdf_path }}
+      build_success: ${{ steps.build-pdf.outputs.build_success }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up environment
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y asciidoctor
+          sudo gem install asciidoctor-pdf
+          asciidoctor --version
+
+      - name: Build PDF
+        id: build-pdf
+        run: |
+          mkdir -p images letters chapters casestudies appendices
+          if asciidoctor-pdf -a pdf-theme=thebitcoinplaybook-theme.yml -a pdf-themesdir=themes --title "The Bitcoin Playbook for KDP" book.adoc -o TheBitcoinPlaybook.pdf --trace -v; then
+            echo "PDF build succeeded"
+            echo "build_success=true" >> $GITHUB_OUTPUT
+            echo "pdf_path=TheBitcoinPlaybook.pdf" >> $GITHUB_OUTPUT
+          else
+            echo "PDF build failed"
+            echo "build_success=false" >> $GITHUB_OUTPUT
+            echo "pdf_path=" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Save book artifacts
+        if: steps.build-pdf.outputs.build_success == 'true'
+        run: |
+          mkdir -p book-outputs
+          cp TheBitcoinPlaybook.pdf book-outputs/
+
+  create-release:
+    name: Create GitHub Release
+    needs: build-book
+    runs-on: ubuntu-latest
+    if: github.event_name == 'push' && needs.build-book.outputs.build_success == 'true'
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up environment
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y asciidoctor
+          sudo gem install asciidoctor-pdf
+
+      - name: Build PDF for release
+        run: |
+          mkdir -p images letters chapters casestudies appendices
+          asciidoctor-pdf -a pdf-theme=thebitcoinplaybook-theme.yml -a pdf-themesdir=themes --title "The Bitcoin Playbook for KDP" book.adoc -o TheBitcoinPlaybook.pdf --trace -v
+
+      - name: Get date
+        id: date
+        run: echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
+
+      - name: Create Release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: v${{ steps.date.outputs.date }}
+          release_name: The Bitcoin Playbook - ${{ steps.date.outputs.date }}
+          body: |
+            Automated release of The Bitcoin Playbook PDF
+            
+            This book provides a digital transformation approach for companies adopting Bitcoin into their operations.
+            
+            All proceeds from the printed version go to Bitcoin Smiles charity.
+          draft: false
+          prerelease: false
+
+      - name: Upload Release Asset
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./TheBitcoinPlaybook.pdf
+          asset_name: TheBitcoinPlaybook-${{ steps.date.outputs.date }}.pdf
+          asset_content_type: application/pdf

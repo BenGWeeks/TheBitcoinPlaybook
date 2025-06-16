@@ -1,0 +1,88 @@
+# CLAUDE.md
+
+This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+
+## Repository Overview
+
+This is "The Bitcoin Playbook" - a book project written in AsciiDoc format that provides a digital transformation approach for companies adopting Bitcoin into their operations. The repository serves as the source for a book to be published on Amazon Kindle, with all proceeds going to Bitcoin Smiles charity.
+
+**IMPORTANT: This book focuses exclusively on Bitcoin, not other cryptocurrencies or "crypto" in general. Maintain this Bitcoin-only focus throughout all content.**
+
+## Project Structure
+
+- **Main content**: Written as `.adoc` files organized in directories
+- **Master document**: `book.adoc` includes all chapters in reading order
+- **Content directories**:
+  - `/chapters/` - Main numbered chapters (Strategic Opportunity, Risks & Controls, etc.)
+  - `/casestudies/` - Company case studies (MicroStrategy, Tesla, Square Inc, Wikipedia)
+  - `/appendices/` - Risk-focused appendices
+  - Root directory - Introductory content (About Authors, Foreword, Introduction, etc.)
+- **Supporting directories**:
+  - `/images/` - Book cover and visual assets
+  - `/letters/` - Template letters for employee communications
+  - `/presentations/` - Presentation materials (to be added)
+  - `/reference/` - Industry PDFs and whitepapers on Bitcoin, cryptocurrency accounting, and regulations
+
+## Development Workflow
+
+### Editing Content
+- All book content uses AsciiDoc format (https://docs.asciidoctor.org/asciidoc/latest/)
+- Edit `.adoc` files directly for content changes
+- Maintain consistent formatting with existing chapters
+
+### Contributing
+- Submit pull requests for suggested changes
+- Contributors who submit 100-200 substantial pull requests may become co-authors
+- Add contributor details to the Thanks section in `introduction.adoc`
+
+### Building/Preview
+- The book can be read directly on GitHub by clicking chapter links in `README.md`
+- For local preview, use an AsciiDoc processor like Asciidoctor
+- No build scripts or automated processes are currently configured
+
+## Writing Tone Guidelines
+
+When editing or creating content for The Bitcoin Playbook, maintain the following tone and style:
+
+### Target Audience
+- Board-level directors, C-suite executives, treasury teams, and corporate decision-makers
+- Assume business/financial literacy but explain Bitcoin-specific concepts clearly
+- Write for skeptical professionals who need evidence-based analysis
+
+### Core Tone Principles
+1. **Professional and Authoritative** - Use formal business language without being overly academic
+2. **Balanced and Objective** - Present both opportunities and risks; avoid crypto evangelism
+3. **Evidence-Based** - Support claims with data, statistics, and real-world examples
+4. **Action-Oriented** - Focus on practical implementation and decision-making
+5. **Bitcoin-Only** - This book is about Bitcoin specifically, not "crypto" or other cryptocurrencies
+
+### Style Guidelines
+- **Structure**: Use clear headers, bullet points, and tables for easy scanning
+- **Examples**: Include concrete data, company case studies, and specific dollar amounts
+- **Technical Depth**: Explain crypto concepts progressively - start simple, add complexity as needed
+- **Risk Awareness**: Always acknowledge and address potential risks alongside opportunities
+- **Historical Context**: Use analogies to familiar technologies (e.g., early internet) to build understanding
+
+### Language Patterns
+- Lead with clear, declarative statements
+- Use phrases like "companies should consider," "it is important to understand," "evidence suggests"
+- Avoid hyperbole, speculation, or promises of guaranteed returns
+- Include regulatory disclaimers where appropriate
+- Maintain consistent use of "Bitcoin" (capitalized) and other technical terms
+
+### What to Avoid
+- Colloquialisms or casual language
+- Cryptocurrency jargon without explanation
+- Promotional or "hype" language
+- Personal opinions without supporting evidence
+- Technical details that don't serve business decision-making
+- References to altcoins, "crypto" as a general category, or other digital assets
+- Comparisons with other cryptocurrencies (unless explicitly demonstrating Bitcoin's uniqueness)
+
+## Important Notes
+
+- This is a documentation project - no code testing or build processes required
+- The book is still in draft stage and subject to change
+- All content is under Creative Commons CC0 1.0 Universal license
+- Focus on content quality and accuracy when making edits
+- Ensure any Bitcoin-related information is factually correct and up-to-date
