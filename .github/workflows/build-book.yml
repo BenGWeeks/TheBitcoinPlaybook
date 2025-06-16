@@ -33,7 +33,7 @@ jobs:
         id: build-pdf
         run: |
           mkdir -p images letters chapters casestudies appendices
-          if asciidoctor-pdf -a pdf-theme=thebitcoinplaybook-theme.yml -a pdf-themesdir=themes --title "The Bitcoin Playbook for KDP" book.adoc -o TheBitcoinPlaybook.pdf --trace -v; then
+          if asciidoctor-pdf -a pdf-theme=thebitcoinplaybook-theme.yml -a pdf-themesdir=themes book.adoc -o TheBitcoinPlaybook.pdf --trace -v; then
             echo "PDF build succeeded"
             echo "build_success=true" >> $GITHUB_OUTPUT
             echo "pdf_path=TheBitcoinPlaybook.pdf" >> $GITHUB_OUTPUT
@@ -67,7 +67,7 @@ jobs:
       - name: Build PDF for release
         run: |
           mkdir -p images letters chapters casestudies appendices
-          asciidoctor-pdf -a pdf-theme=thebitcoinplaybook-theme.yml -a pdf-themesdir=themes --title "The Bitcoin Playbook for KDP" book.adoc -o TheBitcoinPlaybook.pdf --trace -v
+          asciidoctor-pdf -a pdf-theme=thebitcoinplaybook-theme.yml -a pdf-themesdir=themes book.adoc -o TheBitcoinPlaybook.pdf --trace -v
 
       - name: Get date
         id: date
