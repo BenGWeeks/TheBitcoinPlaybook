@@ -32,7 +32,7 @@ jobs:
       - name: Build PDF
         id: build-pdf
         run: |
-          mkdir -p images letters chapters casestudies appendices
+          mkdir -p images letters chapters casestudies appendices cover
           if asciidoctor-pdf -a pdf-theme=thebitcoinplaybook-theme.yml -a pdf-themesdir=themes book.adoc -o TheBitcoinPlaybook.pdf --trace -v; then
             echo "PDF build succeeded"
             echo "build_success=true" >> $GITHUB_OUTPUT
