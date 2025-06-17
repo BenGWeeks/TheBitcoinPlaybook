@@ -18,14 +18,66 @@ The implementation of a Bitcoin strategy, as per MicroStrategy’s roadmapfootno
 
 The above steps provide a roadmap for the implementation of a Bitcoin strategy, inline with the Bitcoin Playbook, and will help ensure a successful and compliant adoption of this innovative technology. However, it is important to note that the pace and scope of the implementation will vary depending on the company’s specific circumstances, risk tolerance, and regulatory environment. It is essential that the company regularly reviews and updates its strategy to ensure that it remains aligned with its goals and objectives, and that it is able to adapt to changing market conditions and regulatory requirements.
 
-=== Step-by-step
+=== Step-by-step Implementation Flow
 
-From the 2021 MicroStrategy: World Now sessions, the implementation is composed of the following steps:
+From the 2021 MicroStrategy: World Now sessions, the implementation follows this visual roadmap:
 
-==== Planning Phase
+[source,text]
+----
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                              🎯 PLANNING PHASE                             │
+├─────────────────────────────────────────────────────────────────────────────┤
+│                                                                             │
+│  ┌─────────────────┐  ┌─────────────────┐  ┌─────────────────┐             │
+│  │   Strategy &    │  │   Corporate     │  │   Finance &     │             │
+│  │     Team        │  │   Governance    │  │      IT         │             │
+│  └─────────────────┘  └─────────────────┘  └─────────────────┘             │
+│            │                    │                    │                     │
+│            ▼                    ▼                    ▼                     │
+│  ┌─────────────────┐  ┌─────────────────┐  ┌─────────────────┐             │
+│  │   Vendors &     │  │                 │  │   Completion    │             │
+│  │   Partners      │  │                 │  │   & Board       │             │
+│  └─────────────────┘  └─────────────────┘  └─────────────────┘             │
+│                                                     │                       │
+└─────────────────────────────────────────────────────┼─────────────────────────┘
+                                                      │
+                                                      ▼
+┌─────────────────────────────────────────────────────┼─────────────────────────┐
+│                              🚀 EXECUTION PHASE    │                        │
+├─────────────────────────────────────────────────────┼─────────────────────────┤
+│                                                     │                        │
+│            ┌─────────────────┐                     │                        │
+│            │     Part 1      │                     │                        │
+│            │   Policy &      │                     │                        │
+│            │  Agreements     │                     │                        │
+│            └─────────────────┘                     │                        │
+│                     │                              │                        │
+│                     ▼                              │                        │
+│            ┌─────────────────┐                     │                        │
+│            │     Part 2      │                     │                        │
+│            │   Defense &     │                     │                        │
+│            │   Approval      │                     │                        │
+│            └─────────────────┘                     │                        │
+│                     │                              │                        │
+└─────────────────────┼──────────────────────────────┼─────────────────────────┘
+                      │                              │
+                      ▼                              │
+┌─────────────────────┼──────────────────────────────┼─────────────────────────┐
+│                     │      📈 POST-EXECUTION      │                        │
+├─────────────────────┼──────────────────────────────┼─────────────────────────┤
+│                     │                              │                        │
+│            ┌─────────────────┐                     │                        │
+│            │   Ongoing BTC   │                     │                        │
+│            │   Purchases &   │                     │                        │
+│            │ Communications  │                     │                        │
+│            └─────────────────┘                     │                        │
+│                                                    │                        │
+└────────────────────────────────────────────────────────────────────────────┘
+----
 
-Strategy & Team
+==== 🎯 Planning Phase
 
+===== Strategy & Team
 - Clearly discuss and define the initial purpose of the BTC investment
 - Determine internal team: champion, finance working team, legal working team, and IT
 - Hold initial discussions with internal team and clarify purpose, objectives, and timeline
@@ -33,14 +85,12 @@ Strategy & Team
 - Identify external legal advisors with BTC experience: corporate governance, regulatory, contracts
 - Identify external financial advisors with BTC experience: accounting, tax, controls, treasury, and auditor
 
-Corporate Governance
-
-- *Research*: general BTC research from banks  and artic les, including publicly traded companies with BTC investments
+===== Corporate Governance
+- *Research*: general BTC research from banks and articles, including publicly traded companies with BTC investments
 - *Board*: summarize past investment-related Board authorizations and prepare list of key initial considerations to facilitate Board and management discussions
-- *Conflicts*: analyse potentla conflict of interest issues with directors' and officers' personal investments in BTC
+- *Conflicts*: analyse potential conflict of interest issues with directors' and officers' personal investments in BTC
 
-Finance and IT
-
+===== Finance and IT
 - Analyse accounting, tax, and internal controls implications/considerations
 - Determine source of fund and associated funding needs
 - Determine IT and security risks, including IT network & infrastructure and communications
@@ -48,38 +98,35 @@ Finance and IT
 - Determine investor relations strategy and associated timelines for announcements and disclosures
 - Determine how to invest in BTC: directly through broker and custodian or through a fund
 
-Vendors and Partners
-
+===== Vendors and Partners
 - Prepare summary of potential brokers, custodians, funds, and banks to work with
 - Prepare chart of key contractual considerations for brokerage, custodial, and/or fund agreements
 
-Completion
-
-- Update project roadmap with timeline, actons, and owners
+===== Completion & Board Approval
+- Update project roadmap with timeline, actions, and owners
 - Conduct Board meeting to discuss proposed BTC investments, address questions and concerns, and obtain support to move forward
 
-==== Execution Phase
+==== 🚀 Execution Phase
 
-Part 1
-
-- Prepare Treasure Policy
+===== Part 1: Policy & Agreements
+- Prepare Treasury Policy
 - Prepare Trading Policy
 - Negotiate brokerage and custodial agreements
 - Set up brokerage, custodial, and/or funding accounts
 - Train team, setup test transactions, etc. for each partner account
 - Prepare accounting memo
 
-Part 2
-
+===== Part 2: Defense & Approval
 - Implement appropriate IT defenses and changes
 - Obtain insurance: custodian, cyber security, D&O, and other
 - Prepare SEC disclosures, BTC-related disclosures for filings such as 8-Ks, 10-Qs, 10-Ks, etc.
-- Prepare communications strategy: commuinications to employees, investor relations, and public relations
+- Prepare communications strategy: communications to employees, investor relations, and public relations
 - Prepare Board and associated committee meeting documents and resolutions
-- Conduct Board, Investments Committee, and Audit Committee meetings to approve Treasury Reserve Policy, BTC Trading Poliucy, and permitted brokers and custodians, clear any conflicts of interest, and approve initial BTC purchase
+- Conduct Board, Investments Committee, and Audit Committee meetings to approve Treasury Reserve Policy, BTC Trading Policy, and permitted brokers and custodians, clear any conflicts of interest, and approve initial BTC purchase
 
-Post-execution Phase
+==== 📈 Post-execution Phase
 
+===== Ongoing BTC Purchases & Communications
 - Determine amount, timing, frequency, source of funds, and method for subsequent BTC purchases
-- Determine the need and method of external communications regarding subsequent BTc purchases
+- Determine the need and method of external communications regarding subsequent BTC purchases
 - Conduct subsequent BTC purchases, as appropriate
