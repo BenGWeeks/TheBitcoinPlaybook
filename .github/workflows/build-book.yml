@@ -77,10 +77,12 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          ls -la TheBitcoinPlaybook.pdf
           # Check if release already exists
           if gh release view "v${{ steps.date.outputs.date }}" >/dev/null 2>&1; then
             echo "Release v${{ steps.date.outputs.date }} already exists, uploading PDF to existing release"
-            gh release upload "v${{ steps.date.outputs.date }}" "TheBitcoinPlaybook.pdf#TheBitcoinPlaybook-${{ steps.date.outputs.date }}.pdf" --clobber
+            gh release upload "v${{ steps.date.outputs.date }}" "TheBitcoinPlaybook.pdf" --clobber
+            echo "Upload completed successfully"
           else
             echo "Creating new release v${{ steps.date.outputs.date }}"
             gh release create "v${{ steps.date.outputs.date }}" \
@@ -90,5 +92,6 @@ jobs:
             This book provides a digital transformation approach for companies adopting Bitcoin into their operations.
 
             All proceeds from the printed version go to Bitcoin Smiles charity." \
-              "TheBitcoinPlaybook.pdf#TheBitcoinPlaybook-${{ steps.date.outputs.date }}.pdf"
+              "TheBitcoinPlaybook.pdf"
+            echo "Release created successfully"
           fi
