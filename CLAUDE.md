@@ -38,7 +38,9 @@ This is "The Bitcoin Playbook" - a book project written in AsciiDoc format that 
 ### Building/Preview
 - The book can be read directly on GitHub by clicking chapter links in `README.md`
 - For local preview, use an AsciiDoc processor like Asciidoctor
-- No build scripts or automated processes are currently configured
+- **Automated PDF Generation**: GitHub Actions workflow automatically builds PDF on push to main branch
+- PDF uses custom theme (`thebitcoinplaybook-theme.yml`) optimized for Amazon KDP publishing
+- Build artifacts and releases are available on the GitHub repository
 
 ## Writing Tone Guidelines
 
@@ -79,10 +81,16 @@ When editing or creating content for The Bitcoin Playbook, maintain the followin
 - References to altcoins, "crypto" as a general category, or other digital assets
 - Comparisons with other cryptocurrencies (unless explicitly demonstrating Bitcoin's uniqueness)
 
+## Useful Resources
+
+- [MicroStrategy: Bitcoin for Corporations](https://www.microstrategy.com/en/bitcoin/bitcoin-for-corporations)
+- [Strategy Software: Bitcoin for Corporations](https://www.strategysoftware.com/world25/bitcoin-for-corporations)
+- [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)
+
 ## Important Notes
 
-- This is a documentation project - no code testing or build processes required
 - The book is still in draft stage and subject to change
 - All content is under Creative Commons CC0 1.0 Universal license
 - Focus on content quality and accuracy when making edits
 - Ensure any Bitcoin-related information is factually correct and up-to-date
+- All proceeds from the printed version go to Bitcoin Smiles charity

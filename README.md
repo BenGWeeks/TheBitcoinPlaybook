@@ -57,6 +57,7 @@ This repository will act as the source for the printed version of the book that 
 ## Relevant links
 
 * [Microstrategy: Bitcoin for Corporations](https://www.microstrategy.com/en/bitcoin/bitcoin-for-corporations)
+* [Strategy Software: Bitcoin for Corporations](https://www.strategysoftware.com/world25/bitcoin-for-corporations)
 * [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)
 
 ## License
