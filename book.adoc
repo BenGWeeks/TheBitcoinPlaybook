@@ -38,6 +38,8 @@ include::casestudies/tesla.adoc[]
 
 include::casestudies/strike.adoc[]
 
+include::casestudies/xxi.adoc[]
+
 include::appendices/reputational-risk.adoc[]
 
 include::appendices/operational-risk.adoc[]
