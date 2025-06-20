@@ -36,7 +36,7 @@ include::casestudies/square-inc.adoc[]
 
 include::casestudies/tesla.adoc[]
 
-include::casestudies/xxi-valuation-metrics.adoc[]
+include::casestudies/strike.adoc[]
 
 include::appendices/reputational-risk.adoc[]
 
