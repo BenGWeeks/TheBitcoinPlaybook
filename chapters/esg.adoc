@@ -10,7 +10,11 @@ This chapter provides a framework for evaluating Bitcoin adoption through an ESG
 
 Bitcoin's energy consumption represents the most frequently cited environmental concern. The Bitcoin network consumes approximately 150 TWh annually, comparable to the electricity consumption of medium-sized countries. However, context is essential for accurate assessment:
 
-* **Comparative Analysis**: Bitcoin's annual energy consumption is less than half that of the global banking system and gold mining industry combined
+* **Comparative Analysis**: Bitcoin's annual energy consumption (~150 TWh) is significantly less than traditional financial systems:
+  - Global banking system: ~263 TWh annually (including data centers, branch networks, ATMs, and payment processing infrastructure)
+  - Gold mining industry: ~240 TWh annually (including extraction, refining, and transportation)
+  - Combined traditional systems consume approximately 3.3x more energy than Bitcoin
+  - Sources: Bitcoin Mining Council, Cambridge Centre for Alternative Finance, Galaxy Digital Research
 * **Energy Efficiency**: Per transaction, Bitcoin mining operations continuously optimize for energy efficiency to maintain profitability
 * **Value Proposition**: The energy expenditure secures a decentralized monetary network with a market capitalization exceeding $1 trillion
 
@@ -24,12 +28,12 @@ Research indicates that Bitcoin mining operations increasingly utilize renewable
 
 ==== Environmental Due Diligence Framework
 
-Companies should implement the following assessment criteria:
+Companies adopting Bitcoin (whether as treasury assets, payment methods, or mining operations) should implement the following assessment criteria:
 
-1. **Energy Source Verification**: Evaluate mining operations' energy sources for corporate investments
-2. **Carbon Offset Strategies**: Consider carbon neutrality initiatives if direct renewable energy procurement is not feasible
-3. **Supply Chain Assessment**: Examine the environmental practices of Bitcoin service providers and custodians
-4. **Reporting Standards**: Establish metrics for tracking and reporting Bitcoin-related environmental impact
+1. **Energy Source Assessment**: For direct mining investments, evaluate operations' energy sources; for treasury adoption, assess the sustainability practices of chosen Bitcoin service providers
+2. **Carbon Impact Evaluation**: Consider carbon neutrality initiatives and offset strategies appropriate to your level of Bitcoin engagement
+3. **Supply Chain Assessment**: Examine environmental practices of Bitcoin custodians, exchanges, and service providers in your adoption strategy
+4. **Reporting Standards**: Establish metrics for tracking and reporting Bitcoin-related environmental impact relevant to your business model
 
 === Social Considerations
 
@@ -43,7 +47,7 @@ Bitcoin's decentralized nature provides significant social benefits:
 
 ==== Corporate Social Responsibility Integration
 
-Organizations can leverage Bitcoin adoption to advance social impact objectives:
+Organizations can integrate Bitcoin adoption strategies with existing corporate social responsibility initiatives to advance social impact objectives:
 
 * **Community Development**: Support for Bitcoin education and infrastructure development in underserved communities
 * **Employee Benefits**: Offering Bitcoin-denominated compensation options to provide financial empowerment
@@ -59,6 +63,8 @@ Effective communication with stakeholders requires:
 4. **Alignment**: Demonstration of Bitcoin adoption's alignment with corporate values and mission
 
 === Governance Considerations
+
+Robust governance frameworks are essential for ESG compliance and stakeholder confidence in Bitcoin adoption. Effective governance demonstrates responsible corporate stewardship and risk management - key components of ESG evaluation by investors, regulators, and rating agencies.
 
 ==== Oversight and Risk Management
 
