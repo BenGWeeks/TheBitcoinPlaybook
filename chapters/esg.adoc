@@ -14,15 +14,15 @@ Bitcoin's energy consumption represents the most frequently cited environmental 
   - Global banking system: ~263 TWh annually (including data centers, branch networks, ATMs, and payment processing infrastructure)
   - Gold mining industry: ~240 TWh annually (including extraction, refining, and transportation)
   - Combined traditional systems consume approximately 3.3x more energy than Bitcoin
-  - Sources: Bitcoin Mining Council, Cambridge Centre for Alternative Finance, Galaxy Digital Research
+  - Sources: https://bitcoinminingcouncil.com/[Bitcoin Mining Council], https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/[Cambridge Centre for Alternative Finance], https://www.galaxydigital.io/research/[Galaxy Digital Research]
 * **Energy Efficiency**: Per transaction, Bitcoin mining operations continuously optimize for energy efficiency to maintain profitability
 * **Value Proposition**: The energy expenditure secures a decentralized monetary network with a market capitalization exceeding $1 trillion
 
 ==== Renewable Energy Adoption
 
-Research indicates that Bitcoin mining operations increasingly utilize renewable energy sources:
+Research from multiple authoritative sources indicates that Bitcoin mining operations increasingly utilize renewable energy sources:
 
-* **Renewable Energy Mix**: Approximately 59% of Bitcoin mining utilizes renewable energy sources, with the percentage increasing as miners seek cost-effective power
+* **Renewable Energy Mix**: Approximately 59% of Bitcoin mining utilizes renewable energy sources, with the percentage increasing as miners seek cost-effective power (https://bitcoinminingcouncil.com/[Bitcoin Mining Council Q3 2023 Report])
 * **Stranded Energy Utilization**: Mining operations often utilize otherwise wasted renewable energy from remote locations
 * **Grid Stabilization**: Bitcoin mining can provide demand response capabilities, supporting renewable energy grid integration
 
