@@ -1,0 +1,43 @@
+== The Smarter Web Company
+
+=== Background
+
+The Smarter Web Company, founded in 2009 by Andrew Webley (former Head of Digital at Hargreaves Lansdown), is a UK-based web design, development, and online marketing firm footnote:1[link:https://www.londonstockexchange.com/news-article/SMRT/bitcoin-treasury-policy-update/16549453[RNS Announcement, June 10, 2025 — 45.32 BTC acquired]] footnote:2[link:https://www.thetimes.co.uk/article/bitcoin-strategy-bristol-smarter-web-company-stock-market-jqxvnzxlq[The Times: How a Bitcoin strategy turned a Bristol web firm into a stock market star]]. In April 2025, the company executed a reverse takeover to list on the Aquis Stock Exchange, becoming one of the first UK businesses to go public with a Bitcoin-focused treasury strategy from day one footnote:3[link:https://www.londonstockexchange.com/news-article/SMRT/strategic-update/16491258[RNS Filing, April 25, 2025 — Strategic Update]] footnote:4[link:https://www.altfi.com/article/12325_bitcoin-treasury-strategy-helps-small-cap-become-aquis-exchanges-biggest-listed-company[AltFi: Bitcoin Treasury Strategy helps small cap become Aquis exchange's biggest listed company]]. Notably, since 2023 the firm had already been accepting Bitcoin as payment for its services, signaling its early conviction in Bitcoin's future role in finance footnote:5[link:https://www.londonstockexchange.com/news-article/SMRT/bitcoin-treasury-policy-update/16562822[RNS Announcement, June 19, 2025 — 104.28 BTC acquired]] footnote:3[].
+
+=== Bitcoin Treasury Strategy
+
+Upon listing, The Smarter Web Company formally adopted a "Bitcoin Treasury Policy," under which a significant portion of corporate reserves are held in Bitcoin rather than solely in cash footnote:1[] footnote:6[link:https://cointelegraph.com/news/smarter-web-company-uk-bitcoin-acquisition-104-btc[Cointelegraph: UK firm Smarter Web adds 104 BTC to Bitcoin treasury]]. Management views Bitcoin not as a speculative asset, but as a core reserve asset and hedge against inflation, integral to its long-term strategy footnote:3[] footnote:7[link:https://bitcoinmagazine.com/business/smarter-web-company-bitcoin-microstrategy-uk[Bitcoin Magazine: A UK company is taking a MicroStrategy-style Bitcoin bet]]. The firm's _"10 Year Plan"_ calls for accumulating Bitcoin steadily using reserve cash, reflecting a deliberate strategy to preserve value over time footnote:5[] footnote:6[]. Executives drew inspiration from U.S. companies like MicroStrategy that pioneered integrating Bitcoin into corporate treasury management footnote:2[] footnote:6[].
+
+[quote]
+"The company believes that Bitcoin forms a core part of the future of the global financial system and as the company explores opportunities through organic growth and corporate acquisitions is pioneering the adoption of a Bitcoin Treasury Policy into its strategy." +
+— _Company statement, 2025_ footnote:6[]
+
+In practice, this meant aggressive Bitcoin accumulation. By mid-June 2025, The Smarter Web Company held about *242.34 BTC* (nearly £20 million in value) on its balance sheet footnote:1[]. The buying continued: on June 19, 2025, the firm announced the purchase of an additional *104.28 BTC* (about £8.1 million), bringing total holdings to *346.63 BTC* (worth ~£27.2 million at the time) footnote:5[] footnote:6[].
+
+[quote]
+"By taking a pioneering approach to treasury management using digital assets, including Bitcoin, we believe we offer investors an excellent opportunity." +
+— _Andrew Webley, CEO_ footnote:6[]
+
+=== Outcomes and Impact
+
+The market's response was dramatic. Investor enthusiasm drove the stock up nearly *4x* within weeks of the April listing footnote:6[]. By June 2025, the company's market capitalization reached approximately *£720 million*, more than tripling in a single week footnote:2[] footnote:4[], making it the most valuable company on the Aquis exchange footnote:4[].
+
+This success enabled multiple capital raises. In June 2025, the company raised *£29.3 million* in fresh equity at 180p per share footnote:1[] footnote:4[]. The Bitcoin strategy continued to generate market momentum: following the June BTC purchase announcement, shares rose another 8%, pushing the market cap to approximately *£880 million* footnote:6[]. At this point, Andrew Webley's 13.4% stake was worth ~£90 million footnote:4[].
+
+The strategy not only preserved value but also signaled visionary leadership. It attracted a new class of investors and provided capital for expansion. The company has stated that it will use this position to pursue acquisitions and expand recurring revenues footnote:6[].
+
+=== Strategic Takeaways
+
+The Smarter Web Company's example shows how a small, growth-oriented firm can use Bitcoin to transform its financial position. By embedding Bitcoin into its balance sheet and investor communications from the outset, the company built trust and interest around a bold but transparent approach footnote:6[] footnote:3[]. The result was a feedback loop: a strong treasury attracted investors, enabling capital raises, which were used in part to acquire more Bitcoin and grow the business.
+
+While other high-profile examples like MicroStrategy often involve billion-dollar companies, SWC demonstrates that *Bitcoin adoption can work for smaller, agile companies* with the right leadership and long-term vision footnote:3[] footnote:6[]. As more SMEs explore inflation-hedging strategies or aim to signal tech-forward credibility, the "Smarter" playbook may be one to watch.
+
+=== References
+
+1. link:https://www.londonstockexchange.com/news-article/SMRT/bitcoin-treasury-policy-update/16549453[RNS Announcement, June 10, 2025 — 45.32 BTC acquired]
+2. link:https://www.thetimes.co.uk/article/bitcoin-strategy-bristol-smarter-web-company-stock-market-jqxvnzxlq[The Times: How a Bitcoin strategy turned a Bristol web firm into a stock market star]
+3. link:https://www.londonstockexchange.com/news-article/SMRT/strategic-update/16491258[RNS Filing, April 25, 2025 — Strategic Update]
+4. link:https://www.altfi.com/article/12325_bitcoin-treasury-strategy-helps-small-cap-become-aquis-exchanges-biggest-listed-company[AltFi: Bitcoin Treasury Strategy helps small cap become Aquis exchange's biggest listed company]
+5. link:https://www.londonstockexchange.com/news-article/SMRT/bitcoin-treasury-policy-update/16562822[RNS Announcement, June 19, 2025 — 104.28 BTC acquired]
+6. link:https://cointelegraph.com/news/smarter-web-company-uk-bitcoin-acquisition-104-btc[Cointelegraph: UK firm Smarter Web adds 104 BTC to Bitcoin treasury]
+7. link:https://bitcoinmagazine.com/business/smarter-web-company-bitcoin-microstrategy-uk[Bitcoin Magazine: A UK company is taking a MicroStrategy-style Bitcoin bet]
