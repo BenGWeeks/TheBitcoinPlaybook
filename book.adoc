@@ -29,6 +29,8 @@ include::chapters/education.adoc[]
 
 include::chapters/execution.adoc[]
 
+include::chapters/bitcoin-treasury-companies.adoc[]
+
 include::casestudies/microstrategy.adoc[]
 
 include::casestudies/wikipedia.adoc[]
