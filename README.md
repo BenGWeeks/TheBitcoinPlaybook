@@ -38,6 +38,7 @@ To read this book, see [book.adoc](https://github.com/BenGWeeks/TheBitcoinPlaybo
 + Chapter 5: [ESG: Environment, Social & Governance](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/chapters/esg.adoc)
 + Chapter 6: [Education](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/chapters/education.adoc)
 + Chapter 7: [Execution](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/chapters/execution.adoc)
++ Chapter 8: [Bitcoin Treasury Companies](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/chapters/bitcoin-treasury-companies.adoc)
 + Case Study: [Microstrategy](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/casestudies/microstrategy.adoc)
 + Case Study: [Wikipedia](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/casestudies/wikipedia.adoc)
 + Case Study: [Square Inc](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/casestudies/square-inc.adoc)
