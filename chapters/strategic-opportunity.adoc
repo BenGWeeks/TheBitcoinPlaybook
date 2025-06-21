@@ -34,267 +34,143 @@ The operating strategy can be divided into two complementary approaches: a Balan
 
 === Conversion of fiat treasury to Bitcoin
 
-On August 11th 2020, MicroStrategy became the first publicly traded company to adopt Bitcoin as a treasury asset, establishing a precedent that has since been followed by numerous other organizations. Today, over 30 listed companies have collectively invested cash into more than 200,000 bitcoins. 
+On August 11th 2020, MicroStrategy became the first publicly traded company to adopt Bitcoin as a treasury asset, establishing a precedent that has since been followed by numerous other organizations. Today, dozens of publicly traded companies have collectively invested in hundreds of thousands of bitcoins, with MicroStrategy leading the way with over 193,000 BTC. The table below shows major corporate Bitcoin holders as of 2024-2025, with holdings subject to change based on company strategies and market conditions. 
 
 .Table of companies that purchased Bitcoin
 |===
-|Entity|Country|Exchange Symbol|# of BTC|Value|% of 21m
+|Entity|Country|Exchange Symbol|# of BTC (Approximate)|% of 21m Supply
 
-|MicroStrategy
-|MSTR:NADQ
-|Filing / News
-|92,079
-|$3,125,525,423
-|0.438%
+|MicroStrategy Inc.
+|United States
+|MSTR:NASDAQ
+|193,000+
+|0.92%
 
-|Tesla, Inc
-|TSLA:NADQ
-|Filing / News
-|42,902
-|$1,456,263,553
-|0.204%
+|Tesla Inc.
+|United States
+|TSLA:NASDAQ
+|9,720
+|0.046%
 
-|Galaxy Digital Holdings
-|BRPHF:OTCMKTS	
-|Filing / News	
-|16,400
-|$783,342,574	
-|0.078%
+|Coinbase Global Inc.
+|United States
+|COIN:NASDAQ
+|9,000+
+|0.043%
 
-|Voyager Digital LTD		
-|VYGR:CSE	
-|Filing / News
-|12,260	
-|$585,596,339	
-|0.058%
-
-|Square Inc.		
-|SQ:NYSE	
-|Filing / News	
-|8,027	
-|$383,407,978	
+|Block Inc. (formerly Square Inc.)
+|United States
+|SQ:NYSE
+|8,027
 |0.038%
 
-|Marathon Digital Holdings Inc		
-|MARA:NADQ	
-|Filing / News	
-|6,695	
-|$319,785,276	
-|0.032%
+|Marathon Digital Holdings Inc.
+|United States
+|MARA:NASDAQ
+|40,435
+|0.193%
 
-|Coinbase Global, Inc.		
-|COIN:NADQ	
-|Filing / News	
-|4,482	
-|$214,081,794	
-|0.021%
+|CleanSpark Inc.
+|United States
+|CLSK:NASDAQ
+|8,445
+|0.040%
 
-|Hut 8 Mining Corp		
-|HUT:NASDAQ	
-|Filing / News	
-|4,240	
-|$202,522,714	
-|0.02%
+|Riot Platforms Inc.
+|United States
+|RIOT:NASDAQ
+|9,334
+|0.044%
 
-|Bitcoin Group SE		
-|BTGGF:TCMKTS	
-|Filing / News	
-|3,947	
-|$188,527,630	
-|0.019%
+|Hut 8 Mining Corp.
+|Canada
+|HUT:NASDAQ
+|9,366
+|0.045%
 
-|Riot Blockchain, Inc.		
-|RIOT:NADQ	
-|Filing / News	
-|2,687	
-|$128,343,994	
-|0.013%
+|Bitfarms Ltd.
+|Canada
+|BITF:NASDAQ
+|5,707
+|0.027%
 
-|Bitfarms Limited		
-|BITF:NASDAQ	
-|Filing / News	
-|2.028	
-|$96,866,996	
-|0.01%
+|The Smarter Web Company PLC
+|United Kingdom
+|SMT:AIM
+|397
+|0.002%
 
-|NEXON Co. Ltd		
-|NEXOF:OTCMKTS	
-|Filing / News	
-|1,717	
-|$82,012,146	
+|NEXON Co. Ltd.
+|South Korea
+|3659:TYO
+|1,717
 |0.008%
 
-|Argo Blockchain PLC		
-|ARBKF:OTCMKTS	
-|Filing / News	
-|1,268	
-|$60,565,755	
-|0.006%
+|MercadoLibre Inc.
+|Argentina
+|MELI:NASDAQ
+|150
+|0.001%
 
-|Brooker Group's BROOK (BKK)		
-|BROOK:BKK	
-|Filing / News	
-|1,150	
-|$54,929,510	
-|0.005%
-
-|Hive Blockchain		
-|HVBT:NASDAQ	
-|Filing / News	
-|946	
-|$45,185,492	
-|0.005%
-
-|Meitu		
-|HKD:HKG	
-|Filing / News	
-|941	
-|$44,946,668	
+|Meitu Inc.
+|China
+|1357:HKG
+|941
 |0.004%
 
-|Bit Digital, Inc.		
-|BTBT:NASDAQ
-|Filing / News	
-|588	
-|$28,085,697	
+|Argo Blockchain PLC
+|United Kingdom
+|ARB:LSE
+|1,268
+|0.006%
+
+|Core Scientific Inc.
+|United States
+|CORZ:NASDAQ
+|5,769
+|0.027%
+
+|Cipher Mining Inc.
+|United States
+|CIFR:NASDAQ
+|664
 |0.003%
 
-|BIGG Digital Assets Inc.		
-|BBKCF:OTCMKTS	
-|Filing / News	
-|430	
-|$20,538,860	
-|0.002%
+|Bitdeer Technologies Group
+|Singapore
+|BTDR:NASDAQ
+|687
+|0.003%
 
-|Digihost Technology Inc.		
-|HSSHF:OTCMKTS	
-|Filing / News	
-|402	
-|$19,201,446	
-|0.002%
+|Terawulf Inc.
+|United States
+|WULF:NASDAQ
+|792
+|0.004%
 
-|Cypherpunk Holdings Inc.		
-|HODL:OTCMKTS	
-|Filing / News	
-|386	
-|$18,437,209	
-|0.002%
+|Galaxy Digital Holdings Ltd.
+|Canada
+|GLXY:TSX
+|16,400+
+|0.078%
 
-|CleanSpark Inc		
-|CLSK:NASDAQ	
-|Filing / News	
-|301	
-|$14,377,202	
-|0.001%
+|Hive Digital Technologies Ltd.
+|Canada
+|HIVE:NASDAQ
+|2,682
+|0.013%
 
-|Advanced Bitcoin Technologies AG		
-|ABT:DUS	
-|Filing / News	
-|254	
-|$12,132,257	
-|0.001%
-
-|DMG Blockchain Solutions Inc.		
-|DMGGF:OTCMKTS	
-|Filing / News	
-|250	
-|$11,941,198	
-|0.001%
-
-|DigitalX		
-|DGGXF:OTCMKTS	
-|Filing / News	
-|216	
-|$10,317,195	
-|0.001%
-
-|MercadoLibre, Inc.		
-|MELI:NADQ	
-|Filing / News	
-|150	
-|$7,164,719	
-|0.001%
-
-|Fortress Blockchain		
-|FORT:CVE	
-|Filing / News	
-|140	
-|$6,687,071	
-|0.001%
-
-|Banxa Holdings Inc		
-|NXAF:OTCMKTS	
-|Filing / News
-|136	
-|$6,496,012	
-|0.001%
-
-|Neptune Digital Assets		
-|NPPTF:OTCMKTS	
-|Filing / News	
-|105	
-|$5,015,303	
-|0.001%
-
-|BTCS Inc.	
-|BTCS:OTCMKTS	
-|Filing / News	
-|90	
-|$4,298,831	
-|0.0%
-
-|FRMO Corp.		
-|FRMO:OTCMKTS	
-|Filing / News	
-|63	
-|$3,009,182	
-|0.0%
-
-|LQwD FinTech Corp		
-|OTC:INLAF	
-|Filing / News	
-|60	
-|$2,865,887	
-|0.0%
-
-|Metromile		
-|MILE:NASDAQ	
-|Filing / News	
-|25	
-|$1,194,120	
-|0.0%
-
-|Phunware, Inc.		
-|PHUN:NASDAQ	
-|Filing / News	
-|25.8	
-|$1,194,120	
-|0.0%
-
-|MOGO Financing		
-|MOGO:Nasdaq	
-|Filing / News	
-|18	
-|$859,766	
-|0.0%
-
-|Net Holding Anonim Sirketi		
-|NTHOL TI:IST	
-|Filing / News	
-|3	
-|$143,294	
-|0.0%
-
-|
-|
-|*Totals:*
-|*227,374*
-|*$10,860,471,612*
-|*1.083%*
+|Iris Energy Ltd.
+|Australia
+|IREN:NASDAQ
+|631
+|0.003%
 
 |===
 
-Source: https://www.buybitcoinworldwide.com/treasuries/
+*Note: Bitcoin holdings are approximate and based on publicly available filings and reports as of 2024-2025. Holdings may change due to purchases, sales, or strategic adjustments. Companies engaged primarily in Bitcoin mining may hold additional operational Bitcoin not reflected in treasury totals.*
+
+Sources: Company SEC filings, investor relations announcements, and https://www.buybitcoinworldwide.com/treasuries/
 
 As Michael Saylor noted, Bitcoin can“provide the opportunity for better returns and preserve the value of our capital over time compared to holding cash.” footnote:[https://www.microstrategy.com/en/company/company-videos/microstrategy-announces-over-1b-in-total-bitcoin-purchases-in-2020/]
 
