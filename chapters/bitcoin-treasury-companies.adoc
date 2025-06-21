@@ -111,7 +111,40 @@ Convertible bonds or preferred shares can provide capital for Bitcoin purchases 
 
 **Operating Cash Flow Conversion**
 
-Companies may direct operating cash flows toward Bitcoin purchases, gradually increasing their Bitcoin treasury position over time.
+Companies may direct operating cash flows toward Bitcoin purchases, gradually increasing their Bitcoin treasury position over time. For Bitcoin Treasury Companies, operating cash flow takes on heightened importance as it provides the most sustainable and low-risk method for accumulating Bitcoin without increasing leverage or diluting shareholders.
+
+=== The Critical Role of Operating Cash Flow
+
+Operating cash flow represents the foundation of a sustainable Bitcoin treasury strategy. Unlike debt-financed purchases or equity dilution, using operating cash flow to acquire Bitcoin does not increase financial risk or reduce Bitcoin per share for existing shareholders.
+
+**Sustainable Bitcoin Accumulation**
+
+Companies with consistent positive operating cash flows can implement systematic Bitcoin accumulation programs, purchasing Bitcoin regularly regardless of market conditions. This approach provides several advantages:
+
+* **Risk Management**: No additional leverage or debt service requirements
+* **Consistency**: Regular accumulation regardless of Bitcoin price volatility
+* **Shareholder Value**: Pure accretive strategy that increases Bitcoin per share over time
+* **Financial Stability**: Maintains traditional corporate financial health metrics
+
+**Operating Cash Flow as Competitive Advantage**
+
+Bitcoin Treasury Companies with strong operating cash flows possess significant competitive advantages over those relying primarily on financial engineering:
+
+* **Market Independence**: Can continue Bitcoin accumulation during adverse market conditions when debt financing becomes expensive or unavailable
+* **Strategic Flexibility**: Operating cash flows provide options for both Bitcoin purchases and traditional corporate investments
+* **Reduced Execution Risk**: Less dependent on management's ability to time capital markets effectively
+* **Long-term Sustainability**: Can maintain Bitcoin accumulation strategies through multiple market cycles
+
+**Evaluating Operating Cash Flow Quality**
+
+Investors should carefully evaluate the sustainability and growth potential of Bitcoin Treasury Companies' operating cash flows:
+
+* **Cash Flow Consistency**: Regular, predictable cash generation versus volatile or one-time flows
+* **Business Model Defensibility**: Whether the underlying business can maintain cash generation over time
+* **Growth Trajectory**: Potential for operating cash flows to increase, accelerating Bitcoin accumulation
+* **Capital Requirements**: Whether the business requires significant reinvestment that could limit Bitcoin purchases
+
+Companies with strong, growing operating cash flows often trade at premiums to their NAV because investors recognize the value of sustainable Bitcoin accumulation capabilities.
 
 === Traditional Finance Adaptation
 
@@ -181,6 +214,15 @@ The following table provides a comparative analysis of prominent Bitcoin Treasur
 |26.7
 |~0.04 BTC
 |Exchange & financial services
+
+|Smarter Web Company
+|SMWE
+|2,500+ BTC
+|~$450M
+|~$125M
+|3.60
+|~0.25 BTC
+|Bitcoin-focused web services
 |===
 
 _Note: Figures are approximate and subject to change based on Bitcoin price movements and company disclosures. Always consult current financial statements for precise metrics._
