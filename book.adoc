@@ -55,6 +55,8 @@ include::appendices/financial-and-liquidity-risk.adoc[]
 
 include::appendices/technological-risk.adoc[]
 
+include::appendices/execution-checklist.adoc[]
+
 include::appendices/bitcoin-readiness-assessment.adoc[]
 
 include::thanks.adoc[]
