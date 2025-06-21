@@ -16,6 +16,8 @@ include::cbdcs.adoc[]
 
 include::chapters/strategic-opportunity.adoc[]
 
+include::chapters/bitcoin-readiness-assessment.adoc[]
+
 include::chapters/risks-and-controls.adoc[]
 
 include::chapters/vendors-and-partners.adoc[]

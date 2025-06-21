@@ -32,6 +32,7 @@ To read this book, see [book.adoc](https://github.com/BenGWeeks/TheBitcoinPlaybo
 + [What is Bitcoin?](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/what-is-bitcoin.adoc)
 + [Central Bank Digital Currencies (CBDCs)](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/cbdcs.adoc)
 + Chapter 1: [Strategic Opportunity](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/chapters/strategic-opportunity.adoc)
++ Chapter 1.5: [Bitcoin Readiness Assessment](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/chapters/bitcoin-readiness-assessment.adoc)
 + Chapter 2: [Risks & Controls](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/chapters/risks-and-controls.adoc)
 + Chapter 3: [Vendors & Partners](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/chapters/vendors-and-partners.adoc)
 + Chapter 4: [Regulation & Taxation](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/chapters/regulation-and-taxation.adoc)
