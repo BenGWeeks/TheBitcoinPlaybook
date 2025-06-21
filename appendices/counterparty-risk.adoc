@@ -25,3 +25,72 @@ On top of checking the credit risk of this intermediary, it is also necessary to
 
 A new approach of decentralized cutody is now available thank to MPC (Multi Parties Computation). The company is controlling its own wallet but the management of the private key is split beween several actors reducing the counterparty risk.
 In case of a centralized custody/exchange, the company should prefer a reputable party, secured by SOC 2 certification and ideally insured against theft.
+
+== AI Deep Research Prompt: Counterparty Risk Assessment
+
+To conduct comprehensive counterparty risk analysis for Bitcoin custody solutions, use this structured prompt with AI research tools:
+
+"I am evaluating counterparty risks associated with Bitcoin custody options for my company's treasury assets. Please help me conduct deep research across the following areas:
+
+**Company Context Analysis:**
+- My company plans to hold approximately [$ AMOUNT] in Bitcoin
+- Our risk tolerance for counterparty exposure is [LOW/MEDIUM/HIGH]
+- Our current custody arrangements include [TRADITIONAL CUSTODIANS/BANKS]
+- Our regulatory requirements include [COMPLIANCE OBLIGATIONS]
+
+**Counterparty Risk Research Areas:**
+
+1. **Custody Solution Analysis:**
+   - Research qualified custodians offering Bitcoin custody services
+   - Analyze self-custody vs third-party custody risk profiles
+   - Review multi-party computation (MPC) custody solutions and providers
+   - Investigate hybrid custody models combining self and third-party custody
+
+2. **Custodian Due Diligence Framework:**
+   - Research Bitcoin custodian financial strength and capital adequacy
+   - Analyze custodian insurance coverage for Bitcoin holdings
+   - Review custodian security certifications (SOC 2, ISO 27001)
+   - Investigate custodian regulatory compliance and licensing status
+
+3. **Exchange and Trading Counterparty Assessment:**
+   - Evaluate Bitcoin exchange counterparty risk profiles
+   - Research exchange segregation of customer assets
+   - Analyze exchange insurance coverage and risk management
+   - Review exchange regulatory compliance and operational history
+
+4. **Technology and Infrastructure Providers:**
+   - Research Bitcoin wallet technology providers and their security models
+   - Analyze blockchain infrastructure service providers
+   - Review multi-signature service providers and their operational controls
+   - Investigate hardware security module (HSM) vendors and their reliability
+
+5. **Legal and Operational Counterparty Risks:**
+   - Research Bitcoin custody legal frameworks and asset protection
+   - Analyze bankruptcy remoteness of custodial arrangements
+   - Review service level agreements and operational risk transfers
+   - Investigate dispute resolution mechanisms for custody arrangements
+
+6. **Concentration and Diversification Strategies:**
+   - Research Bitcoin custody diversification strategies
+   - Analyze concentration limits for single counterparty exposure
+   - Review geographic diversification of custody arrangements
+   - Investigate backup custody solutions and contingency planning
+
+**Specific Research Questions to Address:**
+- What counterparty failures have occurred in Bitcoin custody?
+- How do leading institutions structure their Bitcoin custody arrangements?
+- What are the key risk indicators for Bitcoin custody counterparties?
+- How do custody costs compare across different counterparty models?
+- What contingency plans exist if primary custody counterparties fail?
+
+**Expected Deliverables:**
+- Counterparty risk assessment matrix for Bitcoin custody options
+- Due diligence checklist for Bitcoin custodian evaluation
+- Custody solution comparison analysis with risk-adjusted recommendations
+- Concentration risk monitoring framework for Bitcoin counterparties
+- Contingency plans for counterparty failure scenarios
+- Board presentation materials outlining custody risk management strategy
+
+Provide specific examples, case studies, and lessons learned from institutional Bitcoin custody implementations. Focus exclusively on Bitcoin custody solutions rather than broader cryptocurrency custody. Include both traditional and innovative custody models in the analysis."
+
+Use this prompt to generate comprehensive counterparty risk analysis that supports secure Bitcoin custody decision-making.

@@ -94,3 +94,107 @@ For its customers, partners and staff to have an even better knowledge of what c
 * *Binance Academy*: Although owned by a specific exchange, this academy offers information across the entire digital marketing system. It touches areas like security, blockchain, economics, and tutorials. However, it does not offer any form of reward to users. 
 * *Earn.com*: This platform was bought by coinbase in 2018. It offers incentives and rewards for projects using Bitcoin. However, to participate in some courses directly to certain digital currencies, you need to make stipulated payments using that currency. 
 * *Captain Bitcoin* and *Bitcoin.com* are other educational platforms that offer cryptocurrency-related information.
+
+=== AI Deep Research Prompt
+
+To develop a comprehensive Bitcoin education strategy for your organization, use this prompt with AI research tools (such as Claude, GPT-4, or other AI assistants):
+
+----
+**Bitcoin Education Strategy Development**
+
+Analyze my company's stakeholder education needs for Bitcoin adoption using the Michael Saylor deep research methodology. Develop comprehensive educational frameworks and implementation plans.
+
+**Company Context:**
+- Company: [Your company name, industry, and size]
+- Current Bitcoin involvement: [Treasury adoption, payment acceptance, mining, or planned activities]
+- Stakeholder groups: [Board members, employees, customers, suppliers, investors, partners]
+- Existing educational resources: [Current training programs, communication channels, expertise levels]
+- Timeline: [Implementation timeline and key milestones]
+
+**Research Requirements:**
+
+**BOARD EDUCATION STRATEGY:**
+1. Assess current board members' Bitcoin knowledge and identify knowledge gaps
+2. Develop executive-level Bitcoin education curriculum covering:
+   - Macroeconomic rationale and institutional adoption trends
+   - Risk assessment frameworks and mitigation strategies
+   - Governance requirements and fiduciary responsibilities
+   - Performance metrics and benchmarking against traditional assets
+3. Create compelling presentation materials demonstrating Bitcoin's strategic value proposition
+4. Identify external Bitcoin experts and advisory resources for ongoing board education
+5. Develop decision-making frameworks for Bitcoin-related governance decisions
+
+**EMPLOYEE EDUCATION PROGRAM:**
+1. Segment employees by role and Bitcoin interaction level (treasury, finance, IT, sales, general staff)
+2. Design role-specific training programs covering:
+   - Bitcoin fundamentals and company strategy alignment
+   - Operational procedures and compliance requirements
+   - Security protocols and best practices
+   - Customer communication and support procedures
+3. Develop internal Bitcoin champion network and peer education initiatives
+4. Create ongoing education calendar with regular updates and advanced training
+5. Establish feedback mechanisms and continuous improvement processes
+
+**CUSTOMER EDUCATION INITIATIVE:**
+1. Analyze customer demographics and Bitcoin adoption readiness
+2. Develop customer-facing educational content including:
+   - Benefits of Bitcoin payments and transactions
+   - Step-by-step guides for Bitcoin usage
+   - Security best practices and risk management
+   - Frequently asked questions and support resources
+3. Design multichannel education delivery (workshops, webinars, documentation, video content)
+4. Create incentive programs encouraging Bitcoin adoption and usage
+5. Establish customer support framework for Bitcoin-related inquiries
+
+**SUPPLIER AND PARTNER ENGAGEMENT:**
+1. Evaluate supplier readiness for Bitcoin payment adoption
+2. Develop supplier education program covering:
+   - Bitcoin payment processes and procedures
+   - Benefits of Bitcoin settlements (cost savings, speed, transparency)
+   - Integration requirements and technical specifications
+   - Compliance and reporting considerations
+3. Create partner network of Bitcoin-native service providers
+4. Establish supplier onboarding process for Bitcoin capabilities
+5. Develop performance metrics for Bitcoin-enabled supplier relationships
+
+**INVESTOR COMMUNICATION STRATEGY:**
+1. Analyze investor base and Bitcoin sentiment across different investor types
+2. Develop investor-specific educational materials addressing:
+   - Strategic rationale and competitive advantages
+   - Risk management and portfolio diversification benefits
+   - Performance reporting and transparency measures
+   - Regulatory compliance and governance frameworks
+3. Design investor engagement calendar with regular Bitcoin strategy updates
+4. Create compelling investor presentations and quarterly reporting templates
+5. Identify and target Bitcoin-forward investors for future fundraising
+
+**EDUCATIONAL CONTENT DEVELOPMENT:**
+1. Create comprehensive Bitcoin knowledge base covering:
+   - Technical fundamentals and practical applications
+   - Industry case studies and best practices
+   - Regulatory landscape and compliance requirements
+   - Economic implications and market analysis
+2. Develop multimedia educational resources (videos, presentations, documentation, interactive tools)
+3. Establish content quality standards and factual accuracy verification processes
+4. Create localized content for different geographic markets and regulatory environments
+5. Design assessment tools and competency certification programs
+
+**IMPLEMENTATION FRAMEWORK:**
+1. Prioritize education initiatives based on stakeholder impact and implementation complexity
+2. Develop detailed implementation timeline with milestones and success metrics
+3. Identify required resources, budget allocations, and external expertise needs
+4. Create change management strategy addressing resistance and adoption barriers
+5. Establish monitoring and evaluation framework for educational effectiveness
+
+**OUTPUT FORMAT:**
+Provide detailed strategy with:
+- Stakeholder-specific education plans with learning objectives and curricula
+- Implementation roadmap with timelines, resources, and responsibilities
+- Educational content recommendations and delivery methods
+- Success metrics and evaluation criteria
+- Budget estimates and resource requirements
+- Risk mitigation strategies for education-related challenges
+- Continuous improvement processes and feedback mechanisms
+
+Focus exclusively on Bitcoin education (not other cryptocurrencies) and provide practical, actionable recommendations based on successful corporate Bitcoin education implementations.
+----

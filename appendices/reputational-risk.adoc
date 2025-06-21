@@ -27,3 +27,65 @@ Crypto-assets are considered most of the time as part of none financial risks an
 The companies should assess the impact to its current reputation relatively to the rest of its activity.
 It is also necessary to maintain a good investor relationship and transparency with crypto-assets.
 A company could limit itself to best known token such as Bitcoin or Ether.
+
+== AI Deep Research Prompt: Reputational Risk Assessment
+
+To conduct comprehensive reputational risk analysis for Bitcoin adoption in your organization, use this structured prompt with AI research tools:
+
+"I am evaluating reputational risks associated with my company adopting Bitcoin as a treasury asset. Please help me conduct deep research across the following areas:
+
+**Company Context Analysis:**
+- My company operates in [INDUSTRY] sector with [PUBLIC/PRIVATE] status
+- Our primary stakeholders include [CUSTOMERS/INVESTORS/REGULATORS]
+- Our current reputation positioning is [CONSERVATIVE/INNOVATIVE/MIXED]
+- We serve markets in [GEOGRAPHIC REGIONS]
+
+**Reputational Risk Research Areas:**
+
+1. **Industry Precedent Analysis:**
+   - Identify companies in my industry that have adopted Bitcoin
+   - Analyze market reactions to their Bitcoin announcements
+   - Document changes in analyst coverage, institutional investor sentiment
+   - Review any reputational consequences (positive/negative) over time
+
+2. **Stakeholder Perception Research:**
+   - Survey current public sentiment toward Bitcoin among our customer demographics
+   - Analyze institutional investor perspectives on Bitcoin treasury strategies
+   - Review ESG scoring methodologies and Bitcoin's impact on ratings
+   - Examine regulatory sentiment in our operating jurisdictions
+
+3. **Media and Public Relations Analysis:**
+   - Research typical media coverage patterns for corporate Bitcoin adoption
+   - Identify potential messaging frameworks used by successful adopters
+   - Analyze crisis communication scenarios related to Bitcoin volatility
+   - Review social media sentiment analysis tools and metrics
+
+4. **Competitive Intelligence:**
+   - Map competitors' positions on Bitcoin and digital assets
+   - Analyze how Bitcoin adoption could differentiate or alienate us
+   - Identify potential first-mover advantages or late-adopter risks
+   - Review industry association positions on Bitcoin
+
+5. **Risk Mitigation Strategies:**
+   - Research communication strategies that minimize reputational risk
+   - Identify Bitcoin-only positioning benefits vs general crypto association
+   - Analyze transparent reporting practices that build stakeholder confidence
+   - Review crisis management protocols for Bitcoin price volatility periods
+
+**Specific Research Questions to Address:**
+- What reputational risks materialized for similar companies?
+- How did successful companies manage negative media coverage?
+- What stakeholder education strategies proved most effective?
+- How do we differentiate Bitcoin from broader cryptocurrency concerns?
+- What governance structures support reputational risk management?
+
+**Expected Deliverables:**
+- Stakeholder impact assessment matrix
+- Media monitoring and response framework
+- Competitive positioning analysis
+- Crisis communication playbook for Bitcoin-related events
+- Board presentation materials addressing reputational concerns
+
+Provide specific examples, case studies, and data-driven insights. Focus exclusively on Bitcoin rather than broader cryptocurrency analysis. Include both historical precedents and current market dynamics."
+
+Use this prompt to generate comprehensive reputational risk analysis that supports informed decision-making about Bitcoin treasury adoption.

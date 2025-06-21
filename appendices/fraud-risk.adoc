@@ -25,3 +25,72 @@ Persons involved in execution, should be different than persons involved in cust
 Access to sensitive information or sensitives actions should follow the for 4 eyes principle (if not 6 eyes principle) meaning that different persons without a chance of colluding are performing together the same sensitive tasks. For instance to issue the master key of a wallet.
 
 All the employees should be screened as much as possible.
+
+== AI Deep Research Prompt: Fraud Risk Assessment
+
+To conduct comprehensive fraud risk analysis for Bitcoin treasury operations, use this structured prompt with AI research tools:
+
+"I am evaluating fraud risks associated with implementing Bitcoin treasury operations in my company. Please help me conduct deep research across the following areas:
+
+**Company Context Analysis:**
+- My company has [NUMBER] employees with access to treasury operations
+- Our current fraud prevention controls include [EXISTING CONTROLS]
+- Our organizational structure for treasury management involves [ROLES/REPORTING]
+- Our technology infrastructure includes [SECURITY SYSTEMS/ACCESS CONTROLS]
+
+**Fraud Risk Research Areas:**
+
+1. **Internal Fraud Prevention Framework:**
+   - Research multi-signature wallet implementations for fraud prevention
+   - Analyze segregation of duties frameworks for Bitcoin operations
+   - Review approval workflows and authorization matrices for Bitcoin transactions
+   - Investigate role-based access controls for Bitcoin treasury systems
+
+2. **Employee Screening and Background Verification:**
+   - Research background check requirements for Bitcoin treasury personnel
+   - Analyze ongoing monitoring systems for employees with Bitcoin access
+   - Review conflict of interest policies specific to Bitcoin operations
+   - Investigate employee education programs on Bitcoin fraud risks
+
+3. **Technical Controls and Security Measures:**
+   - Research hardware security modules (HSMs) for fraud prevention
+   - Analyze transaction monitoring systems for suspicious Bitcoin activity
+   - Review cold storage vs hot wallet fraud risk profiles
+   - Investigate blockchain analytics tools for transaction verification
+
+4. **External Fraud and Social Engineering Risks:**
+   - Research Bitcoin-specific social engineering attack vectors
+   - Analyze phishing and impersonation fraud targeting Bitcoin operations
+   - Review vendor fraud prevention for Bitcoin service providers
+   - Investigate wire fraud schemes targeting Bitcoin treasury operations
+
+5. **Governance and Oversight Controls:**
+   - Research board-level oversight requirements for Bitcoin fraud prevention
+   - Analyze audit committee responsibilities for Bitcoin operations
+   - Review internal audit programs specific to Bitcoin fraud risks
+   - Investigate whistleblower programs for Bitcoin-related fraud
+
+6. **Incident Response and Recovery:**
+   - Research Bitcoin fraud incident response procedures
+   - Analyze forensic investigation capabilities for Bitcoin transactions
+   - Review insurance coverage for Bitcoin fraud losses
+   - Investigate recovery mechanisms for fraudulent Bitcoin transactions
+
+**Specific Research Questions to Address:**
+- What types of Bitcoin fraud have occurred at corporations?
+- How do multi-signature controls prevent internal Bitcoin fraud?
+- What are the most effective detection methods for Bitcoin fraud?
+- How do companies recover from Bitcoin fraud incidents?
+- What role do external auditors play in Bitcoin fraud prevention?
+
+**Expected Deliverables:**
+- Fraud risk assessment matrix specific to Bitcoin operations
+- Segregation of duties framework for Bitcoin treasury activities
+- Employee screening and monitoring procedures for Bitcoin access
+- Technical control requirements for Bitcoin fraud prevention
+- Incident response plan for Bitcoin fraud scenarios
+- Board governance framework for Bitcoin fraud risk oversight
+
+Provide specific examples, case studies, and lessons learned from Bitcoin fraud incidents. Focus exclusively on Bitcoin fraud risks rather than broader cryptocurrency fraud. Include both prevention and detection strategies in the analysis."
+
+Use this prompt to generate comprehensive fraud risk analysis that supports secure Bitcoin treasury operations.

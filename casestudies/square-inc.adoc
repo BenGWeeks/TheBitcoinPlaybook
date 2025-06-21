@@ -9,3 +9,88 @@ In addition to offering Bitcoin trading services, Square has also invested in th
 Square's embrace of Bitcoin has not been without controversy. The cryptocurrency remains a highly volatile asset and has been criticized for its lack of regulation and its potential for misuse. Square has responded to these concerns by advocating for greater transparency and regulation in the cryptocurrency market. The company has also taken steps to ensure that its Bitcoin trading services are secure and transparent, and that its customers' funds are protected.
 
 In conclusion, Square's Bitcoin strategy has been a significant driver of the cryptocurrency's adoption and has helped to increase its accessibility and legitimacy. Square's embrace of Bitcoin is a testament to the company's commitment to innovation and to making commerce more accessible for everyone. Square's approach serves as a valuable case study for companies considering the integration of cryptocurrencies into their operations.
+
+=== AI Deep Research Prompt
+
+Michael Saylor advocates for using AI to conduct comprehensive company analysis before making strategic Bitcoin decisions. Use this prompt with your preferred AI assistant to benchmark your company against Square's customer-focused Bitcoin integration approach:
+
+[.ai-prompt]
+****
+*AI Deep Research Prompt for Square Inc Bitcoin Integration Benchmarking Analysis*
+
+Please conduct a comprehensive benchmarking analysis comparing [COMPANY NAME] to Square Inc's customer-centric Bitcoin integration strategy. Structure your analysis around the following key areas:
+
+**Customer-Centric Bitcoin Integration:**
+- Compare our customer base demographics and Bitcoin adoption readiness to Square's Cash App users
+- Evaluate our platform's capability to integrate Bitcoin trading and services
+- Assess customer demand for Bitcoin services within our existing product ecosystem
+- Analyze potential customer acquisition opportunities through Bitcoin service offerings
+
+**Payments and Financial Services Integration:**
+- Compare our payment processing capabilities to Square's merchant services infrastructure
+- Evaluate opportunities for Bitcoin payment acceptance within our current business model
+- Assess technical requirements for Bitcoin transaction processing and settlement
+- Analyze regulatory compliance needs for Bitcoin-related financial services in our jurisdiction
+
+**Product Portfolio Enhancement:**
+- Compare our current product offerings to Square's diversified fintech platform
+- Evaluate how Bitcoin services could enhance customer engagement and retention
+- Assess revenue diversification opportunities through Bitcoin-related services
+- Analyze cross-selling potential between Bitcoin services and existing products
+
+**Treasury Strategy vs. Customer Services Approach:**
+- Compare Square's balanced approach (treasury holdings + customer services) to pure treasury strategies
+- Evaluate optimal allocation between Bitcoin treasury investment and service development
+- Assess our capital requirements for both Bitcoin holdings and infrastructure development
+- Analyze potential revenue streams from Bitcoin services vs. treasury appreciation
+
+**Technology Infrastructure Assessment:**
+- Compare our current technology stack to Square's Bitcoin integration requirements
+- Evaluate security infrastructure needs for Bitcoin custody and transaction processing
+- Assess scalability requirements for potential Bitcoin service user growth
+- Analyze integration complexity with existing systems and customer interfaces
+
+**Regulatory and Compliance Framework:**
+- Compare our regulatory environment to Square's multi-state money transmitter licenses
+- Evaluate compliance requirements for Bitcoin trading and custody services
+- Assess KYC/AML framework adequacy for Bitcoin-related customer services
+- Analyze ongoing regulatory reporting and compliance costs for Bitcoin operations
+
+**Risk Management and Customer Protection:**
+- Compare our risk management capabilities to Square's approach for Bitcoin volatility
+- Evaluate customer education and protection measures for Bitcoin services
+- Assess insurance and risk mitigation strategies for Bitcoin custody and operations
+- Analyze potential reputational risks from Bitcoin association vs. competitive advantages
+
+**Market Positioning and Competitive Analysis:**
+- Compare our market position to Square's fintech ecosystem advantages
+- Evaluate competitive threats from existing Bitcoin-enabled financial platforms
+- Assess differentiation opportunities through Bitcoin integration in our sector
+- Analyze timing advantages of early vs. late Bitcoin adoption in our market
+
+**Revenue Model and Financial Impact:**
+- Compare potential revenue streams: trading fees, spread capture, custody services, merchant processing
+- Evaluate customer acquisition costs and lifetime value impact from Bitcoin services
+- Assess working capital requirements for Bitcoin inventory and liquidity management
+- Analyze financial statement impact from Bitcoin services vs. treasury holdings
+
+**Implementation Strategy and Roadmap:**
+- Compare phased rollout approaches: pilot programs, limited markets, full integration
+- Evaluate partnership opportunities vs. in-house development for Bitcoin capabilities
+- Assess timeline requirements for regulatory approval, technology development, and market launch
+- Analyze resource allocation between Bitcoin services development and traditional business growth
+
+**Customer Education and Adoption:**
+- Compare our customer communication capabilities to Square's Bitcoin education approach
+- Evaluate marketing strategies for introducing Bitcoin services to existing customer base
+- Assess customer support requirements for Bitcoin-related inquiries and issues
+- Analyze metrics for measuring Bitcoin service adoption and customer satisfaction
+
+**Long-term Strategic Vision:**
+- Compare our long-term vision to Square's "Bitcoin-first" transformation approach
+- Evaluate how Bitcoin integration aligns with our core mission and value proposition
+- Assess potential for Bitcoin to become central to our business model evolution
+- Analyze exit strategy options if Bitcoin integration proves unsuccessful
+
+Please provide specific, actionable recommendations on whether our company should pursue Square's customer-centric Bitcoin integration model, including implementation priorities, resource requirements, regulatory considerations, and success metrics tailored to our specific business model and customer base.
+****

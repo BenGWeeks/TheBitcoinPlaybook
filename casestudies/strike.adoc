@@ -55,3 +55,69 @@ Jack Mallers has outlined ambitious goals for Strike that include scaling Bitcoi
 Strike's success under Jack Mallers' leadership demonstrates how innovative companies can build substantial businesses while advancing Bitcoin adoption and technology development. The company's focus on practical applications, user experience, and regulatory compliance has created a model for Bitcoin companies seeking to achieve mainstream success.
 
 Strike's impact extends beyond its direct business operations to include broader contributions to Bitcoin technology development, adoption advocacy, and industry leadership. The company's success has proven that Bitcoin-based financial services can compete with traditional alternatives while providing unique advantages that benefit users and the broader financial system.
+
+=== AI Deep Research Prompt: Strike Lightning Network Strategy Analysis
+
+Use this comprehensive prompt to conduct deep research comparing your organization's opportunities to Strike's Lightning Network approach and identify applicable Bitcoin payment and infrastructure strategies:
+
+**PROMPT FOR AI RESEARCH:**
+
+"I need to conduct a comprehensive analysis comparing my organization's potential Bitcoin strategy to Strike's Lightning Network implementation approach. Please provide detailed research and analysis on the following areas:
+
+**Technology Infrastructure Analysis:**
+- Research Strike's Lightning Network implementation architecture and technical requirements compared to our current payment processing and financial infrastructure capabilities
+- Analyze the specific technical expertise and development resources Strike required for Lightning Network integration versus our available technology team and budget
+- Compare Strike's approach to payment processing speed and cost efficiency (instant, low-cost transactions) versus our current payment systems and customer expectations
+- Evaluate Strike's technical risk management and security protocols for Lightning Network operations compared to our current cybersecurity and operational risk frameworks
+
+**Business Model Comparison:**
+- Research Strike's revenue streams (payment processing fees, foreign exchange services, premium products) and compare to our current revenue model and potential Bitcoin-related opportunities
+- Analyze Strike's customer acquisition strategy and user experience design versus our customer base and service delivery capabilities
+- Compare Strike's market positioning as Bitcoin infrastructure provider versus our industry position and potential for Bitcoin-related service expansion
+- Evaluate Strike's approach to scaling operations and international expansion compared to our growth strategy and market presence
+
+**Lightning Network Implementation Analysis:**
+- Research the specific benefits Strike achieves through Lightning Network (micropayments, streaming payments, instant settlements) and assess applicability to our business model and customer needs
+- Analyze Strike's approach to Lightning Network liquidity management and channel operations compared to our treasury management capabilities and requirements
+- Compare Strike's Lightning Network partnerships and ecosystem participation versus opportunities in our industry and geographic markets
+- Evaluate Strike's technical integration challenges and solutions for Lightning Network operations versus our systems integration capabilities
+
+**Regulatory and Compliance Framework:**
+- Research Strike's regulatory compliance approach across multiple jurisdictions and compare to our regulatory environment and compliance requirements
+- Analyze Strike's approach to financial services licensing and regulatory reporting versus our current regulatory obligations and capabilities
+- Compare Strike's risk management practices for Bitcoin custody and transaction processing to our current financial risk management framework
+- Evaluate Strike's approach to anti-money laundering (AML) and know-your-customer (KYC) requirements versus our compliance infrastructure
+
+**Market Opportunity Assessment:**
+- Research Strike's target markets (underbanked populations, remittance corridors, merchant payments) and identify similar opportunities in our customer base and market
+- Analyze Strike's competitive advantages over traditional payment processors and evaluate similar positioning opportunities for our organization
+- Compare Strike's approach to international payments and cross-border transactions versus our global operations and customer needs
+- Evaluate Strike's market timing and adoption strategy compared to current Bitcoin adoption trends in our industry
+
+**Financial Performance and Metrics:**
+- Research Strike's key performance indicators (transaction volume, user growth, revenue per user) and benchmark against our current business metrics and growth targets
+- Analyze Strike's funding requirements and capital efficiency compared to our available investment capital and expected returns on Bitcoin infrastructure investment
+- Compare Strike's unit economics and profitability pathway versus our financial projections for potential Bitcoin-related services
+- Evaluate Strike's approach to treasury management and Bitcoin exposure versus our risk tolerance and investment policies
+
+**Partnership and Ecosystem Strategy:**
+- Research Strike's strategic partnerships with payment processors, financial institutions, and Bitcoin companies versus partnership opportunities available to our organization
+- Analyze Strike's open-source contributions and community engagement approach compared to our potential role in Bitcoin ecosystem development
+- Compare Strike's vendor relationships and technology stack versus our current financial technology partnerships and integration capabilities
+- Evaluate Strike's approach to merchant adoption and business development compared to our sales and partnership capabilities
+
+**Implementation and Scaling Considerations:**
+- Research Strike's organizational structure and team composition required for Lightning Network operations versus our current staffing and hiring capabilities
+- Analyze Strike's approach to operational scaling and system reliability compared to our operational excellence requirements and capabilities
+- Compare Strike's customer support and service delivery model versus our current customer service framework and quality standards
+- Evaluate Strike's approach to product development and feature rollout compared to our product management and development processes
+
+**Strategic Recommendations Development:**
+- Based on Strike's model, identify specific Bitcoin Lightning Network opportunities most applicable to our business model and customer base
+- Research current Lightning Network technology maturity and availability of third-party solutions versus Strike's build-versus-buy decisions
+- Analyze potential partnerships or white-label solutions that could provide Strike-like capabilities without full infrastructure development
+- Develop implementation roadmap for Bitcoin payment capabilities that leverages Strike's proven approaches while addressing our specific requirements
+
+Please provide specific technical specifications, financial projections, regulatory considerations, and strategic recommendations based on this analysis. Focus exclusively on Bitcoin and Lightning Network technology (not other cryptocurrencies) and emphasize practical implementation considerations for financial services and payment processing applications."
+
+This deep research approach will help you benchmark your organization against Strike's innovative Lightning Network strategy and identify the most relevant Bitcoin payment infrastructure opportunities for your specific business context and market position.

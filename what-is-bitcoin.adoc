@@ -161,3 +161,70 @@ On one hand, proponents of Bitcoin point to its decentralized nature, finite sup
 On the other hand, critics of Bitcoin argue that its price is too volatile and that it is vulnerable to hacking and fraud. Additionally, its lack of regulatory oversight and its association with illegal activities such as money laundering and tax evasion have led some to question its legitimacy.
 
 Ultimately, the future of Bitcoin will depend on a number of factors, including government regulations, technological advancements, and public perception, and companies like yours. While it is impossible to predict the future with certainty, it is clear that Bitcoin and other cryptocurrencies will play an increasingly important role in the financial landscape in the years to come - and if you believe in this future, it's time to play your part.
+
+== AI Deep Research Prompt: Bitcoin Technical and Strategic Analysis
+
+Use this comprehensive prompt with an AI research assistant to evaluate Bitcoin's technical properties and strategic fit for your company:
+
+**"I need you to conduct a detailed technical and strategic analysis of Bitcoin as a potential treasury asset for my company. Please provide comprehensive research and recommendations based on the following information:**
+
+**Company Information:**
+- Company name and industry: [Your company details]
+- Annual revenue: [Amount]
+- Current cash position: [Amount]
+- Technology infrastructure capabilities: [Description]
+- Risk tolerance profile: [Conservative/Moderate/Aggressive]
+- Geographic operations: [List countries/regions]
+- Current treasury management approach: [Description]
+
+**Bitcoin Technical Analysis Request:**
+
+1. **Bitcoin Network Security Assessment:**
+   - Research Bitcoin's hash rate trends and network security metrics over the past 5 years
+   - Analyze mining decentralization and geographic distribution
+   - Evaluate the security of Bitcoin compared to traditional banking systems
+   - Research historical security incidents and how they were resolved
+
+2. **Bitcoin as Digital Property:**
+   - Compare Bitcoin's properties (scarcity, durability, portability, divisibility) against traditional treasury assets
+   - Analyze Bitcoin's fixed supply schedule and remaining coins to be mined
+   - Research Bitcoin's performance during various economic cycles and market conditions
+   - Evaluate Bitcoin's correlation with traditional assets (stocks, bonds, gold, real estate)
+
+3. **Institutional Adoption Analysis:**
+   - Research current corporate Bitcoin adoption by industry and company size
+   - Analyze successful Bitcoin treasury strategies from companies like MicroStrategy, Tesla, Square
+   - Evaluate the accounting treatment of Bitcoin holdings under our jurisdiction's standards
+   - Research regulatory compliance requirements for Bitcoin corporate adoption
+
+4. **Risk Assessment and Mitigation:**
+   - Analyze Bitcoin's volatility patterns and risk-adjusted returns
+   - Research custody solutions and security best practices for corporate Bitcoin holdings
+   - Evaluate regulatory risks and potential policy changes affecting Bitcoin
+   - Assess technological risks and Bitcoin protocol upgrade history
+
+5. **Implementation Strategy:**
+   - Research optimal Bitcoin custody solutions for corporations (self-custody vs. institutional custody)
+   - Analyze dollar-cost averaging vs. lump sum investment strategies
+   - Evaluate tax implications and accounting considerations for our jurisdiction
+   - Research optimal portfolio allocation percentages based on our risk profile
+
+6. **Competitive Analysis:**
+   - Research Bitcoin adoption by competitors in our industry
+   - Analyze potential competitive advantages of early Bitcoin adoption
+   - Evaluate the impact of Bitcoin adoption on company valuation and investor perception
+   - Research stakeholder communication strategies for Bitcoin treasury announcements
+
+**Please structure your response with:**
+- Executive summary highlighting key technical strengths and strategic benefits
+- Detailed network analysis with current metrics and trends
+- Comprehensive risk assessment with specific mitigation strategies
+- Implementation roadmap with timeline and resource requirements
+- Regulatory and compliance framework for our jurisdiction
+- Competitive positioning analysis
+- Financial modeling scenarios (conservative, base case, optimistic)
+- References to technical documentation and institutional research
+
+**Focus exclusively on Bitcoin - do not analyze or recommend other cryptocurrencies. Base your analysis on Bitcoin's unique properties, network effects, and established track record as digital sound money.**"
+
+This prompt will help you conduct thorough technical due diligence on Bitcoin, similar to how leading institutions like MicroStrategy approached their Bitcoin strategy, providing the data-driven analysis needed for informed corporate adoption decisions.

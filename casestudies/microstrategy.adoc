@@ -196,3 +196,64 @@ Strategy's Bitcoin transformation represents one of corporate America's boldest 
 For corporate executives, Strategy's experience demonstrates both the transformative potential and substantial risks of Bitcoin treasury adoption. The approach requires exceptional leadership conviction, sophisticated financial engineering, and robust risk management capabilities. While not suitable for all organizations, Strategy has proven that Bitcoin can become central to corporate identity and value creation when executed with proper planning, stakeholder alignment, and long-term commitment.
 
 The case illustrates that corporate Bitcoin adoption extends beyond simple treasury diversification—it can fundamentally reshape company identity, investor base, and strategic direction. Strategy's transformation from MicroStrategy shows how Bitcoin can serve as both financial asset and strategic catalyst for corporate reinvention in the digital economy.
+
+=== AI Deep Research Prompt
+
+Michael Saylor advocates for using AI to conduct comprehensive company analysis before making strategic Bitcoin decisions. Use this prompt with your preferred AI assistant to benchmark your company against Strategy's transformational approach:
+
+[.ai-prompt]
+****
+*AI Deep Research Prompt for Strategy (MicroStrategy) Benchmarking Analysis*
+
+Please conduct a comprehensive benchmarking analysis comparing [COMPANY NAME] to Strategy's (formerly MicroStrategy) Bitcoin transformation approach. Structure your analysis around the following key areas:
+
+**Leadership and Vision Assessment:**
+- Evaluate our leadership team's conviction level regarding Bitcoin's long-term value proposition
+- Assess our CEO's and board's willingness to become public Bitcoin advocates
+- Compare our communication capabilities to Michael Saylor's educational approach
+- Analyze our readiness for 10+ year investment horizons through Bitcoin volatility cycles
+
+**Financial Engineering Capabilities:**
+- Compare our access to capital markets vs. Strategy's NASDAQ listing advantages
+- Assess our ability to issue convertible debt, preferred shares, and ATM equity programs
+- Evaluate our debt capacity and credit profile for zero-coupon convertible financing
+- Analyze our software/core business cash flow stability vs. Strategy's analytics revenue
+
+**Capital Allocation Strategy Comparison:**
+- Compare our current treasury size and yield to Strategy's pre-Bitcoin $500M+ cash position
+- Model scenarios for various Bitcoin allocation percentages (10%, 25%, 50%, 75% of treasury)
+- Assess our "melting ice cube" problem severity vs. Strategy's zero-yield environment
+- Evaluate optimal funding mix: debt, equity, operating cash flow, or hybrid approaches
+
+**Operational Readiness Assessment:**
+- Compare our Bitcoin custody and security infrastructure needs to Strategy's requirements
+- Assess our accounting expertise for cryptocurrency fair value reporting vs. impairment models
+- Evaluate our legal and regulatory compliance capabilities across jurisdictions
+- Analyze our core business resilience during Bitcoin-driven stock volatility periods
+
+**Stakeholder Management Preparedness:**
+- Compare our investor base composition to Strategy's transformation (crypto enthusiasts vs. traditional software investors)
+- Assess our shareholder education capabilities and transparent reporting systems
+- Evaluate our board alignment and governance frameworks for Bitcoin treasury decisions
+- Analyze potential credit rating and banking relationship impacts vs. Strategy's experience
+
+**Risk Management Framework:**
+- Compare our liquidity management to Strategy's approach during Bitcoin bear markets
+- Assess our ability to avoid forced Bitcoin sales during volatility vs. Strategy's "no sell" policy
+- Evaluate our operational independence from Bitcoin performance vs. Strategy's dual-mission model
+- Model our margin call and debt service risks under extreme Bitcoin price scenarios
+
+**Market Positioning and Identity Evolution:**
+- Assess our readiness for fundamental business identity transformation vs. Strategy's software-to-Bitcoin pivot
+- Compare our market capitalization growth potential to Strategy's 100x increase
+- Evaluate our ability to attract Bitcoin-focused talent and partnerships
+- Analyze our competitive differentiation opportunities vs. maintaining status quo
+
+**Implementation Roadmap Development:**
+- Prioritize highest-impact elements from Strategy's playbook applicable to our situation
+- Identify required infrastructure investments (custody, accounting, legal, communications)
+- Develop phased Bitcoin accumulation approach tailored to our capital access and risk tolerance
+- Create specific metrics for tracking "Bitcoin per share" equivalent and strategic success
+
+Please provide specific, actionable recommendations on whether our company should pursue a Strategy-style Bitcoin transformation, including timeline, resource requirements, and success probability assessment based on our current capabilities versus Strategy's advantages.
+****

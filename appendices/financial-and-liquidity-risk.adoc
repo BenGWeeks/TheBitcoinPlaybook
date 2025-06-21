@@ -37,4 +37,92 @@ However a treasurer still needs to assess his capital resources, how the capital
 Companies need to monitor market liquidity.
 Best crypto-assets offer different derivatives such as future, ETN, ETF, NDF… on top of the physical underlying enabling certain market liquidity pools.
 
-If the companies prefer to deal only with the underlying such as bitcoin, it is recommended to set up an access to various trading platforms and OTC (Over the Counter) brokers to increase the market reach and implied liquidity.  
+If the companies prefer to deal only with the underlying such as bitcoin, it is recommended to set up an access to various trading platforms and OTC (Over the Counter) brokers to increase the market reach and implied liquidity.
+
+== AI Deep Research Prompt: Financial & Liquidity Risk Assessment
+
+Use this comprehensive prompt to conduct deep research into financial and liquidity risks specific to your company's Bitcoin treasury strategy. This follows Michael Saylor's analytical framework for institutional Bitcoin adoption.
+
+=== Primary Research Query
+
+"I am the [your title] at [company name], a [company description] with [$ amount] in treasury assets considering Bitcoin allocation. Conduct a comprehensive financial and liquidity risk assessment for Bitcoin treasury adoption aligned with our corporate financial strategy.
+
+**Company Financial Context:**
+- Current treasury size: [$ amount]
+- Proposed Bitcoin allocation: [$ amount or percentage]
+- Cash flow profile: [seasonal, steady, volatile]
+- Liquidity requirements: [monthly/quarterly needs]
+- Credit facilities and debt covenants: [describe constraints]
+- Financial reporting requirements: [public/private company]
+- Risk tolerance and investment policy: [conservative/moderate/aggressive]
+
+**Specific Financial Analysis Required:**
+
+1. **Bitcoin Volatility Impact Assessment:**
+   - Historical Bitcoin volatility analysis and correlation with traditional assets
+   - Impact of Bitcoin price movements on balance sheet and earnings
+   - Value-at-Risk (VaR) calculations for proposed Bitcoin allocation
+   - Stress testing scenarios (50%/75%/90% Bitcoin price declines)
+   - Correlation analysis with company's core business performance
+
+2. **Liquidity Analysis:**
+   - Bitcoin market depth analysis for position sizes being considered
+   - Time-to-liquidate analysis for various market conditions
+   - Price impact analysis for different liquidation scenarios
+   - Comparison of Bitcoin liquidity vs. traditional treasury instruments
+   - Assessment of Bitcoin as High Quality Liquid Asset (HQLA) equivalent
+
+3. **Treasury Management Integration:**
+   - Impact on existing cash management and forecasting processes
+   - Integration with current investment policy and guidelines
+   - Required changes to treasury operations and systems
+   - Hedging strategies and derivative instruments available
+   - Optimal allocation methodology and rebalancing protocols
+
+4. **Financial Reporting and Accounting:**
+   - Accounting treatment under current standards (GAAP/IFRS)
+   - Impact on financial statement presentation and ratios
+   - Earnings volatility and investor communication strategies
+   - Impairment testing requirements and triggers
+   - Tax implications and optimization strategies
+
+5. **Risk Management Framework:**
+   - Position sizing methodology and concentration limits
+   - Stop-loss and profit-taking strategies
+   - Liquidity management protocols for emergency scenarios
+   - Counterparty risk assessment for exchanges and custodians
+   - Integration with existing enterprise risk management
+
+**Deliverables Needed:**
+- Comprehensive financial risk model with scenario analysis
+- Liquidity management framework and emergency procedures
+- Updated investment policy incorporating Bitcoin guidelines
+- Financial reporting impact analysis and investor communication plan
+- Risk-adjusted return projections and optimization recommendations"
+
+=== Follow-Up Research Queries
+
+After initial analysis, use these focused queries to deepen specific areas:
+
+**Portfolio Optimization Analysis:**
+"Using Modern Portfolio Theory, analyze optimal Bitcoin allocation percentage considering our current treasury composition, return objectives, and risk constraints. Include correlation analysis with existing assets and efficient frontier calculations."
+
+**Liquidity Stress Testing:**
+"Develop comprehensive liquidity stress test scenarios including: market crash conditions, Bitcoin-specific volatility events, operational liquidity needs during crisis, and required liquidation timelines. Model price impact and execution costs."
+
+**Accounting and Tax Strategy:**
+"Analyze Bitcoin accounting treatment optimization including: held-for-investment vs trading classification, impairment trigger management, tax-loss harvesting strategies, and financial statement presentation alternatives."
+
+**Credit and Covenant Analysis:**
+"Assess impact of Bitcoin holdings on existing credit facilities, debt covenants, credit ratings, and banking relationships. Develop communication strategy for lenders and rating agencies."
+
+=== Research Methodology Notes
+
+- Use actual Bitcoin market data for volatility and liquidity analysis
+- Compare Bitcoin liquidity to company's traditional treasury instruments
+- Model realistic position sizes relative to daily Bitcoin trading volumes
+- Consider company-specific cash flow patterns and liquidity needs
+- Analyze precedents from similar companies' Bitcoin adoption
+- Include Monte Carlo simulations for various market scenarios
+- Focus on Bitcoin-only analysis (exclude other cryptocurrencies)
+- Validate assumptions with treasury management best practices  

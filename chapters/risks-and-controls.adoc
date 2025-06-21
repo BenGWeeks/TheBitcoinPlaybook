@@ -269,4 +269,69 @@ However a treasurer still needs to assess his capital resources, how the capital
 Companies need to monitor market liquidity.
 Best crypto-assets offer different derivatives such as future, ETN, ETF, NDF… on top of the physical underlying enabling certain market liquidity pools.
 
-If the companies prefer to deal only with the underlying such as bitcoin, it is recommended to set up an access to various trading platforms and OTC (Over the Counter) brokers to increase the market reach and implied liquidity.  
+If the companies prefer to deal only with the underlying such as bitcoin, it is recommended to set up an access to various trading platforms and OTC (Over the Counter) brokers to increase the market reach and implied liquidity.
+
+=== AI Deep Research Prompt
+
+Michael Saylor advocates for using AI to conduct comprehensive company analysis before making strategic Bitcoin decisions. Use this prompt with your preferred AI assistant to analyze your company's risk management capabilities and control frameworks:
+
+[.ai-prompt]
+****
+*AI Deep Research Prompt for Bitcoin Risk Assessment & Controls*
+
+You are a corporate risk management expert helping a company evaluate its readiness to implement Bitcoin as a treasury asset. Conduct a comprehensive risk assessment analysis based on the COSO Enterprise Risk Management framework and modern corporate governance standards.
+
+**COMPANY CONTEXT:**
+- Company name: [Your Company]
+- Industry: [Industry]
+- Market cap/Annual revenue: [Size]
+- Current treasury assets under management: [Amount]
+- Geographic presence: [Locations]
+- Current risk management framework: [Framework if any]
+
+**ANALYSIS REQUIREMENTS:**
+
+1. **Risk Policy & Governance Assessment**
+   - Evaluate current Board-level risk appetite and governance structures
+   - Assess treasury risk management policies and their adequacy for Bitcoin
+   - Identify gaps in current risk mandate frameworks
+   - Recommend governance modifications needed for Bitcoin adoption
+
+2. **Comprehensive Risk Analysis** (Use COSO framework)
+   For each risk category, provide: Risk Score (1-5), Impact Level, Probability, Rank, and specific mitigants:
+   
+   - **Volatility Risk**: Analyze company's tolerance for Bitcoin's price volatility relative to current treasury holdings
+   - **Security Risk**: Evaluate current cybersecurity maturity and gaps for digital asset custody
+   - **Operational Risk**: Assess staff digital asset literacy and operational complexity readiness
+   - **Technological Risk**: Review IT infrastructure capability for blockchain integration
+   - **Counterparty Risk**: Analyze existing vendor due diligence processes for crypto custodians
+   - **Regulatory/Compliance Risk**: Evaluate current compliance framework adequacy for evolving crypto regulations
+   - **Reputational Risk**: Assess brand impact and stakeholder acceptance of Bitcoin adoption
+   - **Liquidity Risk**: Review current liquidity management practices and Bitcoin liquidity requirements
+
+3. **Control Environment Recommendations**
+   - Map existing internal controls to Bitcoin-specific requirements
+   - Identify new control activities needed (segregation of duties, multi-signature requirements, etc.)
+   - Recommend monitoring and communication protocols
+   - Suggest evaluation and revision cycles for Bitcoin risk management
+
+4. **Implementation Roadmap**
+   - Prioritize risk mitigation activities by impact and complexity
+   - Recommend staff training and expertise development needs
+   - Suggest phased implementation approach based on risk tolerance
+   - Identify external partners and advisors required
+
+5. **Competitive Analysis**
+   - Compare similar companies in your industry who have adopted Bitcoin
+   - Analyze their risk management approaches and lessons learned
+   - Identify industry-specific risk considerations
+
+**OUTPUT FORMAT:**
+- Executive summary with go/no-go recommendation
+- Detailed risk register with scores and mitigation strategies
+- Implementation timeline with key milestones
+- Budget estimates for risk mitigation investments
+- Board presentation outline for risk committee approval
+
+Focus exclusively on Bitcoin (not other cryptocurrencies) and emphasize evidence-based analysis with specific, actionable recommendations tailored to [Your Company]'s risk profile and corporate governance requirements.
+****  

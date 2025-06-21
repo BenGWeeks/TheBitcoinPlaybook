@@ -23,3 +23,82 @@ They need not only to comply with a complex and rapid evolving regulation on cry
 *_Mitigant_*: 
 
 Companies should create a legal and compliance department and check with market authorities that all requirement is filled. Ideally an external legal counsel can be use as an audit or to perform sensitive new activities.
+
+== AI Deep Research Prompt: Regulatory & Compliance Risk Assessment
+
+Use this comprehensive prompt to conduct deep research into regulatory and compliance risks specific to your company's Bitcoin adoption strategy. This follows Michael Saylor's methodical approach to institutional analysis.
+
+=== Primary Research Query
+
+"I am the [your title] at [company name], a [company description] considering Bitcoin treasury adoption. Conduct a comprehensive regulatory and compliance risk assessment for Bitcoin adoption in our specific jurisdiction and industry context.
+
+**Company Context:**
+- Industry: [specify industry]
+- Primary jurisdictions: [list countries/states where you operate]
+- Company structure: [public/private, subsidiaries, etc.]
+- Current regulatory frameworks we operate under: [banking, securities, insurance, etc.]
+- Existing compliance requirements: [SEC, FINRA, banking regulations, etc.]
+
+**Specific Analysis Required:**
+
+1. **Jurisdiction-Specific Bitcoin Regulations:**
+   - Current Bitcoin legal status and regulatory framework in each jurisdiction
+   - Recent regulatory developments and pending legislation
+   - Specific requirements for corporate Bitcoin holdings
+   - Tax implications and reporting requirements
+   - Cross-border transfer and custody regulations
+
+2. **Industry-Specific Compliance Requirements:**
+   - How existing industry regulations apply to Bitcoin holdings
+   - Special considerations for regulated entities (banks, insurance, public companies)
+   - Fiduciary duty implications for Bitcoin adoption
+   - Required disclosures and reporting to regulators
+
+3. **Operational Compliance Framework:**
+   - KYC/AML requirements for Bitcoin transactions
+   - Travel rule compliance for Bitcoin transfers
+   - Required compliance policies and procedures
+   - Internal controls and audit requirements
+   - Staff training and certification needs
+
+4. **Risk Mitigation Strategies:**
+   - Legal structure options for Bitcoin holdings
+   - Compliance monitoring and reporting systems
+   - External legal counsel and compliance advisor requirements
+   - Regulatory engagement and communication strategies
+
+5. **Future Regulatory Scenarios:**
+   - Potential regulatory changes and their timeline
+   - Best-case and worst-case regulatory scenarios
+   - Contingency planning for regulatory changes
+   - Regulatory arbitrage considerations across jurisdictions
+
+**Deliverables Needed:**
+- Comprehensive regulatory risk matrix
+- Jurisdiction-by-jurisdiction compliance requirements
+- Implementation timeline with regulatory milestones
+- Cost analysis of compliance infrastructure
+- Risk mitigation action plan with specific recommendations"
+
+=== Follow-Up Research Queries
+
+After initial analysis, use these focused queries to deepen specific areas:
+
+**Legal Structure Analysis:**
+"Given the regulatory framework identified, analyze optimal legal structures for Bitcoin holdings including: wholly-owned subsidiaries, special purpose vehicles, direct treasury holdings, and trust structures. Consider tax efficiency, regulatory compliance, and operational flexibility."
+
+**Regulatory Engagement Strategy:**
+"Develop a regulatory engagement strategy including: identifying key regulatory contacts, required pre-adoption notifications, ongoing reporting requirements, and proactive compliance communication protocols."
+
+**Compliance Technology Requirements:**
+"Research compliance technology solutions for Bitcoin operations including: transaction monitoring systems, regulatory reporting platforms, audit trail requirements, and integration with existing compliance infrastructure."
+
+=== Research Methodology Notes
+
+- Focus exclusively on Bitcoin (not general cryptocurrency) regulations
+- Prioritize official regulatory sources and legal opinions
+- Include recent enforcement actions and regulatory guidance
+- Consider both federal and local regulatory requirements
+- Analyze precedents from other corporate Bitcoin adopters
+- Consult multiple legal experts for jurisdiction-specific guidance
+- Document all regulatory assumptions and update triggers

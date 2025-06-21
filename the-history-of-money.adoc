@@ -133,5 +133,59 @@ Following a list of countries that have the largest gold reserves in the world.
 
 // Insert diagram
 
+== AI Deep Research Prompt: Historical Monetary Analysis
 
+Use this comprehensive prompt with an AI research assistant to analyze your company's monetary exposure and historical context:
 
+**"I need you to conduct a thorough analysis of monetary history and its implications for my company's treasury strategy. Please provide detailed research and recommendations based on the following information:**
+
+**Company Information:**
+- Company name and industry: [Your company details]
+- Annual revenue: [Amount]
+- Cash and cash equivalents on balance sheet: [Amount]
+- Geographic markets served: [List countries/regions]
+- Primary currencies held: [List currencies and approximate amounts]
+- Debt obligations and currencies: [Details of any debt]
+
+**Historical Monetary Research Request:**
+
+1. **Fiat Currency Analysis:**
+   - Research the historical performance of each currency my company holds over the past 50 years
+   - Calculate the cumulative inflation impact on purchasing power for each currency
+   - Identify periods of significant devaluation and their causes
+   - Compare our primary operating currencies against gold over multiple decades
+
+2. **Currency Risk Assessment:**
+   - Analyze the current monetary policies of central banks for currencies we hold
+   - Research money supply growth rates for each currency over the past 5 years
+   - Identify any signs of monetary instability or policy shifts that could affect our holdings
+   - Calculate potential purchasing power loss over the next decade at current monetary expansion rates
+
+3. **Sound Money Properties Evaluation:**
+   - Evaluate how well our current cash holdings meet the 10 properties of sound money (fungible, portable, durable, divisible, secure, transactable, scarce, uniform, decentralized, acceptable)
+   - Identify specific weaknesses in our current monetary holdings
+   - Research historical examples of companies that successfully protected wealth during monetary crises
+
+4. **Bitcoin as Digital Sound Money:**
+   - Research Bitcoin's performance as a store of value compared to our current currency holdings
+   - Analyze Bitcoin's properties against the traditional requirements of sound money
+   - Examine case studies of companies that have added Bitcoin to their treasury
+   - Calculate potential scenarios for portfolio protection using Bitcoin allocation
+
+5. **Strategic Recommendations:**
+   - Recommend specific percentages of treasury reserves that should be evaluated for Bitcoin allocation
+   - Provide a risk-adjusted framework for monetary diversification
+   - Suggest timeline and implementation strategy for any recommended changes
+   - Include regulatory and accounting considerations for our jurisdiction
+
+**Please structure your response with:**
+- Executive summary with key findings
+- Detailed historical analysis with specific data and charts
+- Risk assessment with quantified scenarios
+- Actionable recommendations with implementation roadmap
+- Regulatory and compliance considerations
+- References to academic research and historical precedents
+
+**Focus exclusively on Bitcoin as the digital asset solution - do not recommend or analyze other cryptocurrencies. Base recommendations on historical monetary data, company fundamentals, and sound money principles discussed in this chapter.**"
+
+This prompt will help you conduct Michael Saylor-style deep research into monetary history and its implications for your specific company's treasury strategy, providing data-driven insights for informed decision-making about Bitcoin adoption.
