@@ -78,7 +78,7 @@ Just like gold, bitcoin is durable, it does not wear off as it exists digitally 
 It does not lose its value over time because of inflation or more money being printed, like the US dollar (a fiat currency), loses its worth every time the Fed prints new dollars.
 Dollars and gold can be counterfeited to some extent but there is almost no chance of counterfeiting bitcoin because of blockchain technology that differentiates and records every transaction on a public ledger.
 
-It is highly transactable and divisible, unlike gold. Bitcoin is scarce, as its mining is limited to only 21 billion bitcoins.
+It is highly transactable and divisible, unlike gold. Bitcoin is scarce, as its mining is limited to only 21 million bitcoins.
 Bitcoins are not issued by any government or entity; users control bitcoin and new bitcoins are released only through mining. 
 The US dollars and gold are centralized, bitcoins exist in a decentralized system where the transactions are recorded in a distributed public ledger.
 Bitcoin is programmable which means it is automatic, flexible, off the grid, and can squeeze to fit into places, where normal money like dollars or gold cannot. 
