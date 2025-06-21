@@ -40,8 +40,6 @@ For companies using Bitcoin, good governance still matters. Holding it securely,
 
 Bitcoin and ESG are not enemies. In fact, when examined fairly, they're often aligned.
 
-- Environmentally, Bitcoin uses a small share of global energy and helps fund new renewable infrastructure.
-- Socially, it brings financial tools to billions of underserved people, enables faster remittances, and protects freedom of transaction.
-- In governance, Bitcoin offers transparency and fairness through decentralized consensus—not corporate opacity.
+Environmentally, Bitcoin uses a small share of global energy and helps fund new renewable infrastructure. Socially, it brings financial tools to billions of underserved people, enables faster remittances, and protects freedom of transaction. In governance, Bitcoin offers transparency and fairness through decentralized consensus—not corporate opacity.
 
 The old ESG frameworks may struggle to classify it. But the emerging picture is clear: Bitcoin is compatible with responsible investing. It's not just a hedge against inflation—it's a bet on energy innovation, financial inclusion, and incorruptible rules.
