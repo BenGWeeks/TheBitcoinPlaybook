@@ -34,65 +34,65 @@ The operating strategy can be divided into two complementary approaches: a Balan
 
 === Conversion of fiat treasury to Bitcoin
 
-On August 11th 2020, MicroStrategy became the first publicly traded company to adopt Bitcoin as a treasury asset, establishing a precedent that has since been followed by numerous other organizations. Today, dozens of publicly traded companies have collectively invested in hundreds of thousands of bitcoins, with MicroStrategy leading the way with over 193,000 BTC. The table below shows major corporate Bitcoin holders as of 2024-2025, with holdings subject to change based on company strategies and market conditions. 
+On August 11th 2020, MicroStrategy became the first publicly traded company to adopt Bitcoin as a treasury asset, establishing a precedent that has since been followed by numerous other organizations. Today, dozens of publicly traded companies have collectively invested in hundreds of thousands of bitcoins, with Strategy (formerly MicroStrategy) leading the way with approximately 580,000 BTC. The table below shows major corporate Bitcoin holders as of 2024-2025, with holdings subject to change based on company strategies and market conditions. 
 
 .Table of companies that purchased Bitcoin
 |===
-|Entity|Country|Exchange Symbol|# of BTC (Approximate)|% of 21m Supply
+|Entity|Country|Exchange Symbol|# of BTC (Approximate)|% of Circulating Supply
 
-|MicroStrategy Inc.
+|Strategy Inc. (formerly MicroStrategy)
 |United States
 |MSTR:NASDAQ
-|193,000+
-|0.92%
+|580,000
+|2.93%
 
 |Tesla Inc.
 |United States
 |TSLA:NASDAQ
 |9,720
-|0.046%
+|0.049%
 
 |Coinbase Global Inc.
 |United States
 |COIN:NASDAQ
 |9,000+
-|0.043%
+|0.045%
 
 |Block Inc. (formerly Square Inc.)
 |United States
 |SQ:NYSE
 |8,027
-|0.038%
+|0.041%
 
 |Marathon Digital Holdings Inc.
 |United States
 |MARA:NASDAQ
 |40,435
-|0.193%
+|0.204%
 
 |CleanSpark Inc.
 |United States
 |CLSK:NASDAQ
 |8,445
-|0.040%
+|0.043%
 
 |Riot Platforms Inc.
 |United States
 |RIOT:NASDAQ
 |9,334
-|0.044%
+|0.047%
 
 |Hut 8 Mining Corp.
 |Canada
 |HUT:NASDAQ
 |9,366
-|0.045%
+|0.047%
 
 |Bitfarms Ltd.
 |Canada
 |BITF:NASDAQ
 |5,707
-|0.027%
+|0.029%
 
 |The Smarter Web Company PLC
 |United Kingdom
@@ -104,7 +104,7 @@ On August 11th 2020, MicroStrategy became the first publicly traded company to a
 |South Korea
 |3659:TYO
 |1,717
-|0.008%
+|0.009%
 
 |MercadoLibre Inc.
 |Argentina
@@ -116,7 +116,7 @@ On August 11th 2020, MicroStrategy became the first publicly traded company to a
 |China
 |1357:HKG
 |941
-|0.004%
+|0.005%
 
 |Argo Blockchain PLC
 |United Kingdom
@@ -128,7 +128,7 @@ On August 11th 2020, MicroStrategy became the first publicly traded company to a
 |United States
 |CORZ:NASDAQ
 |5,769
-|0.027%
+|0.029%
 
 |Cipher Mining Inc.
 |United States
@@ -152,13 +152,13 @@ On August 11th 2020, MicroStrategy became the first publicly traded company to a
 |Canada
 |GLXY:TSX
 |16,400+
-|0.078%
+|0.083%
 
 |Hive Digital Technologies Ltd.
 |Canada
 |HIVE:NASDAQ
 |2,682
-|0.013%
+|0.014%
 
 |Iris Energy Ltd.
 |Australia
@@ -168,7 +168,7 @@ On August 11th 2020, MicroStrategy became the first publicly traded company to a
 
 |===
 
-*Note: Bitcoin holdings are approximate and based on publicly available filings and reports as of 2024-2025. Holdings may change due to purchases, sales, or strategic adjustments. Companies engaged primarily in Bitcoin mining may hold additional operational Bitcoin not reflected in treasury totals.*
+*Note: Bitcoin holdings are approximate and based on publicly available filings and reports as of 2024-2025. Holdings may change due to purchases, sales, or strategic adjustments. Percentages calculated based on current circulating supply of approximately 19.8 million BTC. Companies engaged primarily in Bitcoin mining may hold additional operational Bitcoin not reflected in treasury totals.*
 
 Sources: Company SEC filings, investor relations announcements, and https://www.buybitcoinworldwide.com/treasuries/
 
