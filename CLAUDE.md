@@ -64,6 +64,7 @@ When editing or creating content for The Bitcoin Playbook, maintain the followin
 - **Technical Depth**: Explain crypto concepts progressively - start simple, add complexity as needed
 - **Risk Awareness**: Always acknowledge and address potential risks alongside opportunities
 - **Historical Context**: Use analogies to familiar technologies (e.g., early internet) to build understanding
+- **Audio-Friendly Writing**: Write for both reading and listening - use natural speech patterns, avoid complex nested clauses, and ensure content flows well when read aloud
 
 ### Language Patterns
 - Lead with clear, declarative statements
@@ -71,6 +72,8 @@ When editing or creating content for The Bitcoin Playbook, maintain the followin
 - Avoid hyperbole, speculation, or promises of guaranteed returns
 - Include regulatory disclaimers where appropriate
 - Maintain consistent use of "Bitcoin" (capitalized) and other technical terms
+- Write conversationally but professionally - imagine explaining concepts to an executive in person
+- Use shorter sentences and paragraphs that work well in audio format
 
 ### What to Avoid
 - Colloquialisms or casual language
@@ -80,6 +83,8 @@ When editing or creating content for The Bitcoin Playbook, maintain the followin
 - Technical details that don't serve business decision-making
 - References to altcoins, "crypto" as a general category, or other digital assets
 - Comparisons with other cryptocurrencies (unless explicitly demonstrating Bitcoin's uniqueness)
+- Overly complex sentence structures that become confusing when spoken
+- Dense blocks of text that don't break naturally for audio consumption
 
 ## Useful Resources
 

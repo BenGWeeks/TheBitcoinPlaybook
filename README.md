@@ -48,6 +48,7 @@ To read this book, see [book.adoc](https://github.com/BenGWeeks/TheBitcoinPlaybo
 + Appendix 4: Risk - [Fraud](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/appendices/fraud-risk.adoc)
 + Appendix 5: Risk - [Regulatory & Compliance](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/appendices/regulatory-and-compliance-risk.adoc)
 + Appendix 6: Risk - [Financial & Liquidity](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/appendices/financial-and-liquidity-risk.adoc)
++ Appendix 7: [Bitcoin Readiness Assessment](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/appendices/bitcoin-readiness-assessment.adoc)
 + [Thanks](https://github.com/BenGWeeks/TheBitcoinPlaybook/blob/main/thanks.adoc)
 
 ## Source
