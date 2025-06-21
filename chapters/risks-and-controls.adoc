@@ -1,272 +1,77 @@
 == Risks & Controls
 
-The adoption of Bitcoin as a strategic asset has been gaining popularity in recent years, with many companies recognizing the potential benefits of incorporating this digital currency into their investment portfolios. While the potential rewards of investing in Bitcoin can be substantial, it is important to understand and manage the risks associated with this new asset class.
+Bitcoin adoption as a strategic treasury asset continues to gain momentum. More companies are recognizing the potential benefits of incorporating Bitcoin into their investment portfolios. However, like any significant financial decision, Bitcoin investment requires careful risk management.
 
-*Volatility*: One of the most significant risks associated with Bitcoin is its volatility. The price of Bitcoin can be subject to rapid and significant fluctuations, which can result in substantial losses for investors. To mitigate this risk, companies can implement a comprehensive risk management strategy that includes diversification, hedging, and proper portfolio management.
+The potential rewards can be substantial, but success depends on understanding and properly managing the associated risks. This chapter provides executives with a strategic framework for Bitcoin risk management, while detailed implementation guidance is available in the risk-specific appendices.
 
-For example, companies can diversify their Bitcoin holdings by investing in a range of different cryptocurrencies, or by investing in other asset classes such as stocks, bonds, and real estate. Hedging can be used to reduce the impact of price fluctuations on a company's portfolio by using derivatives or other financial instruments to offset potential losses. Proper portfolio management involves monitoring the overall exposure to Bitcoin and regularly rebalancing the portfolio to ensure that the investment remains in line with the company's risk tolerance and investment objectives.
+=== Risk Policy & Governance
 
-*Security*: Another risk associated with Bitcoin is the potential for cyber attacks and hacking. Bitcoin transactions are stored in a decentralized ledger known as the blockchain, which makes them less susceptible to hacking and fraud. However, exchanges and wallets that store Bitcoins can be vulnerable to cyber attacks, and investors must take steps to ensure the security of their investments.
+Your C-level executives, treasurer, and Board of Directors are responsible for setting the risk policy framework. This policy, sometimes called a risk mandate or risk limit, establishes your organization's acceptable exposure levels for different financial instruments.
 
-This can include implementing strong password protocols, using two-factor authentication, and storing private keys in a secure location. Companies can also consider using multi-sig wallets, which require multiple signatures or approvals before transactions can be executed, or insurance coverage to protect against losses due to theft or hacking.
+When evaluating Bitcoin for treasury functions, consider how it fits with your existing risk profile and operational requirements. This includes daily operations like payments, debt management, fundraising, and facilitating trade, customer interactions, payroll, and cross-border transfers.
 
-*Regulatory Risk*: The regulatory environment for Bitcoin and other cryptocurrencies is still evolving, and changes to regulations could have a significant impact on the price of Bitcoin and the ability to trade it. Companies should stay informed of regulatory developments and take a proactive approach to risk management, including implementing proper compliance procedures and consulting with legal and financial experts.
+=== Risk Management Framework
 
-This can involve staying up-to-date on changes to laws and regulations related to cryptocurrency, such as taxes, reporting requirements, and anti-money laundering regulations. Companies can also consider working with reputable exchanges and brokers that have a strong track record of compliance and follow established best practices in the industry.
+Bitcoin treasury adoption requires robust risk management measures and clearly defined risk tolerance levels. The COSO framework provides an excellent foundation for this work, with particular attention needed around evolving regulations and tax accounting rules for digital assets.
 
-*Operational Risk*: Bitcoin transactions can be complex and difficult to understand for those who are new to the technology. There is also a risk of operational errors, such as mistakes in executing trades or improperly sending transactions. To mitigate these risks, companies should educate themselves about the technology and work with trusted partners and experts to ensure the proper execution of their Bitcoin strategy.
+The COSO Enterprise Risk Management framework^1^ offers a structured approach that works well for Bitcoin risk management:
 
-This can involve investing in training and education for employees, working with experienced Bitcoin traders and consultants, and utilizing secure and user-friendly trading platforms. Companies can also consider conducting regular audits and stress tests to identify and address potential operational risks and ensure the overall stability of their Bitcoin portfolio.
+*Identify Risks*: Start by conducting a comprehensive risk assessment that examines internal and external factors. This includes changes in laws and regulations, economic conditions, and technological developments that could impact your Bitcoin holdings.
 
-In conclusion, adopting a Bitcoin strategy can bring many benefits to a company, but it is important to understand and manage the potential risks associated with investing in this digital currency. A comprehensive risk management strategy should be in place, including diversification, hedging, security measures, regulatory compliance, and proper operational procedures. By properly managing the risks associated with Bitcoin, companies can realize the full potential of this digital currency and enhance their overall financial stability.
+*Assess Risks*: Analyze the probability and potential impact of each identified risk. This analysis helps you prioritize risks and determine where to focus your attention and resources.
 
-=== Risk policy & governance
+*Control Activities*: Implement policies, procedures, and processes to ensure your risk mitigation strategies work effectively. This includes internal controls like segregation of duties and authorization procedures, plus risk management strategies such as insurance and contingency planning.
 
-The C-level, the treasurer, and the Board of Directors of a company are usually respoinsible for setting a risk policy, also called risk mandate or risk limit (being the policy set by an organisation to cap the exposure to certain assets), based on the nature of acceptable financial instruments to be used for treasury functions. Those instruments are assessed in terms of risk profile, daily operation such as payments, debt management, raising funds, and how they can ultimately facilitate trade, customer interaction, payroll, cross border transfers and so on. 
+*Communication and Monitoring*: Establish regular reporting to management and ongoing assessment of your risk mitigation strategies. Regular review of internal controls ensures they continue working effectively.
 
-=== Risk mitigation
+*Evaluation and Revision*: Continuously evaluate your risk mitigation strategies and revise them as needed. This includes regular assessments of the risk environment and analysis of your risk management performance.
 
-// Why do we need to think about risks and mitigations?
-// More introduction needed here and an explanation of COSO5 framework.
-// Also need to explain rank, impact, probability scores.
+=== Bitcoin Investment Risk Overview
 
-While using Bitcoin for treasury seems appealing to more and more companies, the right risk measures need to be put in place, as well as the right risk tolerance levels, for it to be worthwhile pursuing this type of investment. The COSO framework is helpful and a particular attention should be around regulation and tax/accounting rules surrounding digital assets as those two are still evolving.
+Our analysis has identified seven primary risk categories for Bitcoin treasury adoption. These risks are ranked by their combined impact and probability scores:
 
-The COSO (Committee of Sponsoring Organizations of the Treadway Commission)footnote:[Committee of Sponsoring Organizations of the Treadway Commission, Internal Control—Integrated Framework, May 2013, https://i-sight.com/resources/coso-framework-what-it-is-and-how-to-use-it/] Enterprise Risk Management (ERM) framework is a commonly used framework for managing and mitigating risks in organizations. The COSO ERM framework provides a structured approach to identify, assess, and manage risk, and can be used in the context of risk mitigation as follows:
-
-- *Identify Risks*: The first step in the COSO framework is to identify potential risks that may impact an organization. This can be done through a risk assessment process that includes an analysis of internal and external factors, such as changes in laws and regulations, economic conditions, and technological advancements.
-
-- *Assess Risks*: Once potential risks have been identified, the next step is to assess their likelihood and impact. This includes analyzing the probability of each risk occurring and its potential impact on the organization. This information can be used to prioritize risks and determine the level of attention they require.
-
-- *Control Activities*: The COSO framework emphasizes the importance of control activities to mitigate risks. Control activities are policies, procedures, and processes designed to ensure that risk mitigation strategies are executed effectively. These activities can include internal controls, such as segregation of duties and authorization procedures, as well as risk management strategies, such as insurance and contingency planning.
-
-- *Communication and Monitoring*: The COSO framework stresses the importance of effective communication and ongoing monitoring of risks. This includes regular reporting to management, ongoing assessments of risk mitigation strategies, and regular review of internal controls to ensure that they are working effectively.
-
-- *Evaluation and Revision*: The final step in the COSO framework is to evaluate the effectiveness of risk mitigation strategies and revise them as necessary. This includes regular assessments of the risk environment, review of internal controls, and analysis of the performance of risk mitigation strategies.
-
-By using the COSO framework to manage and mitigate risks, organizations can develop a comprehensive risk management strategy that is tailored to their specific needs and goals. This can help organizations to better identify and assess risks, implement effective control activities, communicate and monitor risks effectively, and evaluate and revise their risk management strategies as necessary.
-
-Here are some areas companies may look at:
-
-==== Reputational risk
-
-[cols="1,1,1,1"]
+[cols="3,1,1,1,1,2"]
 |===
-|Risk score
-|Rank
-|Impact
-|Probability
+|Risk Type |Score |Rank |Impact |Probability |Key Concerns
 
-|3/5
-|4th
-|Medium
-|High
+|<<appendix-regulatory,Regulatory & Compliance>> |5/5 |1st |High |High |Evolving regulations, compliance complexity
+|<<appendix-operational,Operational>> |5/5 |2nd |High |Medium |Employee training, process controls
+|<<appendix-technological,Technological>> |4/5 |3rd |Medium |High |Technology failures, security vulnerabilities
+|<<appendix-reputational,Reputational>> |3/5 |4th |Medium |High |Stakeholder perception, brand impact
+|<<appendix-counterparty,Counterparty>> |2/5 |5th |Low |Low |Custody partner defaults
+|<<appendix-fraud,Fraud>> |2/5 |6th |Low |Low |Internal controls, segregation of duties
+|<<appendix-financial,Financial & Liquidity>> |1/5 |7th |Low |Low |Market volatility, liquidity constraints
 |===
 
-*_Description_*:
+*Risk Scoring Legend:* 1/5 = Very Low Risk, 2/5 = Low Risk, 3/5 = Medium Risk, 4/5 = High Risk, 5/5 = Very High Risk. Scores reflect combined assessment of impact severity and probability of occurrence.
 
-Reputational risk corresponds to a threat or danger to standing of a business/entity or to its name.
-There are different type of tokens with some tokens being anonymous or missing proper due diligence and represent a reputational risk.
-The adoption of crypto-assets is still in its infancy and hold a bad reputation due to former money laundering activities and excessive electric consumption making them a none eco-friendly investment.
+*Regulatory and Compliance Risk* represents the highest priority concern. The evolving regulatory landscape requires companies to navigate complex, rapidly changing requirements across multiple jurisdictions. Companies must establish robust compliance frameworks and stay current with regulatory developments.
 
-While regulations across the world are in the making, they are still unclear. 
-Crypto-assets are considered most of the time as part of none financial risks and hold a reputational risk when using them as treasury tools for the above mentioned elements.
+*Operational Risk* ranks second due to the complexity of Bitcoin technology and the need for specialized expertise. Employee training, process controls, and governance structures are critical for successful implementation.
 
-*_Mitigants_*:
+*Technological Risk* reflects the potential for technology failures, security incidents, and technical vulnerabilities. While Bitcoin's underlying blockchain has proven resilient, companies must address various technical considerations.
 
-The companies should assess the impact to its current reputation relatively to the rest of its activity.
-It is also necessary to maintain a good investor relationship and transparency with crypto-assets.
-A company could limit itself to best known token such as Bitcoin or Ether.
+*Reputational Risk* involves stakeholder perception and potential brand impact from Bitcoin adoption. Companies should carefully consider their stakeholder communication strategy.
 
-==== Operational risk
+*Counterparty Risk* primarily relates to custody arrangements and third-party service providers. This risk can be managed through careful vendor selection and diversification strategies.
 
-[cols="1,1,1,1"]
-|===
-|Risk score
-|Rank
-|Impact
-|Probability
+*Fraud Risk* involves internal controls and segregation of duties. Standard corporate governance practices help mitigate these concerns.
 
-|5/5
-|2nd
-|High
-|Medium
-|===
+*Financial and Liquidity Risk* includes market volatility and liquidity considerations. While Bitcoin can be volatile, proper portfolio management and risk sizing can address these concerns.
 
-*_Description_*:
+=== Implementation Guidance
 
-Operational risk summarizes the uncertainties and hazards a company faces when it attempts to do its day-to-day business activities within a given field or industry.
-The crypto related services are often offered by startups with lower standards than financial institutions creating various operational risks and fraud.
-Therefore crypto transfers and custody create some operational risks.
-This is especially true as blockchain is a new technology with a certain technical complexity.
-Employees have often a digital assets illiteracy driving them to mistakes. 
-Another risk is the lack of resilience of the system and the services can be unavailable for several hours creating an operational risk.
-Last but not least, other department such as audit committee need also to be trained to identify and assess risks in a proper manner.
+For detailed analysis, mitigation strategies, and implementation checklists for each risk category, refer to the corresponding appendices. Each appendix provides comprehensive guidance tailored for operational teams and risk management professionals.
 
-*_Mitigants_*:
+The appendices include:
+- <<appendix-regulatory,Regulatory & Compliance Risk>> - Detailed compliance frameworks and regulatory guidance
+- <<appendix-operational,Operational Risk>> - Implementation phases, training programs, and process controls
+- <<appendix-technological,Technological Risk>> - Security architecture and technical safeguards
+- <<appendix-reputational,Reputational Risk>> - Stakeholder communication strategies and brand management
+- Additional risk appendices with specific mitigation strategies and monitoring procedures
 
-Some control environment needs to be put in place.
-For instance, the company could employ additional employees with digital assets experience and use external auditors.
-Another good practice is to set a new product committee and define the policies/procedures to be followed.  
+This layered approach ensures executives have the strategic overview needed for decision-making, while implementation teams have the detailed guidance required for successful execution.
 
-==== Technological risk
+---
 
-[cols="1,1,1,1"]
-|===
-|Risk score
-|Rank
-|Impact
-|Probability
-
-|4/5
-|3rd
-|Medium
-|High
-|===
-
-*_Description_*:
-
-Technology risk is any potential for technology failures to disrupt the company business such as information security incidents or service outages. 
-There are different underlying blockchains supporting different crypto-assets.
-This has an impact in term of decentralisation of governance, resilience of the blockchain and its operating model / consensus mechanism.
-Specific IT practices need to be in place to address data management and data privacy.
-
-_Decentralisation of governance_: Public blockchains are usually decentralized by nature.
-However certain blockchain/protocol use governance tokens for decision making, and we saw some attempts to buy/loan those governance token (via flash loans) in an attempt to influence the voting/governance.
-
-_Resilience of the blockchain_: For instance, Ethereum had multiple outages in the past due to congestion of its blockchain related to DeFi transaction around CryptoKitties or DeFi protocols.
-It tranlasted in service being unavailable for hours.
-
-_Consensus mechanism_: For instance, Bitcoin is decentralized by design but the four biggest miners involved in Bitcoin proof of work mechanism represents more than 50% of the hash power of all the minors. In other terms, if they were to collude, they could maliciously manipulate the ledger. 
-
-_Fork_: In the past Blockchain saw a duplication of its blockchain, called forking, implying a division of its community. It was the case with Bitcoin and Bitcoin cash.
-
-_Other technical risks_: blockchain involved other type of attacks such as DDOS attack, 51% attack, Sybille attack on a node… not to mention the risk of seeing its wallet being hacked or just losing the private key (an equivalent of losing a pincode of its wallet)
-
-*_Mitigants_*:
-
-Overall, we recommend well established blockchain such as Bitcoin with clear governance and proven resilience as Bitcoin blockchain has never been hacked or down since its inception.
-Having tech savvy employee is also a must and/or companies should involve external consultants.
-
-==== Counterparty risk (Custody)
-
-[cols="1,1,1,1"]
-|===
-|Risk score
-|Rank
-|Impact
-|Probability
-
-|2/5
-|5th
-|Low
-|Low
-|===
-
-*_Description_*:
-
-Counterparty risk is the likelihood or probability that one of those involved in a transaction might default on its contractual obligation.
-A company is usually facing a counterparty in the presence of custodian/exchange which is taking care of the wallet or holding the assets on its behalf. 
-In fact, companies have to choose between self-custody, meaning handling their wallets and private keys themselves to safekeep their digital assets or use a third party to do it. Both solutions hold technical risks (hacking, hard fork, loss of keys…) but the custodial approach, although operationally safer, presents a counterparty risk in case this intermediary defaults. 
-
-On top of checking the credit risk of this intermediary, it is also necessary to verify that transactions are processed in a properly controlled manner.
-
-*_Mitigant_*: 
-
-A new approach of decentralized cutody is now available thank to MPC (Multi Parties Computation). The company is controlling its own wallet but the management of the private key is split beween several actors reducing the counterparty risk.
-In case of a centralized custody/exchange, the company should prefer a reputable party, secured by SOC 2 certification and ideally insured against theft.
-
-==== Risk of Fraud
-
-[cols="1,1,1,1"]
-|===
-|Risk score
-|Rank
-|Impact
-|Probability
-
-|2/5
-|6th
-|Low
-|Low
-|===
-
-*_Description_*:
-
-Risk of Fraud involves deceit with the intention to illegally or unethically gain at the expense of another. When one person is given the sole responsibility of two conflicting tasks the risk of fraud increases. 
-The company needs to setup appropriate segregation of duties internally as well as among its partners in order to dispose of additional points of control. Having more than one person who carries out sensitive tasks (such as transfer of crypto-assets, management of private keys) reduces this risk.
-Additionally, employees in startups are seldom screened causing sometimes a favorable environment for fraud due to conflict of interest and lack of ethics.  
-
-*_Mitigant_*: 
-
-Persons involved in execution, should be different than persons involved in custody.
-Access to sensitive information or sensitives actions should follow the for 4 eyes principle (if not 6 eyes principle) meaning that different persons without a chance of colluding are performing together the same sensitive tasks. For instance to issue the master key of a wallet.
-
-All the employees should be screened as much as possible.
-
-==== Regulatory/compliance risk (AML rules requirements)
-
-[cols="1,1,1,1"]
-|===
-|Risk score
-|Rank
-|Impact
-|Probability
-
-|5/5
-|1st
-|High
-|High
-
-|===
-
-*_Description_*:
-
-Regulatory risk is the risk that a lack of / change in laws and regulations will materially impact a security, business, sector, or market.
-Companies are facing a newly formed industry still largely unregulated or at least with grey areas.
-They need not only to comply with a complex and rapid evolving regulation on crypto-assets but make sure the exchange and custodian they use abide by all appropriate laws and regulations. For instance, in order to fight against money laundering (AML: Anti Money Laundering), crypto transfers need to follow the recommendation 16 from FATF (Financial Action Task Force), also called the travel rule, to check the identity of the sender and receiver while using KYC (Know-Your-Customer). There are also a set of accounting and reporting standards to regulators that need to be set up. Generally speaking, the US companies should comply with SEC securities laws, Bank Secrecy Act, Foreign Account Tax Compliance Act and General Data Protection Legislation.In the UK, the market authorities are FCA (Financial Conduct Authority) who is responsible for ensuring crypto companies' compliance with laws. In Europe, there is no homogeneous regulation until the issuance of MiCA (Market in Crypto Assets) which is expected by 2023. Activities are supervised by local market authorities were the service is offered.
-
-*_Mitigant_*: 
-
-Companies should create a legal and compliance department and check with market authorities that all requirement is filled. Ideally an external legal counsel can be use as an audit or to perform sensitive new activities.
-
-==== Financial / market liquidity risk
-
-[cols="1,1,1,1"]
-|===
-|Risk score
-|Rank
-|Impact
-|Probability
-
-|1/5
-|7th
-|Low
-|Low
-
-|===
-
-*_Description_*:
-
-Financial risk is the possibility of losing money on an investment or business venture.
-Most of crypto-assets have no intrasec value such as bitcoin, as they are not backed by any gold or silver.
-But some crypto-assets like Ethereum could have an intrasec value linked to the value created by the blockchain in term of use cases (DApps, DeFi….).
-Companies using crypto-assets in their balance sheet run the risk of a write off with 100% losses.
-
-Market or asset liquidity risk is asset illiquid, meaning the inability to easily exit a position.
-This potentially implies a shift in the market price upon the deepness of the market.
-
-Liquidity varies upon the crypto-assets with Bitcoin offering the best liquidity.
-
-Liquidity is not necessarily an issue if bitcoins represent a long term investment.
-Having said that, it is still necessary for a treasurer to demonstrate that cryptocurrencies are equivalent to HQLA (High Quality Liquid Asset).
-For this reason, the purchase of 1.5 billion of Bitcoin in February 2021 by Tesla was followed by a sale of 10% of its wallet in Q2 to showcase the market conditions and quantify any premium penalty relative to its liquidity.
-This exercise was proven successful as the order was filled without significant market move.
-However a treasurer still needs to assess his capital resources, how the capital is preserved and have an appropriate provision for extra cash on hand to face any urgent need or potential depreciation of the assets’ value while liquidating his position.
-
-*_Mitigant_*: 
-
-Companies need to monitor market liquidity.
-Best crypto-assets offer different derivatives such as future, ETN, ETF, NDF… on top of the physical underlying enabling certain market liquidity pools.
-
-If the companies prefer to deal only with the underlying such as bitcoin, it is recommended to set up an access to various trading platforms and OTC (Over the Counter) brokers to increase the market reach and implied liquidity.  
+^1^ Committee of Sponsoring Organizations of the Treadway Commission, Internal Control—Integrated Framework, May 2013, https://i-sight.com/resources/coso-framework-what-it-is-and-how-to-use-it/
