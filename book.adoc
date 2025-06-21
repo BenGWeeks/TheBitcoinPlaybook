@@ -16,6 +16,7 @@ include::cbdcs.adoc[]
 
 include::chapters/strategic-opportunity.adoc[]
 
+
 include::chapters/risks-and-controls.adoc[]
 
 include::chapters/vendors-and-partners.adoc[]
@@ -53,5 +54,7 @@ include::appendices/regulatory-and-compliance-risk.adoc[]
 include::appendices/financial-and-liquidity-risk.adoc[]
 
 include::appendices/technological-risk.adoc[]
+
+include::appendices/bitcoin-readiness-assessment.adoc[]
 
 include::thanks.adoc[]
