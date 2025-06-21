@@ -14,7 +14,7 @@ When evaluating Bitcoin for treasury functions, consider how it fits with your e
 
 Bitcoin treasury adoption requires robust risk management measures and clearly defined risk tolerance levels. The COSO framework provides an excellent foundation for this work, with particular attention needed around evolving regulations and tax accounting rules for digital assets.
 
-The COSO Enterprise Risk Management frameworkfootnote:[Committee of Sponsoring Organizations of the Treadway Commission, Internal Control—Integrated Framework, May 2013, https://i-sight.com/resources/coso-framework-what-it-is-and-how-to-use-it/] offers a structured approach that works well for Bitcoin risk management:
+The COSO Enterprise Risk Management framework^1^ offers a structured approach that works well for Bitcoin risk management:
 
 *Identify Risks*: Start by conducting a comprehensive risk assessment that examines internal and external factors. This includes changes in laws and regulations, economic conditions, and technological developments that could impact your Bitcoin holdings.
 
@@ -43,6 +43,8 @@ Our analysis has identified seven primary risk categories for Bitcoin treasury a
 |<<appendix-financial,Financial & Liquidity>> |1/5 |7th |Low |Low |Market volatility, liquidity constraints
 |===
 
+*Risk Scoring Legend:* 1/5 = Very Low Risk, 2/5 = Low Risk, 3/5 = Medium Risk, 4/5 = High Risk, 5/5 = Very High Risk. Scores reflect combined assessment of impact severity and probability of occurrence.
+
 *Regulatory and Compliance Risk* represents the highest priority concern. The evolving regulatory landscape requires companies to navigate complex, rapidly changing requirements across multiple jurisdictions. Companies must establish robust compliance frameworks and stay current with regulatory developments.
 
 *Operational Risk* ranks second due to the complexity of Bitcoin technology and the need for specialized expertise. Employee training, process controls, and governance structures are critical for successful implementation.
@@ -62,9 +64,14 @@ Our analysis has identified seven primary risk categories for Bitcoin treasury a
 For detailed analysis, mitigation strategies, and implementation checklists for each risk category, refer to the corresponding appendices. Each appendix provides comprehensive guidance tailored for operational teams and risk management professionals.
 
 The appendices include:
-- Detailed risk assessments and business impact analysis
-- Specific mitigation strategies and control recommendations
-- Implementation checklists and monitoring procedures
-- Real-world examples and case studies where relevant
+- <<appendix-regulatory,Regulatory & Compliance Risk>> - Detailed compliance frameworks and regulatory guidance
+- <<appendix-operational,Operational Risk>> - Implementation phases, training programs, and process controls
+- <<appendix-technological,Technological Risk>> - Security architecture and technical safeguards
+- <<appendix-reputational,Reputational Risk>> - Stakeholder communication strategies and brand management
+- Additional risk appendices with specific mitigation strategies and monitoring procedures
 
 This layered approach ensures executives have the strategic overview needed for decision-making, while implementation teams have the detailed guidance required for successful execution.
+
+---
+
+^1^ Committee of Sponsoring Organizations of the Treadway Commission, Internal Control—Integrated Framework, May 2013, https://i-sight.com/resources/coso-framework-what-it-is-and-how-to-use-it/
