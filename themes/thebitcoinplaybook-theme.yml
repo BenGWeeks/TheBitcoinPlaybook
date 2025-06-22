@@ -1,8 +1,8 @@
 extends: default
 
 labels:
-  chapter: Chapter
-  appendix: Appendix
+  chapter: Step
+  appendix: Resource
 
 page:
   size: [6in, 9in]
