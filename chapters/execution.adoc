@@ -1,10 +1,10 @@
 == Execution
 
-The execution phase is where a bold Bitcoin strategy comes to life. It's the bridge between planning and reality, requiring precision, prudence, and sometimes nerves of steel. In this chapter, we explore how pioneering companies navigated their Bitcoin treasury implementations and provide a roadmap for executing your own strategy in a smooth, story-like fashion. From high-profile case studies to the nitty-gritty of vendor selection, internal preparedness, and managing holdings after the buy, this is a narrative guide to *getting it right*.
+The execution phase is where a bold Bitcoin strategy comes to life. It's the bridge between planning and reality, requiring precision, prudence, and disciplined risk management. In this chapter, we explore how pioneering companies navigated their Bitcoin treasury implementations and provide a roadmap for executing your own strategy in a smooth, story-like fashion. From high-profile case studies to the nitty-gritty of vendor selection, internal preparedness, and managing holdings after the buy, this is a narrative guide to *getting it right*.
 
 === Learning from the Pioneers: MicroStrategy and Tesla
 
-In August 2020, the boardroom of MicroStrategy buzzed with an unprecedented decision. CEO Michael Saylor had convinced his directors that the company's $500 million cash treasury was losing value to inflation. The result was a *historic purchase*: 21,454 bitcoins (about $250 million worth) acquired as the company's new primary reserve asset. This initial move – executed quietly over days to avoid spooking the market – marked the first time a publicly traded firm *bet its balance sheet on Bitcoin*.
+In August 2020, MicroStrategy's board of directors faced an unprecedented decision. CEO Michael Saylor had convinced his directors that the company's $500 million cash treasury was losing value to inflation. The result was a *historic purchase*: 21,454 bitcoins (about $250 million worth) acquired as the company's new primary reserve asset. This initial move – executed quietly over days to avoid spooking the market – marked the first time a publicly traded firm *bet its balance sheet on Bitcoin*.
 
 MicroStrategy didn't stop there. Over the next months and years, it continued to *accumulate Bitcoin aggressively*, using every tool at its disposal (including issuing new equity and convertible notes) to raise funds for more purchases. By 2025, MicroStrategy had amassed well over 100,000 BTC on its balance sheet, effectively transforming from a business-intelligence software company into a hybrid software and Bitcoin holding company.
 
@@ -12,7 +12,7 @@ Contrast this with Tesla's journey. In early 2021, Elon Musk's Tesla – a much 
 
 Tesla's move was bold and _public_; the disclosure came via an SEC filing that also announced the company might soon accept Bitcoin for car purchases. Yet Tesla's approach to holding Bitcoin was more conservative than MicroStrategy's. A few months after buying in, Tesla sold about 10% of its Bitcoin to "test liquidity," netting a small profit and proving that it could convert crypto back to cash easily. Later, amid economic uncertainty, Tesla elected to trim a substantial portion of its position to manage risk, leaving a more modest stash on its books.
 
-In the *"tale of two treasuries,"* MicroStrategy showed _diamond hands_ – retaining all its bitcoins through volatile swings – whereas Tesla demonstrated _pragmatism_, cashing out part of its holdings when needed.
+In the *"tale of two treasuries,"* MicroStrategy demonstrated *unwavering commitment* – retaining all its bitcoins through volatile swings – whereas Tesla demonstrated *strategic flexibility*, cashing out part of its holdings when needed.
 
 These two pioneers illustrate the spectrum of execution strategies. A high-reward strategy can just as easily become a high-risk one if the investment is too large relative to the business. Timing and execution matter too. Above all, MicroStrategy and Tesla taught the world that adding Bitcoin to a corporate treasury is _entirely feasible_ – but the *degree* and *manner* of execution must align with a company's profile and risk tolerance.
 
@@ -36,9 +36,9 @@ With a strategy approved and a decision made to buy Bitcoin, the next question i
 
 ==== Execution of the Buy
 
-When purchasing a large amount of Bitcoin, _how you buy matters immensely_. Attempting to buy tens of millions of dollars worth of BTC on a regular retail exchange account can result in slippage.
+When purchasing a large amount of Bitcoin, *how you buy matters immensely*. Attempting to buy tens of millions of dollars worth of BTC on a regular retail exchange account can result in significant slippage and market impact.
 
-That's why companies usually turn to *institutional trading desks or OTC (over-the-counter) brokers*. These specialized desks can execute big trades efficiently and discreetly. For instance, when MicroStrategy made its initial $250 million purchase, it worked with Coinbase's institutional arm (Coinbase Prime) to *quietly accumulate Bitcoin over several days*, using smart algorithms like TWAP.
+For purchases exceeding $1-5 million, companies typically turn to *institutional trading desks or OTC (over-the-counter) brokers*. These specialized desks can execute big trades efficiently and discreetly without moving the market. For instance, when MicroStrategy made its initial $250 million purchase, it worked with Coinbase's institutional arm (Coinbase Prime) to *quietly accumulate Bitcoin over several days*, using smart algorithms like TWAP (Time-Weighted Average Price) to minimize market impact.
 
 Tesla's $1.5 billion buy was similarly executed via Coinbase's OTC desk.
 
@@ -66,9 +66,15 @@ Even with great partners, a Bitcoin treasury initiative can falter if your *orga
 
 ==== Stakeholder Alignment and Approvals
 
-Identify key stakeholders early – from board members to treasury analysts. Present a detailed plan covering strategy, scale, risk, and execution. MicroStrategy held board sessions to ensure buy-in. Tesla changed its investment policy before buying.
+Identify key stakeholders early – from board members to treasury analysts. Present a detailed plan covering strategy, scale, risk, and execution. Structure your presentation to include:
 
-Training sessions and internal briefings are essential. Consider appointing a Bitcoin champion internally.
+* Executive summary of the Bitcoin investment thesis
+* Detailed risk assessment and mitigation strategies
+* Implementation timeline and resource requirements
+* Governance framework and approval processes
+* Success metrics and reporting protocols
+
+MicroStrategy held multiple board sessions to ensure buy-in. Tesla formally amended its investment policy before proceeding. Training sessions and internal briefings are essential. Consider appointing a dedicated Bitcoin champion internally to coordinate the initiative and serve as the primary point of contact.
 
 ==== Policies and Procedures
 
@@ -78,7 +84,7 @@ Create standard operating procedures for executing transactions. Dry runs can be
 
 ==== Accounting and Compliance
 
-Prepare your finance team. Bitcoin has required impairment-based accounting treatment under GAAP, but *from 2025*, FASB rules allow fair value accounting. This means gains and losses can now be reflected quarterly.
+Prepare your finance team. Bitcoin has required impairment-based accounting treatment under GAAP, but *from 2025*, FASB rules provide the *option* for fair value accounting. Companies may now elect to reflect gains and losses quarterly, though this remains a policy choice rather than a requirement.
 
 Involve your auditors early. Also ensure your legal team prepares disclosures (especially if you're public) and clarifies tax implications.
 
@@ -120,4 +126,4 @@ Executing a Bitcoin strategy isn't just about the buy. It's a long-term commitme
 
 Tesla and MicroStrategy proved that Bitcoin can fit on a corporate balance sheet. But they also showed the importance of execution. The best strategies falter with poor execution. With strong foundations, sound vendors, clear governance, and engaged teams, your company can convert ambition into resilient action.
 
-Welcome to the other side of the orange coin.
+Your company is now positioned to execute a disciplined Bitcoin treasury strategy that balances opportunity with prudent risk management.
